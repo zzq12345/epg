@@ -1,31 +1,18 @@
-name: sync2gitee
-
+name: Sync to Gitee
 on:
   push:
-  workflow_dispatch:
-
+    paths:
+      - "epg.xml"  # 仅监听 epg.xml 文件的变更
 jobs:
-  run:
-    name: Sync GitHub to Gitee
+  sync:
     runs-on: ubuntu-latest
     steps:
-
-      - name: Get current repository name
-        id: info
-        uses: actions/github-script@v3.1
-        with:
-          github-token: ${{secrets.GH_TOKEN}}
-          result-encoding: string
-          script: |
-            return context.repo.repo;
-
-      - name: Mirror the GitHub repos to Gitee
-        uses: Yikun/hub-mirror-action@master
-        with:
-          src: github/zzq12345
-          dst: gitee/zzq12345
-          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
-          dst_token: ${{ secrets.GITEE_TOKEN }}
-          static_list: '${{ steps.info.outputs.result }}'
-          account_type: user
-          force_update: true
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Sync to Gitee
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add epg.xml  # 仅添加目标文件
+          git commit -m "Sync epg.xml to Gitee"
+          git push https://${{ secrets.GITEE_TOKEN }}@gitee.com/zzq12345/epg.git main  # 推送至 Gitee
