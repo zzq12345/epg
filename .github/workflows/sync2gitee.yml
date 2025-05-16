@@ -1,18 +1,65 @@
-name: Sync to Gitee
+name: sync2gitee
+
 on:
   push:
-    paths:
-      - "epg.xml"  # 仅监听 epg.xml 文件的变更
+  workflow_dispatch:
+  repository_dispatch:
+    types: [sync]
+
 jobs:
-  sync:
+  run:
+    name: Sync GitHub to Gitee
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-      - name: Sync to Gitee
+      # Step 1: Clone GitHub repository
+      - name: Clone the GitHub repo
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add epg.xml  # 仅添加目标文件
-          git commit -m "Sync epg.xml to Gitee"
-          git push https://${{ secrets.GITEE_TOKEN }}@gitee.com/zzq12345/epg.git main  # 推送至 Gitee
+          git clone --depth 1 https://github.com/${{ github.repository }} github-repo
+
+      # Step 2: Clone Gitee repository
+      - name: Clone the Gitee repo with retry
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.GITEE_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan gitee.com >> ~/.ssh/known_hosts
+
+          for i in {1..5}; do
+            git clone git@gitee.com:zzq12345/tv.git gitee-repo && break
+            echo "第 $i 次克隆失败，重试中..."
+            sleep 5
+          done
+
+      # Step 3: Run filter-repo to optimize storage
+      - name: Run filter-repo
+        run: |
+          sudo apt install git-filter-repo
+          cd gitee-repo
+          git filter-repo --path tvepg/ --invert-paths
+          
+      # Step 4: Replace Gitee repo files with GitHub repo files
+      - name: Copy files from GitHub to Gitee
+        run: |
+          rm -rf gitee-repo/*
+          mkdir -p gitee-repo/epg/
+          cp -r github-repo/epg/*.gz gitee-repo/tvepg/
+          cp github-repo/README.md gitee-repo/
+
+      # Step 5: Commit and push changes to Gitee
+      - name: Commit and push changes to Gitee
+        run: |
+          cd gitee-repo
+          rm -rf .git
+          git init
+          git config --global user.name "${{ secrets.GITEE_USER_NAME }}"
+          git config --global user.email "${{ secrets.GITEE_USER_EMAIL }}"
+          git remote add origin git@gitee.com:zzq12345/tv.git
+          git add .
+          if ! git diff --cached --quiet; then
+            now_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
+            git commit -m "同步 GitHub 更新：$now_time"
+            git checkout -b main || echo "main 分支已存在"
+            git push --force origin main || echo "推送到 Gitee 失败"
+          else
+            echo "没有文件可提交"
+          fi
