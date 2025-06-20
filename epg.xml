@@ -3363,9 +3363,237 @@
     <title lang="zh">申康科普直播间｜聚焦不孕症：精子、卵子与胚胎发育缺陷的医学探索</title>
     <desc lang="zh">申康科普直播间｜聚焦不孕症：精子、卵子与胚胎发育缺陷的医学探索 </desc>
   </programme>
+  <programme start="20250622190000 +0800" stop="20250622193000 +0800" channel="看看新聞直播">
+    <title lang="zh">名医话养生｜紧跟节气来养生 夏至保健莫轻视</title>
+    <desc lang="zh">名医话养生｜紧跟节气来养生 夏至保健莫轻视 </desc>
+  </programme>
   <programme start="20250625140000 +0800" stop="20250625143000 +0800" channel="看看新聞直播">
     <title lang="zh">上海东方艺术中心二十周年发布盛典</title>
     <desc lang="zh">上海东方艺术中心二十周年发布盛典 </desc>
+  </programme>
+  <programme start="20250621130000 +0800" stop="20250621140000 +0800" channel="第一財經直播">
+    <title lang="zh">智启创新 投领未来丨汇正财经2025年中策略会</title>
+    <desc lang="zh"> 面对复杂环境，我国经济稳中有进，科技产业高质量发展，投资者预期改善，市场活跃。2025年内，科技行业（如DeepSeek）蓬勃发展引领市场。展望下半年，经济回升向好、长期向好的趋势不变，前瞻部署是关键。科技新动力将聚焦何方？汇正财经2025年中策略会汇聚专业人士，聚焦宏观大局与科技创新，多维分析市场，深入探讨下半年投资机遇。</desc>
+  </programme>
+  <programme start="20250620150000 +0800" stop="20250620160000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 | 安井食品2024年度暨2025年第一季度业绩说明会</title>
+    <desc lang="zh"> 安井食品2024年度暨2025年第一季度业绩说明会</desc>
+  </programme>
+  <programme start="20250620140000 +0800" stop="20250620150000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 | 2024年度沪市主板乐享生活专题集体业绩说明会</title>
+    <desc lang="zh"> 2024年度沪市主板乐享生活专题集体业绩说明会</desc>
+  </programme>
+  <programme start="20250620133000 +0800" stop="20250620143000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 | 元利科技2024年度暨2025年第一季度业绩说明会</title>
+    <desc lang="zh"> 元利科技2024年度暨2025年第一季度业绩说明会</desc>
+  </programme>
+  <programme start="20250620100000 +0800" stop="20250620110000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 | 中国电影2024年度业绩说明会</title>
+    <desc lang="zh"> 中国电影2024年度业绩说明会</desc>
+  </programme>
+  <programme start="20250619200000 +0800" stop="20250619210000 +0800" channel="第一財經直播">
+    <title lang="zh">解财报丨“苏超”火出圈​ 赛事文旅掀热潮​ 跨界融合如何激活消费新蓝海？</title>
+    <desc lang="zh"> “苏超”的出圈，成为体育赛事拉动区域文旅消费的又一生动注脚，向人们展示了二者融合所产生的1+1＞2效应。“苏超”通过将体育赛事与地方文化深度结合，成功转化为文旅消费引擎，形成“跟着赛事去旅行”的新模式。6月17日-19日《解财报》连续三天聚焦“苏超效应”下的投资风口，带您抢占赛事经济新蓝海！6月19日晚20:00第三期，我们聚焦“苏超”带动的文旅消费新蓝海，探讨相关概念股的投资机会。敬请关注！</desc>
+  </programme>
+  <programme start="20250619150000 +0800" stop="20250619160000 +0800" channel="第一財經直播">
+    <title lang="zh">一线发布丨商务部召开6月第3次例行新闻发布会</title>
+    <desc lang="zh"> 商务部召开新闻发布会，新闻发言人介绍近期商务领域重点工作有关情况，并答记者问。</desc>
+  </programme>
+  <programme start="20250619140000 +0800" stop="20250619150000 +0800" channel="第一財經直播">
+    <title lang="zh">直播丨餐饮品牌管理层精研会，深度洞察餐饮消费行业趋势</title>
+    <desc lang="zh"> 餐饮品牌管理层精研会特邀第一财经大消费特约观察员唐健盛先生，深入剖析《餐饮消费洞察2025》。他将深度解读消费者行为模式，洞察行业发展趋势，助力品牌精准提炼核心价值与竞争优势。此外，还邀请到新一线城市研究所商业咨询总监张鼎，分享对新一线城市消费新场景的独到见解。</desc>
+  </programme>
+  <programme start="20250618200000 +0800" stop="20250618210000 +0800" channel="第一財經直播">
+    <title lang="zh">解财报丨“苏超”火出圈 赞助商数量激增 文体IP能否实现长效破圈？</title>
+    <desc lang="zh"> “苏超”（江苏省城市足球联赛）联赛以日均1.5万现场观众、10亿次抖音话题播放量的惊人数据，成为现象级体育IP。一个月的时间，“苏超”的赞助市场正发生巨变。从第一轮时仅有6家赛事赞助商到目前20家赞助商，意味着这个区域赛事IP的商业价值的大幅提升。究竟资本是押注未来还是击鼓传花？文体IP能否实现长效破圈？6月17日-19日《解财报》将连续三天聚焦“苏超效应”下的投资风口，带您抢占赛事经济新蓝海！6月18日晚20:00第二期，我们聚焦赛事营销和品牌赞助，探讨相关概念股的投资机会。敬请关注！</desc>
+  </programme>
+  <programme start="20250618160000 +0800" stop="20250618170000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 | 鄂尔多斯2024年度业绩说明会</title>
+    <desc lang="zh"> 鄂尔多斯2024年度业绩说明会</desc>
+  </programme>
+  <programme start="20250618150000 +0800" stop="20250618160000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 | 阳煤化工2024年度业绩说明会</title>
+    <desc lang="zh"> 阳煤化工2024年度业绩说明会</desc>
+  </programme>
+  <programme start="20250618133000 +0800" stop="20250618143000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 | 康恩贝2024年度暨2025年第一季度业绩说明会</title>
+    <desc lang="zh"> 康恩贝2024年度暨2025年第一季度业绩说明会</desc>
+  </programme>
+  <programme start="20250618103000 +0800" stop="20250618113000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 |  飞科电器2024年度暨2025年第一季度业绩说明会</title>
+    <desc lang="zh"> 飞科电器2024年度暨2025年第一季度业绩说明会</desc>
+  </programme>
+  <programme start="20250617200000 +0800" stop="20250617210000 +0800" channel="第一財經直播">
+    <title lang="zh">解财报丨“苏超”火出圈 产业链狂欢能持续多久？</title>
+    <desc lang="zh"> 一个足球，点燃江苏十三城的激情！“苏超”（江苏省城市足球联赛）联赛火爆出圈，不仅场均观众超1.5万，一票难求！还带动体育产业相关股票大涨。这场全民狂欢背后，隐藏着怎样的投资机遇？从场馆智能改造到人造草坪需求激增，从赛事装备升级到文旅消费爆发，体育产业正迎来黄金赛道。6月17日-19日《解财报》将连续三天聚焦“苏超效应”下的投资风口，带您抢占赛事经济新蓝海！6月17日晚20:00第一期，我们先从涨势如虹的体育器材与场馆设施概念说起。</desc>
+  </programme>
+  <programme start="20250617150000 +0800" stop="20250617160000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会｜山西汾酒2024年度暨2025年第一季度业绩说明会</title>
+    <desc lang="zh"> 山西汾酒2024年度暨2025年第一季度业绩说明会</desc>
+  </programme>
+  <programme start="20250617150000 +0800" stop="20250617160000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会｜曙光股份2024年度暨2025年第一季度业绩说明会</title>
+    <desc lang="zh"> 曙光股份2024年度暨2025年第一季度业绩说明会</desc>
+  </programme>
+  <programme start="20250617150000 +0800" stop="20250617160000 +0800" channel="第一財經直播">
+    <title lang="zh">世博超级引力场 第1期｜中国馆演绎中华千年文明 世博会博物馆解码百年世博史</title>
+    <desc lang="zh"> 世博会中国馆为何排起百米长龙？上海世博会博物馆如何用“未来列车”讲述世博历史？跟随镜头，探索大阪世博会上的“中国身影”！在上海世博会博物馆，搭上“未来列车”在这里触摸世博脉搏。一张独特的“世博地铁图”，更让跨越全球的世博盛会足迹一目了然。走进人气爆棚的中国馆，在刻满诗篇的书简与花窗后，邂逅三星堆的神秘、月壤的震撼、AI的灵动、“蛟龙号”的深潜魅力，并在“桃花源”长卷上共绘心中理想城市图景。跟随直播来体验世博会中国馆、上海世博会博物馆对文化传承、科技创新、可持续发展的共同探索。</desc>
+  </programme>
+  <programme start="20250617130000 +0800" stop="20250617140000 +0800" channel="第一財經直播">
+    <title lang="zh">突发丨以伊局势升级！中东局面是否会进一步恶化？</title>
+    <desc lang="zh"> 以色列伊朗冲突再度升级，以色列总理内塔尼亚胡16日发表声明称，以色列空军控制了伊朗首都德黑兰上空，这“改变了整个战役”。伊朗伊斯兰革命卫队总司令高级顾问瓦希迪同日表示，革命卫队已为与以色列的长期全面战争做好准备。另有消息称，美国战斗机参与对伊朗的空袭，但美国否认在伊朗境内发起攻击。受到冲突影响，国际原油价格剧烈震荡，重要港口霍尔木兹海峡也面临封锁危机。各方专家解读以伊局势未来走向以及对世界政治经济局势的影响。</desc>
+  </programme>
+  <programme start="20250617100000 +0800" stop="20250617110000 +0800" channel="第一財經直播">
+    <title lang="zh">商业挖呀挖｜“苏超”只能是“苏超”吗？每座城市渴望一场超级赛事！</title>
+    <desc lang="zh"> “苏超”的火热氛围可以说是从江苏热到了省外，甚至是海外，全世界都知道了“江苏十三太保”。有关“苏超”的线上话题14.2亿播放，虎扑“江苏联”频道单日访问破百万，金陵体育6日股价暴涨104%，体育企业注册增速超全国。为什么是“苏超”火了呢，“苏超”又带给了我们什么样商业思考？我们将邀请前运动员、体育从业者、区域研究者一起探讨！</desc>
+  </programme>
+  <programme start="20250616100000 +0800" stop="20250616110000 +0800" channel="第一財經直播">
+    <title lang="zh">一线发布丨2025年5月份国民经济运行情况新闻发布会+第一时间解读</title>
+    <desc lang="zh"> 国务院新闻办公室将于2025年6月16日（星期一）上午10时举行新闻发布会，请国家统计局新闻发言人、国民经济综合统计司司长付凌晖介绍2025年5月份国民经济运行情况，并答记者问。第一财经将全程直播并邀请：前海开源基金首席经济学家 杨德龙；贝莱德首席中国经济学家宋宇第一时间解读。敬请关注！</desc>
+  </programme>
+  <programme start="20250613150000 +0800" stop="20250613160000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 | 珀莱雅2024年度业绩说明会</title>
+    <desc lang="zh"> 珀莱雅2024年度业绩说明会</desc>
+  </programme>
+  <programme start="20250613150000 +0800" stop="20250613160000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 | 继峰股份2024年度暨2025年第一季度业绩说明会</title>
+    <desc lang="zh"> 继峰股份2024年度暨2025年第一季度业绩说明会</desc>
+  </programme>
+  <programme start="20250613130000 +0800" stop="20250613140000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 | 王府井2024年度暨2025年第一季度业绩说明会</title>
+    <desc lang="zh"> 王府井2024年度暨2025年第一季度业绩说明会</desc>
+  </programme>
+  <programme start="20250613093000 +0800" stop="20250613103000 +0800" channel="第一財經直播">
+    <title lang="zh">直播｜突发！以色列袭击伊朗！德黑兰连续爆炸！黄金、原油直拉</title>
+    <desc lang="zh"> 当地时间6月13日凌晨，伊朗首都德黑兰市传出巨大爆炸声，新华社记者确认听到两三声爆炸声。据《以色列时报》等媒体报道，以色列空军正在对伊朗境内数十个与核计划和军事设施相关的目标发动袭击，并将此次行动命名为“狮子的力量”。</desc>
+  </programme>
+  <programme start="20250612200000 +0800" stop="20250612210000 +0800" channel="第一財經直播">
+    <title lang="zh">解财报｜蜜雪冰城2024年净赚超44亿元 低价神话能否继续“甜蜜蜜”？</title>
+    <desc lang="zh"> “港股消费三朵金花”之一的蜜雪冰城依靠低价策略去年净赚44亿元，2024年全年实现营业收入248.3亿元，同比增长22.3%；毛利达到80.6亿元，同比增长34.4%。蜜雪冰城今年3月3日在港交所上市，仅仅3个月股价已翻一番。但是外资大行近期纷纷看衰蜜雪冰城，公司长期增长预期能支撑估值过高吗？公司的低价神话能否继续“甜蜜蜜”？6月12日20:00《解财报》让我们一起来探讨蜜雪冰城的投资机会，敬请关注！</desc>
+  </programme>
+  <programme start="20250612153000 +0800" stop="20250612163000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 | 艾华集团2024年度暨2025年第一季度业绩说明会</title>
+    <desc lang="zh"> 艾华集团2024年度暨2025年第一季度业绩说明会</desc>
+  </programme>
+  <programme start="20250612150000 +0800" stop="20250612160000 +0800" channel="第一財經直播">
+    <title lang="zh">一线发布丨商务部召开6月第2次例行新闻发布会</title>
+    <desc lang="zh"> 商务部召开新闻发布会，新闻发言人介绍近期商务领域重点工作有关情况，并答记者问。</desc>
+  </programme>
+  <programme start="20250612140000 +0800" stop="20250612150000 +0800" channel="第一財經直播">
+    <title lang="zh">跨界连麦丨日本人排队抢大米？带你去逛超市、食堂、便利店 实探日本“米荒”</title>
+    <desc lang="zh"> 日本大米价格从去年开始一路上涨，至上个月创下了5公斤大米4285日元的天价，差不多20多元人民币一斤。日本政府多次投放储备米，但米价上涨势头仍未得到有效遏制。5月21日，小泉进次郎担任农林水产大臣，以“随意合同”的新方式投放储备大米，5月29日，最新一批储备米开始通过网络平台发售，遭消费者抢购。从6月初开始，日本各大便利店开始出售随意合同购买的储备米，这能否平抑日本历史最高米价？为何日本出现大米荒，以及后续如何发展？我们将请到行业专家和在日友人等嘉宾进行连麦互动。</desc>
+  </programme>
+  <programme start="20250621130000 +0800" stop="20250621133000 +0800" channel="第一財經直播">
+    <title lang="zh">智启创新 投领未来丨汇正财经2025年中策略会</title>
+    <desc lang="zh"> 面对复杂环境，我国经济稳中有进，科技产业高质量发展，投资者预期改善，市场活跃。2025年内，科技行业（如DeepSeek）蓬勃发展引领市场。展望下半年，经济回升向好、长期向好的趋势不变，前瞻部署是关键。科技新动力将聚焦何方？汇正财经2025年中策略会汇聚专业人士，聚焦宏观大局与科技创新，多维分析市场，深入探讨下半年投资机遇。</desc>
+  </programme>
+  <programme start="20250620150000 +0800" stop="20250620153000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 | 安井食品2024年度暨2025年第一季度业绩说明会</title>
+    <desc lang="zh"> 安井食品2024年度暨2025年第一季度业绩说明会</desc>
+  </programme>
+  <programme start="20250620140000 +0800" stop="20250620143000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 | 2024年度沪市主板乐享生活专题集体业绩说明会</title>
+    <desc lang="zh"> 2024年度沪市主板乐享生活专题集体业绩说明会</desc>
+  </programme>
+  <programme start="20250620133000 +0800" stop="20250620136000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 | 元利科技2024年度暨2025年第一季度业绩说明会</title>
+    <desc lang="zh"> 元利科技2024年度暨2025年第一季度业绩说明会</desc>
+  </programme>
+  <programme start="20250620100000 +0800" stop="20250620103000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 | 中国电影2024年度业绩说明会</title>
+    <desc lang="zh"> 中国电影2024年度业绩说明会</desc>
+  </programme>
+  <programme start="20250619200000 +0800" stop="20250619203000 +0800" channel="第一財經直播">
+    <title lang="zh">解财报丨“苏超”火出圈​ 赛事文旅掀热潮​ 跨界融合如何激活消费新蓝海？</title>
+    <desc lang="zh"> “苏超”的出圈，成为体育赛事拉动区域文旅消费的又一生动注脚，向人们展示了二者融合所产生的1+1＞2效应。“苏超”通过将体育赛事与地方文化深度结合，成功转化为文旅消费引擎，形成“跟着赛事去旅行”的新模式。6月17日-19日《解财报》连续三天聚焦“苏超效应”下的投资风口，带您抢占赛事经济新蓝海！6月19日晚20:00第三期，我们聚焦“苏超”带动的文旅消费新蓝海，探讨相关概念股的投资机会。敬请关注！</desc>
+  </programme>
+  <programme start="20250619150000 +0800" stop="20250619153000 +0800" channel="第一財經直播">
+    <title lang="zh">一线发布丨商务部召开6月第3次例行新闻发布会</title>
+    <desc lang="zh"> 商务部召开新闻发布会，新闻发言人介绍近期商务领域重点工作有关情况，并答记者问。</desc>
+  </programme>
+  <programme start="20250619140000 +0800" stop="20250619143000 +0800" channel="第一財經直播">
+    <title lang="zh">直播丨餐饮品牌管理层精研会，深度洞察餐饮消费行业趋势</title>
+    <desc lang="zh"> 餐饮品牌管理层精研会特邀第一财经大消费特约观察员唐健盛先生，深入剖析《餐饮消费洞察2025》。他将深度解读消费者行为模式，洞察行业发展趋势，助力品牌精准提炼核心价值与竞争优势。此外，还邀请到新一线城市研究所商业咨询总监张鼎，分享对新一线城市消费新场景的独到见解。</desc>
+  </programme>
+  <programme start="20250618200000 +0800" stop="20250618203000 +0800" channel="第一財經直播">
+    <title lang="zh">解财报丨“苏超”火出圈 赞助商数量激增 文体IP能否实现长效破圈？</title>
+    <desc lang="zh"> “苏超”（江苏省城市足球联赛）联赛以日均1.5万现场观众、10亿次抖音话题播放量的惊人数据，成为现象级体育IP。一个月的时间，“苏超”的赞助市场正发生巨变。从第一轮时仅有6家赛事赞助商到目前20家赞助商，意味着这个区域赛事IP的商业价值的大幅提升。究竟资本是押注未来还是击鼓传花？文体IP能否实现长效破圈？6月17日-19日《解财报》将连续三天聚焦“苏超效应”下的投资风口，带您抢占赛事经济新蓝海！6月18日晚20:00第二期，我们聚焦赛事营销和品牌赞助，探讨相关概念股的投资机会。敬请关注！</desc>
+  </programme>
+  <programme start="20250618160000 +0800" stop="20250618163000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 | 鄂尔多斯2024年度业绩说明会</title>
+    <desc lang="zh"> 鄂尔多斯2024年度业绩说明会</desc>
+  </programme>
+  <programme start="20250618150000 +0800" stop="20250618153000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 | 阳煤化工2024年度业绩说明会</title>
+    <desc lang="zh"> 阳煤化工2024年度业绩说明会</desc>
+  </programme>
+  <programme start="20250618133000 +0800" stop="20250618136000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 | 康恩贝2024年度暨2025年第一季度业绩说明会</title>
+    <desc lang="zh"> 康恩贝2024年度暨2025年第一季度业绩说明会</desc>
+  </programme>
+  <programme start="20250618103000 +0800" stop="20250618106000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 |  飞科电器2024年度暨2025年第一季度业绩说明会</title>
+    <desc lang="zh"> 飞科电器2024年度暨2025年第一季度业绩说明会</desc>
+  </programme>
+  <programme start="20250617200000 +0800" stop="20250617203000 +0800" channel="第一財經直播">
+    <title lang="zh">解财报丨“苏超”火出圈 产业链狂欢能持续多久？</title>
+    <desc lang="zh"> 一个足球，点燃江苏十三城的激情！“苏超”（江苏省城市足球联赛）联赛火爆出圈，不仅场均观众超1.5万，一票难求！还带动体育产业相关股票大涨。这场全民狂欢背后，隐藏着怎样的投资机遇？从场馆智能改造到人造草坪需求激增，从赛事装备升级到文旅消费爆发，体育产业正迎来黄金赛道。6月17日-19日《解财报》将连续三天聚焦“苏超效应”下的投资风口，带您抢占赛事经济新蓝海！6月17日晚20:00第一期，我们先从涨势如虹的体育器材与场馆设施概念说起。</desc>
+  </programme>
+  <programme start="20250617150000 +0800" stop="20250617153000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会｜山西汾酒2024年度暨2025年第一季度业绩说明会</title>
+    <desc lang="zh"> 山西汾酒2024年度暨2025年第一季度业绩说明会</desc>
+  </programme>
+  <programme start="20250617150000 +0800" stop="20250617153000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会｜曙光股份2024年度暨2025年第一季度业绩说明会</title>
+    <desc lang="zh"> 曙光股份2024年度暨2025年第一季度业绩说明会</desc>
+  </programme>
+  <programme start="20250617150000 +0800" stop="20250617153000 +0800" channel="第一財經直播">
+    <title lang="zh">世博超级引力场 第1期｜中国馆演绎中华千年文明 世博会博物馆解码百年世博史</title>
+    <desc lang="zh"> 世博会中国馆为何排起百米长龙？上海世博会博物馆如何用“未来列车”讲述世博历史？跟随镜头，探索大阪世博会上的“中国身影”！在上海世博会博物馆，搭上“未来列车”在这里触摸世博脉搏。一张独特的“世博地铁图”，更让跨越全球的世博盛会足迹一目了然。走进人气爆棚的中国馆，在刻满诗篇的书简与花窗后，邂逅三星堆的神秘、月壤的震撼、AI的灵动、“蛟龙号”的深潜魅力，并在“桃花源”长卷上共绘心中理想城市图景。跟随直播来体验世博会中国馆、上海世博会博物馆对文化传承、科技创新、可持续发展的共同探索。</desc>
+  </programme>
+  <programme start="20250617130000 +0800" stop="20250617133000 +0800" channel="第一財經直播">
+    <title lang="zh">突发丨以伊局势升级！中东局面是否会进一步恶化？</title>
+    <desc lang="zh"> 以色列伊朗冲突再度升级，以色列总理内塔尼亚胡16日发表声明称，以色列空军控制了伊朗首都德黑兰上空，这“改变了整个战役”。伊朗伊斯兰革命卫队总司令高级顾问瓦希迪同日表示，革命卫队已为与以色列的长期全面战争做好准备。另有消息称，美国战斗机参与对伊朗的空袭，但美国否认在伊朗境内发起攻击。受到冲突影响，国际原油价格剧烈震荡，重要港口霍尔木兹海峡也面临封锁危机。各方专家解读以伊局势未来走向以及对世界政治经济局势的影响。</desc>
+  </programme>
+  <programme start="20250617100000 +0800" stop="20250617103000 +0800" channel="第一財經直播">
+    <title lang="zh">商业挖呀挖｜“苏超”只能是“苏超”吗？每座城市渴望一场超级赛事！</title>
+    <desc lang="zh"> “苏超”的火热氛围可以说是从江苏热到了省外，甚至是海外，全世界都知道了“江苏十三太保”。有关“苏超”的线上话题14.2亿播放，虎扑“江苏联”频道单日访问破百万，金陵体育6日股价暴涨104%，体育企业注册增速超全国。为什么是“苏超”火了呢，“苏超”又带给了我们什么样商业思考？我们将邀请前运动员、体育从业者、区域研究者一起探讨！</desc>
+  </programme>
+  <programme start="20250616100000 +0800" stop="20250616103000 +0800" channel="第一財經直播">
+    <title lang="zh">一线发布丨2025年5月份国民经济运行情况新闻发布会+第一时间解读</title>
+    <desc lang="zh"> 国务院新闻办公室将于2025年6月16日（星期一）上午10时举行新闻发布会，请国家统计局新闻发言人、国民经济综合统计司司长付凌晖介绍2025年5月份国民经济运行情况，并答记者问。第一财经将全程直播并邀请：前海开源基金首席经济学家 杨德龙；贝莱德首席中国经济学家宋宇第一时间解读。敬请关注！</desc>
+  </programme>
+  <programme start="20250613150000 +0800" stop="20250613153000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 | 珀莱雅2024年度业绩说明会</title>
+    <desc lang="zh"> 珀莱雅2024年度业绩说明会</desc>
+  </programme>
+  <programme start="20250613150000 +0800" stop="20250613153000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 | 继峰股份2024年度暨2025年第一季度业绩说明会</title>
+    <desc lang="zh"> 继峰股份2024年度暨2025年第一季度业绩说明会</desc>
+  </programme>
+  <programme start="20250613130000 +0800" stop="20250613133000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 | 王府井2024年度暨2025年第一季度业绩说明会</title>
+    <desc lang="zh"> 王府井2024年度暨2025年第一季度业绩说明会</desc>
+  </programme>
+  <programme start="20250613093000 +0800" stop="20250613096000 +0800" channel="第一財經直播">
+    <title lang="zh">直播｜突发！以色列袭击伊朗！德黑兰连续爆炸！黄金、原油直拉</title>
+    <desc lang="zh"> 当地时间6月13日凌晨，伊朗首都德黑兰市传出巨大爆炸声，新华社记者确认听到两三声爆炸声。据《以色列时报》等媒体报道，以色列空军正在对伊朗境内数十个与核计划和军事设施相关的目标发动袭击，并将此次行动命名为“狮子的力量”。</desc>
+  </programme>
+  <programme start="20250612200000 +0800" stop="20250612203000 +0800" channel="第一財經直播">
+    <title lang="zh">解财报｜蜜雪冰城2024年净赚超44亿元 低价神话能否继续“甜蜜蜜”？</title>
+    <desc lang="zh"> “港股消费三朵金花”之一的蜜雪冰城依靠低价策略去年净赚44亿元，2024年全年实现营业收入248.3亿元，同比增长22.3%；毛利达到80.6亿元，同比增长34.4%。蜜雪冰城今年3月3日在港交所上市，仅仅3个月股价已翻一番。但是外资大行近期纷纷看衰蜜雪冰城，公司长期增长预期能支撑估值过高吗？公司的低价神话能否继续“甜蜜蜜”？6月12日20:00《解财报》让我们一起来探讨蜜雪冰城的投资机会，敬请关注！</desc>
+  </programme>
+  <programme start="20250612153000 +0800" stop="20250612156000 +0800" channel="第一財經直播">
+    <title lang="zh">直击业绩会 | 艾华集团2024年度暨2025年第一季度业绩说明会</title>
+    <desc lang="zh"> 艾华集团2024年度暨2025年第一季度业绩说明会</desc>
+  </programme>
+  <programme start="20250612150000 +0800" stop="20250612153000 +0800" channel="第一財經直播">
+    <title lang="zh">一线发布丨商务部召开6月第2次例行新闻发布会</title>
+    <desc lang="zh"> 商务部召开新闻发布会，新闻发言人介绍近期商务领域重点工作有关情况，并答记者问。</desc>
+  </programme>
+  <programme start="20250612140000 +0800" stop="20250612143000 +0800" channel="第一財經直播">
+    <title lang="zh">跨界连麦丨日本人排队抢大米？带你去逛超市、食堂、便利店 实探日本“米荒”</title>
+    <desc lang="zh"> 日本大米价格从去年开始一路上涨，至上个月创下了5公斤大米4285日元的天价，差不多20多元人民币一斤。日本政府多次投放储备米，但米价上涨势头仍未得到有效遏制。5月21日，小泉进次郎担任农林水产大臣，以“随意合同”的新方式投放储备大米，5月29日，最新一批储备米开始通过网络平台发售，遭消费者抢购。从6月初开始，日本各大便利店开始出售随意合同购买的储备米，这能否平抑日本历史最高米价？为何日本出现大米荒，以及后续如何发展？我们将请到行业专家和在日友人等嘉宾进行连麦互动。</desc>
   </programme>
   <programme start="20250619004300 +0800" stop="20250619011300 +0800" channel="cctv1">
     <title lang="zh">今日说法-2025-116</title>
@@ -5036,7 +5264,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621165935 +0800" stop="20250621172800 +0800" channel="cctv4亚洲">
-    <title lang="zh">走遍中国-2025-95</title>
+    <title lang="zh">中国缘-2025-24</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621172800 +0800" stop="20250621174300 +0800" channel="cctv4亚洲">
@@ -6596,19 +6824,19 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621044800 +0800" stop="20250621053400 +0800" channel="cctv8">
-    <title lang="zh">陌上又花开3/36</title>
+    <title lang="zh">陌上又花开第3集</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621053400 +0800" stop="20250621062000 +0800" channel="cctv8">
-    <title lang="zh">陌上又花开4/36</title>
+    <title lang="zh">陌上又花开第4集</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621062000 +0800" stop="20250621070935 +0800" channel="cctv8">
-    <title lang="zh">陌上又花开5/36</title>
+    <title lang="zh">陌上又花开第5集</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621070935 +0800" stop="20250621075535 +0800" channel="cctv8">
-    <title lang="zh">陌上又花开6/36</title>
+    <title lang="zh">陌上又花开第6集</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621075535 +0800" stop="20250621080400 +0800" channel="cctv8">
@@ -6668,11 +6896,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621163410 +0800" stop="20250621173410 +0800" channel="cctv8">
-    <title lang="zh">大山的女儿2/30</title>
+    <title lang="zh">大山的女儿第2集</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621173410 +0800" stop="20250621182625 +0800" channel="cctv8">
-    <title lang="zh">大山的女儿3/30</title>
+    <title lang="zh">大山的女儿第3集</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621182625 +0800" stop="20250621183305 +0800" channel="cctv8">
@@ -6680,7 +6908,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621183305 +0800" stop="20250621192140 +0800" channel="cctv8">
-    <title lang="zh">大山的女儿4/30</title>
+    <title lang="zh">大山的女儿第4集</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621192140 +0800" stop="20250621192700 +0800" channel="cctv8">
@@ -6704,19 +6932,19 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621212120 +0800" stop="20250621212525 +0800" channel="cctv8">
-    <title lang="zh">本集提要-六姊妹-10/38</title>
+    <title lang="zh">本集提要-六姊妹-第10集</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621212525 +0800" stop="20250621221615 +0800" channel="cctv8">
-    <title lang="zh">六姊妹10/38</title>
+    <title lang="zh">六姊妹第10集</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621221615 +0800" stop="20250621230500 +0800" channel="cctv8">
-    <title lang="zh">六姊妹11/38</title>
+    <title lang="zh">六姊妹第11集</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621230500 +0800" stop="20250621235100 +0800" channel="cctv8">
-    <title lang="zh">六姊妹12/38</title>
+    <title lang="zh">六姊妹第12集</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621235100 +0800" stop="20250621235845 +0800" channel="cctv8">
@@ -6724,7 +6952,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621235845 +0800" stop="20250621235900 +0800" channel="cctv8">
-    <title lang="zh">巡回检察组35/43</title>
+    <title lang="zh">巡回检察组第35集</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250619000300 +0800" stop="20250619005900 +0800" channel="cctv9">
@@ -24571,11 +24799,11 @@
     <title lang="zh">少年爱迪生第九季明日世界(5)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620094400 +0800" stop="20250620102700 +0800" channel="东方卫视">
+  <programme start="20250620094400 +0800" stop="20250620102600 +0800" channel="东方卫视">
     <title lang="zh">狂飙(20)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620102700 +0800" stop="20250620110900 +0800" channel="东方卫视">
+  <programme start="20250620102600 +0800" stop="20250620110900 +0800" channel="东方卫视">
     <title lang="zh">藏海传(39)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -25859,15 +26087,15 @@
     <title lang="zh">偶像独播剧场微笑妈妈</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620092600 +0800" stop="20250620103600 +0800" channel="湖南卫视">
+  <programme start="20250620092600 +0800" stop="20250620103500 +0800" channel="湖南卫视">
     <title lang="zh">偶像独播剧场微笑妈妈</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620103600 +0800" stop="20250620112200 +0800" channel="湖南卫视">
+  <programme start="20250620103500 +0800" stop="20250620112000 +0800" channel="湖南卫视">
     <title lang="zh">偶像独播剧场微笑妈妈</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620112200 +0800" stop="20250620121000 +0800" channel="湖南卫视">
+  <programme start="20250620112000 +0800" stop="20250620121000 +0800" channel="湖南卫视">
     <title lang="zh">偶像独播剧场微笑妈妈</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -25895,11 +26123,11 @@
     <title lang="zh">青春独播剧场覆流年</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620162200 +0800" stop="20250620170700 +0800" channel="湖南卫视">
+  <programme start="20250620162200 +0800" stop="20250620170400 +0800" channel="湖南卫视">
     <title lang="zh">青春独播剧场覆流年</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620170700 +0800" stop="20250620175600 +0800" channel="湖南卫视">
+  <programme start="20250620170400 +0800" stop="20250620175600 +0800" channel="湖南卫视">
     <title lang="zh">青春独播剧场覆流年</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -26243,15 +26471,15 @@
     <title lang="zh">动画片</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620090400 +0800" stop="20250620095200 +0800" channel="湖北卫视">
+  <programme start="20250620090400 +0800" stop="20250620095800 +0800" channel="湖北卫视">
     <title lang="zh">洪湖赤卫队18</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620095200 +0800" stop="20250620105500 +0800" channel="湖北卫视">
+  <programme start="20250620095800 +0800" stop="20250620105600 +0800" channel="湖北卫视">
     <title lang="zh">洪湖赤卫队19</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620105500 +0800" stop="20250620115000 +0800" channel="湖北卫视">
+  <programme start="20250620105600 +0800" stop="20250620115000 +0800" channel="湖北卫视">
     <title lang="zh">洪湖赤卫队20</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -26631,11 +26859,11 @@
     <title lang="zh">上午剧场黑色名单(29)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620092500 +0800" stop="20250620100900 +0800" channel="广东卫视">
+  <programme start="20250620092500 +0800" stop="20250620100800 +0800" channel="广东卫视">
     <title lang="zh">上午剧场黑色名单(30)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620100900 +0800" stop="20250620110200 +0800" channel="广东卫视">
+  <programme start="20250620100800 +0800" stop="20250620110200 +0800" channel="广东卫视">
     <title lang="zh">上午剧场黑色名单(31)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -27059,12 +27287,12 @@
     <title lang="zh">动画片剧场</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620085000 +0800" stop="20250620112200 +0800" channel="广西卫视">
+  <programme start="20250620085000 +0800" stop="20250620112100 +0800" channel="广西卫视">
     <title lang="zh">重温经典电影小兵张嘎</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620112200 +0800" stop="20250620122700 +0800" channel="广西卫视">
-    <title lang="zh">重温经典电影</title>
+  <programme start="20250620112100 +0800" stop="20250620122700 +0800" channel="广西卫视">
+    <title lang="zh">电影打击侵略者</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620122700 +0800" stop="20250620132500 +0800" channel="广西卫视">
@@ -27447,11 +27675,11 @@
     <title lang="zh">阳光剧场猎杀</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620104900 +0800" stop="20250620114000 +0800" channel="黑龙江卫视">
+  <programme start="20250620104900 +0800" stop="20250620114100 +0800" channel="黑龙江卫视">
     <title lang="zh">阳光剧场猎杀</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620114000 +0800" stop="20250620123300 +0800" channel="黑龙江卫视">
+  <programme start="20250620114100 +0800" stop="20250620123300 +0800" channel="黑龙江卫视">
     <title lang="zh">阳光剧场猎杀</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -28775,16 +29003,12 @@
     <title lang="zh">精品剧场血色玫瑰之女子别动队(29)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620095100 +0800" stop="20250620105000 +0800" channel="深圳卫视">
+  <programme start="20250620095100 +0800" stop="20250620104900 +0800" channel="深圳卫视">
     <title lang="zh">精品剧场血色玫瑰之女子别动队(30)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620105000 +0800" stop="20250620114600 +0800" channel="深圳卫视">
+  <programme start="20250620104900 +0800" stop="20250620115000 +0800" channel="深圳卫视">
     <title lang="zh">精品剧场血色玫瑰之女子别动队(31)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620114600 +0800" stop="20250620115000 +0800" channel="深圳卫视">
-    <title lang="zh">美好生活深圳创造众擎机器人</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620115000 +0800" stop="20250620123000 +0800" channel="深圳卫视">
@@ -28819,12 +29043,8 @@
     <title lang="zh">热播剧场战火中的兄弟(20)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620174000 +0800" stop="20250620182500 +0800" channel="深圳卫视">
+  <programme start="20250620174000 +0800" stop="20250620183000 +0800" channel="深圳卫视">
     <title lang="zh">热播剧场战火中的兄弟(21)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620182500 +0800" stop="20250620183000 +0800" channel="深圳卫视">
-    <title lang="zh">美好生活深圳创造怪虫</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620183000 +0800" stop="20250620190000 +0800" channel="深圳卫视">
@@ -28835,12 +29055,8 @@
     <title lang="zh">转播中央台新闻联播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620193700 +0800" stop="20250620202900 +0800" channel="深圳卫视">
+  <programme start="20250620193700 +0800" stop="20250620203700 +0800" channel="深圳卫视">
     <title lang="zh">黄金剧场刑警的日子13</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620202900 +0800" stop="20250620203700 +0800" channel="深圳卫视">
-    <title lang="zh">美好生活深圳创造怪虫</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620203700 +0800" stop="20250620212000 +0800" channel="深圳卫视">
@@ -29263,15 +29479,15 @@
     <title lang="zh">津门飞鹰(12)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620091500 +0800" stop="20250620100700 +0800" channel="四川卫视">
+  <programme start="20250620091500 +0800" stop="20250620100800 +0800" channel="四川卫视">
     <title lang="zh">津门飞鹰(13)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620100700 +0800" stop="20250620110700 +0800" channel="四川卫视">
+  <programme start="20250620100800 +0800" stop="20250620110900 +0800" channel="四川卫视">
     <title lang="zh">津门飞鹰(14)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620110700 +0800" stop="20250620120300 +0800" channel="四川卫视">
+  <programme start="20250620110900 +0800" stop="20250620120300 +0800" channel="四川卫视">
     <title lang="zh">津门飞鹰(15)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -29679,11 +29895,11 @@
     <title lang="zh">霸王龙雷奇</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620094000 +0800" stop="20250620104800 +0800" channel="河南卫视">
+  <programme start="20250620094000 +0800" stop="20250620105200 +0800" channel="河南卫视">
     <title lang="zh">西游记续(11)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620104800 +0800" stop="20250620120300 +0800" channel="河南卫视">
+  <programme start="20250620105200 +0800" stop="20250620120300 +0800" channel="河南卫视">
     <title lang="zh">西游记续(12)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -30075,39 +30291,39 @@
     <title lang="zh">上午剧场武松</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620101600 +0800" stop="20250620110900 +0800" channel="东南卫视">
+  <programme start="20250620101600 +0800" stop="20250620110800 +0800" channel="东南卫视">
     <title lang="zh">上午剧场武松</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620110900 +0800" stop="20250620120000 +0800" channel="东南卫视">
+  <programme start="20250620110800 +0800" stop="20250620120000 +0800" channel="东南卫视">
     <title lang="zh">上午剧场武松</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620120000 +0800" stop="20250620123800 +0800" channel="东南卫视">
+  <programme start="20250620120000 +0800" stop="20250620123700 +0800" channel="东南卫视">
     <title lang="zh">海峡午报</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620123800 +0800" stop="20250620133200 +0800" channel="东南卫视">
+  <programme start="20250620123700 +0800" stop="20250620133200 +0800" channel="东南卫视">
     <title lang="zh">偶像剧场薛平贵与王宝钏</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620133200 +0800" stop="20250620142300 +0800" channel="东南卫视">
+  <programme start="20250620133200 +0800" stop="20250620142500 +0800" channel="东南卫视">
     <title lang="zh">偶像剧场薛平贵与王宝钏</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620142300 +0800" stop="20250620151700 +0800" channel="东南卫视">
+  <programme start="20250620142500 +0800" stop="20250620151900 +0800" channel="东南卫视">
     <title lang="zh">偶像剧场薛平贵与王宝钏</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620151700 +0800" stop="20250620161000 +0800" channel="东南卫视">
+  <programme start="20250620151900 +0800" stop="20250620161200 +0800" channel="东南卫视">
     <title lang="zh">偶像剧场薛平贵与王宝钏</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620161000 +0800" stop="20250620170200 +0800" channel="东南卫视">
+  <programme start="20250620161200 +0800" stop="20250620170400 +0800" channel="东南卫视">
     <title lang="zh">偶像剧场薛平贵与王宝钏</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620170200 +0800" stop="20250620180000 +0800" channel="东南卫视">
+  <programme start="20250620170400 +0800" stop="20250620180000 +0800" channel="东南卫视">
     <title lang="zh">偶像剧场薛平贵与王宝钏</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -30511,15 +30727,15 @@
     <title lang="zh">白天剧场狙击部队(6)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620162900 +0800" stop="20250620174000 +0800" channel="贵州卫视">
+  <programme start="20250620162900 +0800" stop="20250620174200 +0800" channel="贵州卫视">
     <title lang="zh">白天剧场狙击部队(7)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620174000 +0800" stop="20250620175000 +0800" channel="贵州卫视">
+  <programme start="20250620174200 +0800" stop="20250620180000 +0800" channel="贵州卫视">
     <title lang="zh">历史上的今天</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620175000 +0800" stop="20250620183000 +0800" channel="贵州卫视">
+  <programme start="20250620180000 +0800" stop="20250620183000 +0800" channel="贵州卫视">
     <title lang="zh">动静新闻</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -30867,11 +31083,11 @@
     <title lang="zh">白天剧场再造之恩(10)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620115400 +0800" stop="20250620115800 +0800" channel="江西卫视">
+  <programme start="20250620115400 +0800" stop="20250620115900 +0800" channel="江西卫视">
     <title lang="zh">午间气象</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620115800 +0800" stop="20250620123000 +0800" channel="江西卫视">
+  <programme start="20250620115900 +0800" stop="20250620123000 +0800" channel="江西卫视">
     <title lang="zh">白天剧场再造之恩(11)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -31259,15 +31475,15 @@
     <title lang="zh">动画片剧场</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620083400 +0800" stop="20250620094800 +0800" channel="辽宁卫视">
-    <title lang="zh">白天剧场父母爱情</title>
+  <programme start="20250620083400 +0800" stop="20250620094700 +0800" channel="辽宁卫视">
+    <title lang="zh">白天剧场父母爱情31</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620094800 +0800" stop="20250620104800 +0800" channel="辽宁卫视">
-    <title lang="zh">白天剧场父母爱情</title>
+  <programme start="20250620094700 +0800" stop="20250620104600 +0800" channel="辽宁卫视">
+    <title lang="zh">白天剧场父母爱情32</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620104800 +0800" stop="20250620115600 +0800" channel="辽宁卫视">
+  <programme start="20250620104600 +0800" stop="20250620115600 +0800" channel="辽宁卫视">
     <title lang="zh">白天剧场父母爱情</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -31280,19 +31496,19 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620125200 +0800" stop="20250620134000 +0800" channel="辽宁卫视">
-    <title lang="zh">白天剧场父母爱情</title>
+    <title lang="zh">白天剧场父母爱情33</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620134000 +0800" stop="20250620142900 +0800" channel="辽宁卫视">
-    <title lang="zh">白天剧场父母爱情</title>
+    <title lang="zh">白天剧场父母爱情34</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620142900 +0800" stop="20250620151500 +0800" channel="辽宁卫视">
-    <title lang="zh">白天剧场父母爱情</title>
+    <title lang="zh">白天剧场父母爱情35</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620151500 +0800" stop="20250620162300 +0800" channel="辽宁卫视">
-    <title lang="zh">白天剧场父母爱情</title>
+    <title lang="zh">白天剧场父母爱情36</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620162300 +0800" stop="20250620173000 +0800" channel="辽宁卫视">
@@ -32023,23 +32239,23 @@
     <title lang="zh">经典剧场宰相刘罗锅(27)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620091100 +0800" stop="20250620095000 +0800" channel="河北卫视">
+  <programme start="20250620091100 +0800" stop="20250620094800 +0800" channel="河北卫视">
     <title lang="zh">经典剧场宰相刘罗锅(28)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620095000 +0800" stop="20250620102000 +0800" channel="河北卫视">
+  <programme start="20250620094800 +0800" stop="20250620101800 +0800" channel="河北卫视">
     <title lang="zh">经典剧场宰相刘罗锅(29)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620102000 +0800" stop="20250620110300 +0800" channel="河北卫视">
+  <programme start="20250620101800 +0800" stop="20250620110600 +0800" channel="河北卫视">
     <title lang="zh">经典剧场宰相刘罗锅(30)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620110300 +0800" stop="20250620115600 +0800" channel="河北卫视">
+  <programme start="20250620110600 +0800" stop="20250620115900 +0800" channel="河北卫视">
     <title lang="zh">故乡的泥土25</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620115600 +0800" stop="20250620124800 +0800" channel="河北卫视">
+  <programme start="20250620115900 +0800" stop="20250620124800 +0800" channel="河北卫视">
     <title lang="zh">故乡的泥土26</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -32795,31 +33011,31 @@
     <title lang="zh">津门飞鹰(3)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620053000 +0800" stop="20250620063000 +0800" channel="天津卫视">
+  <programme start="20250620053000 +0800" stop="20250620062900 +0800" channel="天津卫视">
     <title lang="zh">津门飞鹰(4)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620063000 +0800" stop="20250620070000 +0800" channel="天津卫视">
-    <title lang="zh">中国人</title>
+  <programme start="20250620062900 +0800" stop="20250620070000 +0800" channel="天津卫视">
+    <title lang="zh">东方博物之门</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620070000 +0800" stop="20250620070100 +0800" channel="天津卫视">
     <title lang="zh">中华人民共和国国歌</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620070100 +0800" stop="20250620073000 +0800" channel="天津卫视">
+  <programme start="20250620070100 +0800" stop="20250620073100 +0800" channel="天津卫视">
     <title lang="zh">津晨播报</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620073000 +0800" stop="20250620081000 +0800" channel="天津卫视">
+  <programme start="20250620073100 +0800" stop="20250620081200 +0800" channel="天津卫视">
     <title lang="zh">仁心说医事</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620081000 +0800" stop="20250620084000 +0800" channel="天津卫视">
-    <title lang="zh">奇奇和努娜</title>
+  <programme start="20250620081200 +0800" stop="20250620083600 +0800" channel="天津卫视">
+    <title lang="zh">奇奇和努娜2</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620084000 +0800" stop="20250620094700 +0800" channel="天津卫视">
+  <programme start="20250620083600 +0800" stop="20250620094700 +0800" channel="天津卫视">
     <title lang="zh">女子特战队(35)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -33271,11 +33487,11 @@
     <title lang="zh">上午剧场民警老林的幸福生活(4)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620095000 +0800" stop="20250620102100 +0800" channel="吉林卫视">
+  <programme start="20250620095000 +0800" stop="20250620102200 +0800" channel="吉林卫视">
     <title lang="zh">上午剧场民警老林的幸福生活(5)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620102100 +0800" stop="20250620105200 +0800" channel="吉林卫视">
+  <programme start="20250620102200 +0800" stop="20250620105200 +0800" channel="吉林卫视">
     <title lang="zh">上午剧场民警老林的幸福生活(6)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -33675,15 +33891,15 @@
     <title lang="zh">隋唐英雄之薛刚反唐(60)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620083600 +0800" stop="20250620103500 +0800" channel="陕西卫视">
+  <programme start="20250620083600 +0800" stop="20250620100700 +0800" channel="陕西卫视">
     <title lang="zh">隋唐英雄之薛刚反唐(61)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620103500 +0800" stop="20250620111700 +0800" channel="陕西卫视">
+  <programme start="20250620100700 +0800" stop="20250620111400 +0800" channel="陕西卫视">
     <title lang="zh">隋唐英雄之薛刚反唐(62)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620111700 +0800" stop="20250620122500 +0800" channel="陕西卫视">
+  <programme start="20250620111400 +0800" stop="20250620122500 +0800" channel="陕西卫视">
     <title lang="zh">雍正王朝(1)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -34619,15 +34835,15 @@
     <title lang="zh">天下剧场红高粱(29)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620091600 +0800" stop="20250620100600 +0800" channel="宁夏卫视">
+  <programme start="20250620091600 +0800" stop="20250620100700 +0800" channel="宁夏卫视">
     <title lang="zh">天下剧场红高粱(30)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620100600 +0800" stop="20250620111000 +0800" channel="宁夏卫视">
+  <programme start="20250620100700 +0800" stop="20250620111100 +0800" channel="宁夏卫视">
     <title lang="zh">天下剧场红高粱(31)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620111000 +0800" stop="20250620114000 +0800" channel="宁夏卫视">
+  <programme start="20250620111100 +0800" stop="20250620114000 +0800" channel="宁夏卫视">
     <title lang="zh">天下剧场红高粱(32)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -35091,11 +35307,11 @@
     <title lang="zh">经典剧场铁道游击队(41)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620085800 +0800" stop="20250620094300 +0800" channel="内蒙古卫视">
+  <programme start="20250620085800 +0800" stop="20250620094200 +0800" channel="内蒙古卫视">
     <title lang="zh">经典剧场铁道游击队42</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620094300 +0800" stop="20250620102700 +0800" channel="内蒙古卫视">
+  <programme start="20250620094200 +0800" stop="20250620102700 +0800" channel="内蒙古卫视">
     <title lang="zh">经典剧场铁道游击队43</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -35495,19 +35711,19 @@
     <title lang="zh">动车侠之未来高铁城</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620083800 +0800" stop="20250620094100 +0800" channel="云南卫视">
+  <programme start="20250620083800 +0800" stop="20250620093600 +0800" channel="云南卫视">
     <title lang="zh">黑狐(7)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620094100 +0800" stop="20250620104300 +0800" channel="云南卫视">
+  <programme start="20250620093600 +0800" stop="20250620103900 +0800" channel="云南卫视">
     <title lang="zh">黑狐(8)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620104300 +0800" stop="20250620114600 +0800" channel="云南卫视">
+  <programme start="20250620103900 +0800" stop="20250620114200 +0800" channel="云南卫视">
     <title lang="zh">黑狐(9)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620114600 +0800" stop="20250620125800 +0800" channel="云南卫视">
+  <programme start="20250620114200 +0800" stop="20250620125800 +0800" channel="云南卫视">
     <title lang="zh">黑狐(10)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -35920,11 +36136,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620084700 +0800" stop="20250620112800 +0800" channel="山西卫视">
-    <title lang="zh">经典老电影</title>
+    <title lang="zh">经典老电影闪闪的红星</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620112800 +0800" stop="20250620123000 +0800" channel="山西卫视">
-    <title lang="zh">经典老电影</title>
+    <title lang="zh">经典老电影白毛女</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620123000 +0800" stop="20250620125000 +0800" channel="山西卫视">
@@ -36679,15 +36895,15 @@
     <title lang="zh">西藏新闻联播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620085700 +0800" stop="20250620095600 +0800" channel="西藏卫视">
+  <programme start="20250620085700 +0800" stop="20250620095300 +0800" channel="西藏卫视">
     <title lang="zh">薛平贵与王宝钏(23)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620095600 +0800" stop="20250620105500 +0800" channel="西藏卫视">
+  <programme start="20250620095300 +0800" stop="20250620105100 +0800" channel="西藏卫视">
     <title lang="zh">薛平贵与王宝钏(24)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620105500 +0800" stop="20250620120300 +0800" channel="西藏卫视">
+  <programme start="20250620105100 +0800" stop="20250620120300 +0800" channel="西藏卫视">
     <title lang="zh">薛平贵与王宝钏(25)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -37811,11 +38027,11 @@
     <title lang="zh">今日聚焦</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620091600 +0800" stop="20250620101900 +0800" channel="新疆卫视">
+  <programme start="20250620091600 +0800" stop="20250620102000 +0800" channel="新疆卫视">
     <title lang="zh">糊涂县令郑板桥(25)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620101900 +0800" stop="20250620112400 +0800" channel="新疆卫视">
+  <programme start="20250620102000 +0800" stop="20250620112400 +0800" channel="新疆卫视">
     <title lang="zh">糊涂县令郑板桥(26)</title>
     <desc lang="zh"> </desc>
   </programme>
