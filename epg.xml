@@ -3411,14 +3411,6 @@
     <title lang="zh">一线发布丨商务部召开6月第2次例行新闻发布会</title>
     <desc lang="zh"> 商务部召开新闻发布会，新闻发言人介绍近期商务领域重点工作有关情况，并答记者问。</desc>
   </programme>
-  <programme start="20250620004100 +0800" stop="20250620011100 +0800" channel="cctv1">
-    <title lang="zh">今日说法-2025-117</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620011100 +0800" stop="20250620014300 +0800" channel="cctv1">
-    <title lang="zh">晚间新闻</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620014300 +0800" stop="20250620021315 +0800" channel="cctv1">
     <title lang="zh">自然中国-2025-5向海而行-蓝色脉动</title>
     <desc lang="zh"> </desc>
@@ -3831,10 +3823,6 @@
     <title lang="zh">星光大道-2025-26(这一站星光19)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620002630 +0800" stop="20250620011810 +0800" channel="cctv2">
-    <title lang="zh">乡村振兴中国行(第四季)-13</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620011810 +0800" stop="20250620020040 +0800" channel="cctv2">
     <title lang="zh">对话-2025-21</title>
     <desc lang="zh"> </desc>
@@ -4239,10 +4227,6 @@
     <title lang="zh">央央好物嗨购派-24</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620001745 +0800" stop="20250620010345 +0800" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2025-579执行法官27/36</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620010345 +0800" stop="20250620022130 +0800" channel="cctv3">
     <title lang="zh">星光大道-2025-10(这一站星光3)</title>
     <desc lang="zh"> </desc>
@@ -4501,26 +4485,6 @@
   </programme>
   <programme start="20250622233115 +0800" stop="20250622235900 +0800" channel="cctv3">
     <title lang="zh">综艺喜乐汇-2025-644执行法官35/36</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620001215 +0800" stop="20250620005345 +0800" channel="cctv4亚洲">
-    <title lang="zh">红旗渠-21/31</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620005345 +0800" stop="20250620013600 +0800" channel="cctv4亚洲">
-    <title lang="zh">红旗渠-22/31</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620013600 +0800" stop="20250620014400 +0800" channel="cctv4亚洲">
-    <title lang="zh">国家公园精彩片段-14</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620014400 +0800" stop="20250620015200 +0800" channel="cctv4亚洲">
-    <title lang="zh">国家公园精彩片段-13</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620015200 +0800" stop="20250620020000 +0800" channel="cctv4亚洲">
-    <title lang="zh">记住乡愁-片段展播-2024-1</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620020000 +0800" stop="20250620023000 +0800" channel="cctv4亚洲">
@@ -5043,10 +5007,6 @@
     <title lang="zh">红旗渠-28/31</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620003500 +0800" stop="20250620010500 +0800" channel="cctv5">
-    <title lang="zh">实况录像-2025年攀岩世界杯印尼站速度赛决赛</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620010500 +0800" stop="20250620023600 +0800" channel="cctv5">
     <title lang="zh">实况录像-2025年国际乒联单打世界杯4</title>
     <desc lang="zh"> </desc>
@@ -5283,10 +5243,6 @@
     <title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛决赛</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620003000 +0800" stop="20250620010100 +0800" channel="cctv5+">
-    <title lang="zh">实况录像-2025年射箭世界杯中国站2</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620010100 +0800" stop="20250620023100 +0800" channel="cctv5+">
     <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 6</title>
     <desc lang="zh"> </desc>
@@ -5497,10 +5453,6 @@
   </programme>
   <programme start="20250622223000 +0800" stop="20250622235900 +0800" channel="cctv5+">
     <title lang="zh">实况录像-2025年法国网球公开赛男单决赛</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620004643 +0800" stop="20250620005943 +0800" channel="cctv6">
-    <title lang="zh">今日影评2025-122</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620005943 +0800" stop="20250620022150 +0800" channel="cctv6">
@@ -5773,10 +5725,6 @@
   </programme>
   <programme start="20250622230107 +0800" stop="20250622235900 +0800" channel="cctv6">
     <title lang="zh">宾虚(下)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620000215 +0800" stop="20250620060300 +0800" channel="cctv7">
-    <title lang="zh">兵器面面观-2025-122</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620060300 +0800" stop="20250620063330 +0800" channel="cctv7">
@@ -6161,10 +6109,6 @@
   </programme>
   <programme start="20250622233145 +0800" stop="20250622235900 +0800" channel="cctv7">
     <title lang="zh">兵器面面观-环球兵器大事件-2025-12</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620004445 +0800" stop="20250620013045 +0800" channel="cctv8">
-    <title lang="zh">巡回检察组第24集</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620013045 +0800" stop="20250620021645 +0800" channel="cctv8">
@@ -6643,14 +6587,6 @@
     <title lang="zh">巡回检察组第41集</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620000300 +0800" stop="20250620005900 +0800" channel="cctv9">
-    <title lang="zh">全景自然2025-170</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620005900 +0800" stop="20250620015500 +0800" channel="cctv9">
-    <title lang="zh">魅力万象2025-170</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620015500 +0800" stop="20250620022530 +0800" channel="cctv9">
     <title lang="zh">活力·源2025-181</title>
     <desc lang="zh"> </desc>
@@ -6969,14 +6905,6 @@
   </programme>
   <programme start="20250622233930 +0800" stop="20250622235900 +0800" channel="cctv9">
     <title lang="zh">寰宇视野2025-173</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620003130 +0800" stop="20250620010130 +0800" channel="cctv10">
-    <title lang="zh">地理·中国-2025-170</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620010130 +0800" stop="20250620014130 +0800" channel="cctv10">
-    <title lang="zh">健康之路-2025-170</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620014130 +0800" stop="20250620020130 +0800" channel="cctv10">
@@ -7371,10 +7299,6 @@
     <title lang="zh">探索·发现-2025-173</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620003940 +0800" stop="20250620060630 +0800" channel="cctv11">
-    <title lang="zh">典藏-2025-72</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620060630 +0800" stop="20250620072010 +0800" channel="cctv11">
     <title lang="zh">CCTV空中剧院-2024-136地方戏版好戏连连看花鼓戏《蔡坤山耕田》选场(精编)</title>
     <desc lang="zh"> </desc>
@@ -7585,10 +7509,6 @@
   </programme>
   <programme start="20250622233400 +0800" stop="20250622235900 +0800" channel="cctv11">
     <title lang="zh">幸福二重奏第19集</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620004200 +0800" stop="20250620013000 +0800" channel="cctv12">
-    <title lang="zh">2025社会与法电视剧精选-我哥我嫂-39/50</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620013000 +0800" stop="20250620060300 +0800" channel="cctv12">
@@ -7941,18 +7861,6 @@
   </programme>
   <programme start="20250622233700 +0800" stop="20250622235900 +0800" channel="cctv12">
     <title lang="zh">2025社会与法电视剧精选-我哥我嫂-47/50</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620000000 +0800" stop="20250620010000 +0800" channel="cctv13">
-    <title lang="zh">午夜新闻</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620010000 +0800" stop="20250620013700 +0800" channel="cctv13">
-    <title lang="zh">新闻直播间</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620013700 +0800" stop="20250620020000 +0800" channel="cctv13">
-    <title lang="zh">法治在线</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620020000 +0800" stop="20250620023300 +0800" channel="cctv13">
@@ -8715,10 +8623,6 @@
     <title lang="zh">精彩音乐汇-我的爱对你说-2025-106</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620001000 +0800" stop="20250620020000 +0800" channel="cctv16">
-    <title lang="zh">实况录像(奥林匹克)-2025年苏迪曼杯羽毛球赛决赛</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620020000 +0800" stop="20250620030000 +0800" channel="cctv16">
     <title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会攀岩比赛</title>
     <desc lang="zh"> </desc>
@@ -9005,10 +8909,6 @@
   </programme>
   <programme start="20250622230000 +0800" stop="20250622235900 +0800" channel="cctv16">
     <title lang="zh">实况录像(奥林匹克)-2025年世界田联钻石联赛巴黎站</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620001030 +0800" stop="20250620055530 +0800" channel="cctv17">
-    <title lang="zh">超级农人秀-2025-122</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620055530 +0800" stop="20250620060600 +0800" channel="cctv17">
@@ -13087,10 +12987,6 @@
     <title lang="zh">美丽中国-海南岛(8K)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620001925 +0800" stop="20250620070015 +0800" channel="cctv第一剧场">
-    <title lang="zh">青年霍元甲之威震津门29/39</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620070015 +0800" stop="20250620074615 +0800" channel="cctv第一剧场">
     <title lang="zh">青年霍元甲之威震津门28/39</title>
     <desc lang="zh"> </desc>
@@ -13915,22 +13811,6 @@
     <title lang="zh">青年霍元甲之威震津门34/39</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620004329 +0800" stop="20250620004624 +0800" channel="cctv风云剧场">
-    <title lang="zh">世界地理频道包装-与恐龙同行精彩片段2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620004624 +0800" stop="20250620005124 +0800" channel="cctv风云剧场">
-    <title lang="zh">风云剧场频道包装-时间的针脚片花欣赏33</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620005124 +0800" stop="20250620005134 +0800" channel="cctv风云剧场">
-    <title lang="zh">风云剧场频道包装-让家人剧在一起ID</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620005134 +0800" stop="20250620070000 +0800" channel="cctv风云剧场">
-    <title lang="zh">2024风云剧场频道人名字幕-1</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620070000 +0800" stop="20250620070146 +0800" channel="cctv风云剧场">
     <title lang="zh">风云剧场频道包装-风云剧场古风宣传片1</title>
     <desc lang="zh"> </desc>
@@ -14699,18 +14579,6 @@
     <title lang="zh">风云剧场-为了爱情第1集(许可证版)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620002125 +0800" stop="20250620010725 +0800" channel="cctv怀旧剧场">
-    <title lang="zh">远方的家12/34</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620010725 +0800" stop="20250620015325 +0800" channel="cctv怀旧剧场">
-    <title lang="zh">远方的家13/34</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620015325 +0800" stop="20250620080100 +0800" channel="cctv怀旧剧场">
-    <title lang="zh">2024怀旧剧场频道人名字幕-1</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620080100 +0800" stop="20250620094633 +0800" channel="cctv怀旧剧场">
     <title lang="zh">经典重温-中国电影英雄儿女</title>
     <desc lang="zh"> </desc>
@@ -15117,18 +14985,6 @@
   </programme>
   <programme start="20250622232815 +0800" stop="20250623000000 +0800" channel="cctv怀旧剧场">
     <title lang="zh">远方的家20/34</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620002835 +0800" stop="20250620003050 +0800" channel="cctv世界地理">
-    <title lang="zh">世界地理频道包装-与恐龙同行精彩片段7</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620003050 +0800" stop="20250620012050 +0800" channel="cctv世界地理">
-    <title lang="zh">特别呈现2024-24</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620012050 +0800" stop="20250620070000 +0800" channel="cctv世界地理">
-    <title lang="zh">世界地理频道包装-美丽中国长白山</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620070000 +0800" stop="20250620070015 +0800" channel="cctv世界地理">
@@ -15773,14 +15629,6 @@
   </programme>
   <programme start="20250622231835 +0800" stop="20250623000000 +0800" channel="cctv世界地理">
     <title lang="zh">科学动物园-2022-38</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620003540 +0800" stop="20250620010540 +0800" channel="cctv风云音乐">
-    <title lang="zh">地中海风尚-2022-35</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620010540 +0800" stop="20250620070015 +0800" channel="cctv风云音乐">
-    <title lang="zh">2024风云音乐频道人名字幕-1</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620070015 +0800" stop="20250620073015 +0800" channel="cctv风云音乐">
@@ -16743,10 +16591,6 @@
     <title lang="zh">军武零距离-2025-18(4K)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620011000 +0800" stop="20250620011500 +0800" channel="cctv风云足球">
-    <title lang="zh">风云足球频道包装-2025-4</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620011500 +0800" stop="20250620023500 +0800" channel="cctv风云足球">
     <title lang="zh">2024/2025德国足球甲级联赛-第20轮(法兰克福—沃尔夫斯堡)(4K)</title>
     <desc lang="zh"> </desc>
@@ -17367,14 +17211,6 @@
     <title lang="zh">赛事集锦(高清体育)-2023-106-2023年沃尔沃高尔夫中国公开赛第四轮</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620000429 +0800" stop="20250620001444 +0800" channel="cctv女性时尚">
-    <title lang="zh">时尚科技秀-2024-144</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620001444 +0800" stop="20250620080015 +0800" channel="cctv女性时尚">
-    <title lang="zh">2024女性时尚频道人名字幕-1</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620080015 +0800" stop="20250620082232 +0800" channel="cctv女性时尚">
     <title lang="zh">尚峰汇-动物乐翻天-1</title>
     <desc lang="zh"> </desc>
@@ -17753,14 +17589,6 @@
   </programme>
   <programme start="20250622230949 +0800" stop="20250623000000 +0800" channel="cctv女性时尚">
     <title lang="zh">2021秘密大改造(第五季)-7</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620003749 +0800" stop="20250620011749 +0800" channel="cctv文化精品">
-    <title lang="zh">百家讲坛-2023-24</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620011749 +0800" stop="20250620080205 +0800" channel="cctv文化精品">
-    <title lang="zh">探索·发现-2025-34</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620080205 +0800" stop="20250620082735 +0800" channel="cctv文化精品">
@@ -18541,46 +18369,6 @@
   </programme>
   <programme start="20250622224515 +0800" stop="20250623000000 +0800" channel="cctv台球">
     <title lang="zh">赛场直击-2023-2024赛季斯诺克英国锦标赛塞尔比—乔伊斯</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620001600 +0800" stop="20250620002100 +0800" channel="cctv电视指南">
-    <title lang="zh">电视指南频道包装-2025-48</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620002100 +0800" stop="20250620004100 +0800" channel="cctv电视指南">
-    <title lang="zh">我喜欢我推荐-合唱先锋2023-4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620004100 +0800" stop="20250620004615 +0800" channel="cctv电视指南">
-    <title lang="zh">2025世界地理频道精彩多看点-25</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620004615 +0800" stop="20250620010630 +0800" channel="cctv电视指南">
-    <title lang="zh">我喜欢我推荐-典故里的科学-4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620010630 +0800" stop="20250620011010 +0800" channel="cctv电视指南">
-    <title lang="zh">生活提示-孩子们的眼睛需要防晒吗</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620011010 +0800" stop="20250620013010 +0800" channel="cctv电视指南">
-    <title lang="zh">我喜欢我推荐-影响世界的中国植物-19</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620013010 +0800" stop="20250620015010 +0800" channel="cctv电视指南">
-    <title lang="zh">我喜欢我推荐-影响世界的中国植物-20</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620015010 +0800" stop="20250620015510 +0800" channel="cctv电视指南">
-    <title lang="zh">电视指南频道包装-2025-48</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620015510 +0800" stop="20250620015910 +0800" channel="cctv电视指南">
-    <title lang="zh">轻松节拍-健身舞《赞歌》</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620015910 +0800" stop="20250620020000 +0800" channel="cctv电视指南">
-    <title lang="zh">请您欣赏-海南风光</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620020000 +0800" stop="20250620022000 +0800" channel="cctv电视指南">
@@ -20003,14 +19791,6 @@
     <title lang="zh">我喜欢我推荐-我的家乡菜-133</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620005315 +0800" stop="20250620013315 +0800" channel="cctv卫生健康">
-    <title lang="zh">健康之路-2024-65</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620013315 +0800" stop="20250620013555 +0800" channel="cctv卫生健康">
-    <title lang="zh">轻松节拍-减肥人群能吃坚果吗</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620013555 +0800" stop="20250620021555 +0800" channel="cctv卫生健康">
     <title lang="zh">百家讲坛-2024-204</title>
     <desc lang="zh"> </desc>
@@ -20587,14 +20367,6 @@
     <title lang="zh">综艺盛典-2025-2选对健康2</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620000000 +0800" stop="20250620010000 +0800" channel="cgtn">
-    <title lang="zh">全球财经(欧洲版)-20250619</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620010000 +0800" stop="20250620020000 +0800" channel="cgtn">
-    <title lang="zh">非洲直播室-20250619(2500)</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620020000 +0800" stop="20250620030000 +0800" channel="cgtn">
     <title lang="zh">全球财经(非洲版)-20250619</title>
     <desc lang="zh"> </desc>
@@ -21107,18 +20879,6 @@
     <title lang="zh">旅游指南(英)-2025-25</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620001500 +0800" stop="20250620010000 +0800" channel="cgtn法语">
-    <title lang="zh">电视剧(法)-爱拼会赢-15/35</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620010000 +0800" stop="20250620014500 +0800" channel="cgtn法语">
-    <title lang="zh">电视剧(法)-爱拼会赢-16/35</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620014500 +0800" stop="20250620020000 +0800" channel="cgtn法语">
-    <title lang="zh">动画城(法)-熊猫和小鼹鼠-9/52</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620020000 +0800" stop="20250620023000 +0800" channel="cgtn法语">
     <title lang="zh">旅游指南(法)-2025-25</title>
     <desc lang="zh"> </desc>
@@ -21569,18 +21329,6 @@
   </programme>
   <programme start="20250622233000 +0800" stop="20250623000000 +0800" channel="cgtn法语">
     <title lang="zh">魅力东方-2025-173</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620000000 +0800" stop="20250620004500 +0800" channel="cgtn俄语">
-    <title lang="zh">放映厅(俄)-什刹海(俄)-18/37</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620004500 +0800" stop="20250620013000 +0800" channel="cgtn俄语">
-    <title lang="zh">放映厅(俄)-什刹海(俄)-19/37</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620013000 +0800" stop="20250620020000 +0800" channel="cgtn俄语">
-    <title lang="zh">缤纷中国(俄)-2025-170</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620020000 +0800" stop="20250620023000 +0800" channel="cgtn俄语">
@@ -22135,18 +21883,6 @@
     <title lang="zh">生财有道(俄)-2025-173</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620001500 +0800" stop="20250620010000 +0800" channel="cgtn阿拉伯语">
-    <title lang="zh">电视剧(阿)-三十而已(阿)-22/43</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620010000 +0800" stop="20250620013000 +0800" channel="cgtn阿拉伯语">
-    <title lang="zh">综合新闻(阿)-20250619(2000)(重播)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620013000 +0800" stop="20250620020000 +0800" channel="cgtn阿拉伯语">
-    <title lang="zh">中国文艺(阿)-2025-170</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620020000 +0800" stop="20250620023000 +0800" channel="cgtn阿拉伯语">
     <title lang="zh">中国之旅(阿)-2025-170</title>
     <desc lang="zh"> </desc>
@@ -22661,22 +22397,6 @@
   </programme>
   <programme start="20250622233000 +0800" stop="20250623000000 +0800" channel="cgtn阿拉伯语">
     <title lang="zh">电视剧(阿)-三十而已(阿)-27/43</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620000000 +0800" stop="20250620004500 +0800" channel="cgtn西班牙语">
-    <title lang="zh">影视看台(西)-大山的女儿(西)30/30</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620004500 +0800" stop="20250620013000 +0800" channel="cgtn西班牙语">
-    <title lang="zh">影视看台(西)-功勋屠呦呦的礼物(西)1/6</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620013000 +0800" stop="20250620014500 +0800" channel="cgtn西班牙语">
-    <title lang="zh">寻味中国(西)-2025-170</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620014500 +0800" stop="20250620020000 +0800" channel="cgtn西班牙语">
-    <title lang="zh">中国通(西)-2025-170</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620020000 +0800" stop="20250620023000 +0800" channel="cgtn西班牙语">
@@ -23251,18 +22971,6 @@
     <title lang="zh">纪录片(西)-2025-345</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620000000 +0800" stop="20250620010000 +0800" channel="cgtn英文记录片">
-    <title lang="zh">特别呈现(英)2025-146</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620010000 +0800" stop="20250620013000 +0800" channel="cgtn英文记录片">
-    <title lang="zh">发现之路(英)2025-146</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620013000 +0800" stop="20250620020000 +0800" channel="cgtn英文记录片">
-    <title lang="zh">历史传奇(英)2025-146</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620020000 +0800" stop="20250620030000 +0800" channel="cgtn英文记录片">
     <title lang="zh">味道王国2025-146</title>
     <desc lang="zh"> </desc>
@@ -23641,18 +23349,6 @@
   </programme>
   <programme start="20250622230000 +0800" stop="20250622235600 +0800" channel="cgtn英文记录片">
     <title lang="zh">精彩放送(英)2025-294</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620000200 +0800" stop="20250620004200 +0800" channel="北京卫视">
-    <title lang="zh">身边</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620004200 +0800" stop="20250620004600 +0800" channel="北京卫视">
-    <title lang="zh">晚间气象服务</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620004600 +0800" stop="20250620013100 +0800" channel="北京卫视">
-    <title lang="zh">档案让真相不再沉没-让正义不再沉默(上)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620013100 +0800" stop="20250620021300 +0800" channel="北京卫视">
@@ -24075,14 +23771,6 @@
     <title lang="zh">红星剧场</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620002500 +0800" stop="20250620010900 +0800" channel="东方卫视">
-    <title lang="zh">无与伦比的美丽(33)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620010900 +0800" stop="20250620015300 +0800" channel="东方卫视">
-    <title lang="zh">无与伦比的美丽(34)</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620015300 +0800" stop="20250620023600 +0800" channel="东方卫视">
     <title lang="zh">无与伦比的美丽(35)</title>
     <desc lang="zh"> </desc>
@@ -24499,14 +24187,6 @@
     <title lang="zh">亚洲新声(5)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620000600 +0800" stop="20250620005500 +0800" channel="江苏卫视">
-    <title lang="zh">悬崖</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620005500 +0800" stop="20250620014100 +0800" channel="江苏卫视">
-    <title lang="zh">悬崖</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620014100 +0800" stop="20250620022600 +0800" channel="江苏卫视">
     <title lang="zh">悬崖</title>
     <desc lang="zh"> </desc>
@@ -24855,18 +24535,6 @@
     <title lang="zh">非来不可</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620000800 +0800" stop="20250620011800 +0800" channel="浙江卫视">
-    <title lang="zh">神奇的朋友</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620011800 +0800" stop="20250620011900 +0800" channel="浙江卫视">
-    <title lang="zh">天气预报</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620011900 +0800" stop="20250620014400 +0800" channel="浙江卫视">
-    <title lang="zh">新闻深一度</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620014400 +0800" stop="20250620023800 +0800" channel="浙江卫视">
     <title lang="zh">布达拉宫(1)铸文明</title>
     <desc lang="zh"> </desc>
@@ -25059,15 +24727,15 @@
     <title lang="zh">经典剧场庆余年(45)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621115100 +0800" stop="20250621123000 +0800" channel="浙江卫视">
+  <programme start="20250621115100 +0800" stop="20250621123400 +0800" channel="浙江卫视">
     <title lang="zh">经典剧场庆余年(46)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621123000 +0800" stop="20250621130200 +0800" channel="浙江卫视">
+  <programme start="20250621123400 +0800" stop="20250621131000 +0800" channel="浙江卫视">
     <title lang="zh">越看越有戏</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621130200 +0800" stop="20250621140100 +0800" channel="浙江卫视">
+  <programme start="20250621131000 +0800" stop="20250621140100 +0800" channel="浙江卫视">
     <title lang="zh">百姓剧场幸福像花儿一样(16)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -25253,14 +24921,6 @@
   </programme>
   <programme start="20250622220000 +0800" stop="20250623000000 +0800" channel="浙江卫视">
     <title lang="zh">乐来乐快乐</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620000000 +0800" stop="20250620000600 +0800" channel="湖南卫视">
-    <title lang="zh">全员加速中2025</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620000600 +0800" stop="20250620014800 +0800" channel="湖南卫视">
-    <title lang="zh">全员加速中2025</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620014800 +0800" stop="20250620021700 +0800" channel="湖南卫视">
@@ -25471,11 +25131,11 @@
     <title lang="zh">午间新闻</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621123100 +0800" stop="20250621123600 +0800" channel="湖南卫视">
+  <programme start="20250621123100 +0800" stop="20250621123700 +0800" channel="湖南卫视">
     <title lang="zh">卫视气象站</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621123600 +0800" stop="20250621135400 +0800" channel="湖南卫视">
+  <programme start="20250621123700 +0800" stop="20250621135400 +0800" channel="湖南卫视">
     <title lang="zh">偶像独播剧场微笑妈妈</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -25675,10 +25335,6 @@
     <title lang="zh">是女儿是妈妈2</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620002700 +0800" stop="20250620012000 +0800" channel="湖北卫视">
-    <title lang="zh">生死连(25)</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620012000 +0800" stop="20250620021200 +0800" channel="湖北卫视">
     <title lang="zh">生死连(26)</title>
     <desc lang="zh"> </desc>
@@ -25855,20 +25511,20 @@
     <title lang="zh">早间剧场洪湖赤卫队(28)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621111300 +0800" stop="20250621120800 +0800" channel="湖北卫视">
+  <programme start="20250621111300 +0800" stop="20250621120900 +0800" channel="湖北卫视">
     <title lang="zh">早间剧场洪湖赤卫队(29)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621120800 +0800" stop="20250621125900 +0800" channel="湖北卫视">
-    <title lang="zh">早间剧场洪湖赤卫队(21)</title>
+  <programme start="20250621120900 +0800" stop="20250621130500 +0800" channel="湖北卫视">
+    <title lang="zh">早间剧场洪湖赤卫队(30)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621125900 +0800" stop="20250621132200 +0800" channel="湖北卫视">
+  <programme start="20250621130500 +0800" stop="20250621130600 +0800" channel="湖北卫视">
     <title lang="zh">情系国防</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621132200 +0800" stop="20250621141800 +0800" channel="湖北卫视">
-    <title lang="zh">早间剧场洪湖赤卫队(22)</title>
+  <programme start="20250621130600 +0800" stop="20250621141800 +0800" channel="湖北卫视">
+    <title lang="zh">早间剧场洪湖赤卫队(31)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621141800 +0800" stop="20250621151800 +0800" channel="湖北卫视">
@@ -26037,10 +25693,6 @@
   </programme>
   <programme start="20250622234000 +0800" stop="20250623000000 +0800" channel="湖北卫视">
     <title lang="zh">毛泽东</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620001300 +0800" stop="20250620015200 +0800" channel="广东卫视">
-    <title lang="zh">兵临城下</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620015200 +0800" stop="20250620022300 +0800" channel="广东卫视">
@@ -26243,15 +25895,15 @@
     <title lang="zh">上午剧场秘杀名单(2)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621120700 +0800" stop="20250621124300 +0800" channel="广东卫视">
+  <programme start="20250621120700 +0800" stop="20250621124200 +0800" channel="广东卫视">
     <title lang="zh">健康有道精选版(34)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621124300 +0800" stop="20250621133600 +0800" channel="广东卫视">
+  <programme start="20250621124200 +0800" stop="20250621133400 +0800" channel="广东卫视">
     <title lang="zh">下午茶剧场壮士出川(25)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621133600 +0800" stop="20250621141700 +0800" channel="广东卫视">
+  <programme start="20250621133400 +0800" stop="20250621141700 +0800" channel="广东卫视">
     <title lang="zh">下午茶剧场壮士出川(26)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -26433,10 +26085,6 @@
   </programme>
   <programme start="20250622234500 +0800" stop="20250623000000 +0800" channel="广东卫视">
     <title lang="zh">航拍中国2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620003300 +0800" stop="20250620013700 +0800" channel="广西卫视">
-    <title lang="zh">胜利之路(27)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620013700 +0800" stop="20250620020400 +0800" channel="广西卫视">
@@ -26672,11 +26320,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621122200 +0800" stop="20250621131500 +0800" channel="广西卫视">
-    <title lang="zh">索芙特剧场</title>
+    <title lang="zh">索芙特剧场生死钟声(1)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621131500 +0800" stop="20250621141800 +0800" channel="广西卫视">
-    <title lang="zh">索芙特剧场</title>
+    <title lang="zh">索芙特剧场生死钟声(2)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621141800 +0800" stop="20250621150000 +0800" channel="广西卫视">
@@ -26869,14 +26517,6 @@
   </programme>
   <programme start="20250622230500 +0800" stop="20250623000000 +0800" channel="广西卫视">
     <title lang="zh">传奇剧场胜利之路(31)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620002800 +0800" stop="20250620010300 +0800" channel="黑龙江卫视">
-    <title lang="zh">百年巨匠2马三立(下)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620010300 +0800" stop="20250620015400 +0800" channel="黑龙江卫视">
-    <title lang="zh">幸福驿站</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620015400 +0800" stop="20250620024500 +0800" channel="黑龙江卫视">
@@ -27225,14 +26865,6 @@
   </programme>
   <programme start="20250622233600 +0800" stop="20250623000000 +0800" channel="黑龙江卫视">
     <title lang="zh">活力剧场一路朝阳</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620000000 +0800" stop="20250620001000 +0800" channel="海南卫视">
-    <title lang="zh">卫视高尔夫</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620001000 +0800" stop="20250620001800 +0800" channel="海南卫视">
-    <title lang="zh">点赞海南</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620001800 +0800" stop="20250620023000 +0800" channel="海南卫视">
@@ -27633,10 +27265,6 @@
   </programme>
   <programme start="20250622232000 +0800" stop="20250623000000 +0800" channel="海南卫视">
     <title lang="zh">纪录中国</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620002100 +0800" stop="20250620013300 +0800" channel="重庆卫视">
-    <title lang="zh">中国故事中国2(2)梦境(上)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620013300 +0800" stop="20250620024300 +0800" channel="重庆卫视">
@@ -28093,22 +27721,6 @@
   </programme>
   <programme start="20250622232400 +0800" stop="20250623000000 +0800" channel="重庆卫视">
     <title lang="zh">企业风云路</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620000300 +0800" stop="20250620001400 +0800" channel="深圳卫视">
-    <title lang="zh">直财经</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620001400 +0800" stop="20250620005200 +0800" channel="深圳卫视">
-    <title lang="zh">大湾区会客厅</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620005200 +0800" stop="20250620012200 +0800" channel="深圳卫视">
-    <title lang="zh">探秘时刻四柱悬空的阁楼</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620012200 +0800" stop="20250620015700 +0800" channel="深圳卫视">
-    <title lang="zh">大湾区会客厅</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620015700 +0800" stop="20250620024000 +0800" channel="深圳卫视">
@@ -28643,14 +28255,6 @@
     <title lang="zh">直财经</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620003000 +0800" stop="20250620012200 +0800" channel="四川卫视">
-    <title lang="zh">追风者(12)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620012200 +0800" stop="20250620015900 +0800" channel="四川卫视">
-    <title lang="zh">腹有诗书·思想的时代</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620015900 +0800" stop="20250620024200 +0800" channel="四川卫视">
     <title lang="zh">记住乡愁6(29)昭化古城-蜀道雄关义烈千秋</title>
     <desc lang="zh"> </desc>
@@ -28851,20 +28455,20 @@
     <title lang="zh">真情剧场津门飞鹰(24)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621111500 +0800" stop="20250621121700 +0800" channel="四川卫视">
+  <programme start="20250621111500 +0800" stop="20250621120000 +0800" channel="四川卫视">
     <title lang="zh">真情剧场津门飞鹰(25)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621121700 +0800" stop="20250621122400 +0800" channel="四川卫视">
+  <programme start="20250621120000 +0800" stop="20250621120600 +0800" channel="四川卫视">
     <title lang="zh">午间气象播报</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621122400 +0800" stop="20250621131900 +0800" channel="四川卫视">
-    <title lang="zh">真情剧场津门飞鹰(16)</title>
+  <programme start="20250621120600 +0800" stop="20250621130400 +0800" channel="四川卫视">
+    <title lang="zh">真情剧场津门飞鹰(26)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621131900 +0800" stop="20250621141600 +0800" channel="四川卫视">
-    <title lang="zh">真情剧场津门飞鹰(17)</title>
+  <programme start="20250621130400 +0800" stop="20250621141600 +0800" channel="四川卫视">
+    <title lang="zh">真情剧场津门飞鹰(27)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621141600 +0800" stop="20250621151200 +0800" channel="四川卫视">
@@ -29063,10 +28667,6 @@
     <title lang="zh">偶像剧场追风者(26)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620002200 +0800" stop="20250620013100 +0800" channel="河南卫视">
-    <title lang="zh">武林风</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620013100 +0800" stop="20250620020400 +0800" channel="河南卫视">
     <title lang="zh">记住乡愁4(36)梅林镇-爱拼才会赢</title>
     <desc lang="zh"> </desc>
@@ -29239,20 +28839,20 @@
     <title lang="zh">晨光剧场济公(3)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621120300 +0800" stop="20250621120900 +0800" channel="河南卫视">
+  <programme start="20250621120300 +0800" stop="20250621121000 +0800" channel="河南卫视">
     <title lang="zh">午间天气预报</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621120900 +0800" stop="20250621124100 +0800" channel="河南卫视">
+  <programme start="20250621121000 +0800" stop="20250621123600 +0800" channel="河南卫视">
     <title lang="zh">河南午间报道</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621124100 +0800" stop="20250621133400 +0800" channel="河南卫视">
-    <title lang="zh">阳光剧场西游记续</title>
+  <programme start="20250621123600 +0800" stop="20250621134500 +0800" channel="河南卫视">
+    <title lang="zh">阳光剧场济公(4)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621133400 +0800" stop="20250621142900 +0800" channel="河南卫视">
-    <title lang="zh">阳光剧场西游记续</title>
+  <programme start="20250621134500 +0800" stop="20250621142900 +0800" channel="河南卫视">
+    <title lang="zh">阳光剧场济公(5)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621142900 +0800" stop="20250621152200 +0800" channel="河南卫视">
@@ -29441,18 +29041,6 @@
   </programme>
   <programme start="20250622224000 +0800" stop="20250623000000 +0800" channel="河南卫视">
     <title lang="zh">梨园春</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620005200 +0800" stop="20250620010200 +0800" channel="东南卫视">
-    <title lang="zh">大宝大牙科学探索(29)向日葵</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620010200 +0800" stop="20250620011200 +0800" channel="东南卫视">
-    <title lang="zh">大宝大牙科学探索(30)光控灯</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620011200 +0800" stop="20250620013700 +0800" channel="东南卫视">
-    <title lang="zh">下姜村的绿水青山梦(1)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620013700 +0800" stop="20250620032000 +0800" channel="东南卫视">
@@ -29859,30 +29447,6 @@
     <title lang="zh">夜间剧场</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620000000 +0800" stop="20250620003800 +0800" channel="贵州卫视">
-    <title lang="zh">贵州新闻联播</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620003800 +0800" stop="20250620004100 +0800" channel="贵州卫视">
-    <title lang="zh">多彩贵州旅游天气导航</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620004100 +0800" stop="20250620012500 +0800" channel="贵州卫视">
-    <title lang="zh">锦衣之下(56)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620012500 +0800" stop="20250620013300 +0800" channel="贵州卫视">
-    <title lang="zh">来宵夜吧大胖刘烙锅</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620013300 +0800" stop="20250620013900 +0800" channel="贵州卫视">
-    <title lang="zh">来宵夜吧金三角吊子煨汤</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620013900 +0800" stop="20250620020000 +0800" channel="贵州卫视">
-    <title lang="zh">来宵夜吧最后一家豆花烤鱼</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620020000 +0800" stop="20250620023500 +0800" channel="贵州卫视">
     <title lang="zh">生活真美好</title>
     <desc lang="zh"> </desc>
@@ -30103,11 +29667,11 @@
     <title lang="zh">白天剧场狙击部队(11)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621124700 +0800" stop="20250621134500 +0800" channel="贵州卫视">
+  <programme start="20250621124700 +0800" stop="20250621134600 +0800" channel="贵州卫视">
     <title lang="zh">白天剧场狙击部队(12)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621134500 +0800" stop="20250621141600 +0800" channel="贵州卫视">
+  <programme start="20250621134600 +0800" stop="20250621141600 +0800" channel="贵州卫视">
     <title lang="zh">白天剧场狙击部队(13)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -30273,10 +29837,6 @@
   </programme>
   <programme start="20250622232000 +0800" stop="20250623000000 +0800" channel="贵州卫视">
     <title lang="zh">酱香原产地</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620002700 +0800" stop="20250620011400 +0800" channel="江西卫视">
-    <title lang="zh">暗战风云(8)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620011400 +0800" stop="20250620020400 +0800" channel="江西卫视">
@@ -30667,10 +30227,6 @@
     <title lang="zh">精品剧场</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620003300 +0800" stop="20250620013400 +0800" channel="辽宁卫视">
-    <title lang="zh">欢乐点点</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620013400 +0800" stop="20250620021000 +0800" channel="辽宁卫视">
     <title lang="zh">南来北往(21)</title>
     <desc lang="zh"> </desc>
@@ -30875,16 +30431,16 @@
     <title lang="zh">说天下</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621125200 +0800" stop="20250621134600 +0800" channel="辽宁卫视">
-    <title lang="zh">白天剧场父母爱情(40)</title>
+  <programme start="20250621125200 +0800" stop="20250621134000 +0800" channel="辽宁卫视">
+    <title lang="zh">白天剧场父母爱情(38)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621134600 +0800" stop="20250621143200 +0800" channel="辽宁卫视">
-    <title lang="zh">白天剧场父母爱情(41)</title>
+  <programme start="20250621134000 +0800" stop="20250621143200 +0800" channel="辽宁卫视">
+    <title lang="zh">白天剧场父母爱情(39)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621143200 +0800" stop="20250621152000 +0800" channel="辽宁卫视">
-    <title lang="zh">白天剧场父母爱情(42)</title>
+    <title lang="zh">白天剧场父母爱情(40)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621152000 +0800" stop="20250621163200 +0800" channel="辽宁卫视">
@@ -31073,14 +30629,6 @@
   </programme>
   <programme start="20250622232000 +0800" stop="20250623000000 +0800" channel="辽宁卫视">
     <title lang="zh">欢乐集结号</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620001400 +0800" stop="20250620010200 +0800" channel="安徽卫视">
-    <title lang="zh">执行法官(14)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620010200 +0800" stop="20250620015000 +0800" channel="安徽卫视">
-    <title lang="zh">执行法官(15)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620015000 +0800" stop="20250620024100 +0800" channel="安徽卫视">
@@ -31627,36 +31175,32 @@
     <title lang="zh">西游记4</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621115900 +0800" stop="20250621120000 +0800" channel="河北卫视">
+  <programme start="20250621115900 +0800" stop="20250621130300 +0800" channel="河北卫视">
     <title lang="zh">西游记5</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621120000 +0800" stop="20250621125300 +0800" channel="河北卫视">
+  <programme start="20250621130300 +0800" stop="20250621135400 +0800" channel="河北卫视">
     <title lang="zh">西游记6</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621125300 +0800" stop="20250621134600 +0800" channel="河北卫视">
+  <programme start="20250621135400 +0800" stop="20250621143600 +0800" channel="河北卫视">
     <title lang="zh">西游记7</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621134600 +0800" stop="20250621143600 +0800" channel="河北卫视">
+  <programme start="20250621143600 +0800" stop="20250621152700 +0800" channel="河北卫视">
     <title lang="zh">西游记8</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621143600 +0800" stop="20250621152700 +0800" channel="河北卫视">
+  <programme start="20250621152700 +0800" stop="20250621161800 +0800" channel="河北卫视">
     <title lang="zh">西游记9</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621152700 +0800" stop="20250621161800 +0800" channel="河北卫视">
+  <programme start="20250621161800 +0800" stop="20250621170600 +0800" channel="河北卫视">
     <title lang="zh">西游记10</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621161800 +0800" stop="20250621170600 +0800" channel="河北卫视">
-    <title lang="zh">西游记11</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250621170600 +0800" stop="20250621175300 +0800" channel="河北卫视">
-    <title lang="zh">西游记12</title>
+    <title lang="zh">西游记11</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621175300 +0800" stop="20250621183000 +0800" channel="河北卫视">
@@ -32019,15 +31563,15 @@
     <title lang="zh">爱家剧场苍狼</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621112000 +0800" stop="20250621122400 +0800" channel="山东卫视">
+  <programme start="20250621112000 +0800" stop="20250621122500 +0800" channel="山东卫视">
     <title lang="zh">爱家剧场苍狼</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621122400 +0800" stop="20250621131600 +0800" channel="山东卫视">
+  <programme start="20250621122500 +0800" stop="20250621131700 +0800" channel="山东卫视">
     <title lang="zh">爱家剧场雪豹</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621131600 +0800" stop="20250621135900 +0800" channel="山东卫视">
+  <programme start="20250621131700 +0800" stop="20250621135900 +0800" channel="山东卫视">
     <title lang="zh">爱家剧场雪豹</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -32273,10 +31817,6 @@
   </programme>
   <programme start="20250622235800 +0800" stop="20250623000000 +0800" channel="山东卫视">
     <title lang="zh">案发现场(2)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620002000 +0800" stop="20250620010600 +0800" channel="天津卫视">
-    <title lang="zh">冰锋(28)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620010600 +0800" stop="20250620021800 +0800" channel="天津卫视">
@@ -32633,18 +32173,6 @@
   </programme>
   <programme start="20250622232500 +0800" stop="20250623000000 +0800" channel="天津卫视">
     <title lang="zh">冰锋(33)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620002600 +0800" stop="20250620005600 +0800" channel="吉林卫视">
-    <title lang="zh">天龙八部(24)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620005600 +0800" stop="20250620012900 +0800" channel="吉林卫视">
-    <title lang="zh">天龙八部(25)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620012900 +0800" stop="20250620015900 +0800" channel="吉林卫视">
-    <title lang="zh">天龙八部(26)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620015900 +0800" stop="20250620022900 +0800" channel="吉林卫视">
@@ -33135,14 +32663,6 @@
     <title lang="zh">凌晨剧场</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620000500 +0800" stop="20250620005200 +0800" channel="陕西卫视">
-    <title lang="zh">智取华山</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620005200 +0800" stop="20250620012200 +0800" channel="陕西卫视">
-    <title lang="zh">纪录时间</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620012200 +0800" stop="20250620020500 +0800" channel="陕西卫视">
     <title lang="zh">丝路微短剧</title>
     <desc lang="zh"> </desc>
@@ -33319,11 +32839,11 @@
     <title lang="zh">雍正王朝(9)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621122600 +0800" stop="20250621133400 +0800" channel="陕西卫视">
+  <programme start="20250621122600 +0800" stop="20250621133900 +0800" channel="陕西卫视">
     <title lang="zh">雍正王朝(10)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621133400 +0800" stop="20250621144500 +0800" channel="陕西卫视">
+  <programme start="20250621133900 +0800" stop="20250621144500 +0800" channel="陕西卫视">
     <title lang="zh">雍正王朝(11)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -33501,18 +33021,6 @@
   </programme>
   <programme start="20250622224200 +0800" stop="20250623000000 +0800" channel="陕西卫视">
     <title lang="zh">三进山城</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620002100 +0800" stop="20250620005300 +0800" channel="甘肃卫视">
-    <title lang="zh">大漠苍狼(24)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620005300 +0800" stop="20250620012700 +0800" channel="甘肃卫视">
-    <title lang="zh">纪录30分稻米之路(10)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620012700 +0800" stop="20250620020000 +0800" channel="甘肃卫视">
-    <title lang="zh">绝密543(8)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620020000 +0800" stop="20250620023000 +0800" channel="甘肃卫视">
@@ -33759,27 +33267,27 @@
     <title lang="zh">丝路大讲堂</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621113700 +0800" stop="20250621115900 +0800" channel="甘肃卫视">
+  <programme start="20250621113700 +0800" stop="20250621120600 +0800" channel="甘肃卫视">
     <title lang="zh">雄关剧场飞虎神鹰(7)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621115900 +0800" stop="20250621123000 +0800" channel="甘肃卫视">
-    <title lang="zh">丝路大讲堂</title>
+  <programme start="20250621120600 +0800" stop="20250621123000 +0800" channel="甘肃卫视">
+    <title lang="zh">生活服务</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250621123000 +0800" stop="20250621125100 +0800" channel="甘肃卫视">
     <title lang="zh">午间20分</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621125100 +0800" stop="20250621130200 +0800" channel="甘肃卫视">
-    <title lang="zh">甘肃天气预报</title>
+  <programme start="20250621125100 +0800" stop="20250621130300 +0800" channel="甘肃卫视">
+    <title lang="zh">劳模纪录工程廖亚洲</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621130200 +0800" stop="20250621135200 +0800" channel="甘肃卫视">
+  <programme start="20250621130300 +0800" stop="20250621135600 +0800" channel="甘肃卫视">
     <title lang="zh">花雨剧场炮神(3)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621135200 +0800" stop="20250621145000 +0800" channel="甘肃卫视">
+  <programme start="20250621135600 +0800" stop="20250621145000 +0800" channel="甘肃卫视">
     <title lang="zh">花雨剧场炮神(4)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -33999,14 +33507,6 @@
     <title lang="zh">月牙泉剧场大漠苍狼(29)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620002500 +0800" stop="20250620005500 +0800" channel="宁夏卫视">
-    <title lang="zh">百年巨匠2李焕之(上)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620005500 +0800" stop="20250620012600 +0800" channel="宁夏卫视">
-    <title lang="zh">百年巨匠2李焕之(下)</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620012600 +0800" stop="20250620020900 +0800" channel="宁夏卫视">
     <title lang="zh">李卫当官2(18)</title>
     <desc lang="zh"> </desc>
@@ -34223,11 +33723,11 @@
     <title lang="zh">真相百分百</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621121000 +0800" stop="20250621131200 +0800" channel="宁夏卫视">
+  <programme start="20250621121000 +0800" stop="20250621131300 +0800" channel="宁夏卫视">
     <title lang="zh">红高粱(44)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621131200 +0800" stop="20250621140400 +0800" channel="宁夏卫视">
+  <programme start="20250621131300 +0800" stop="20250621140400 +0800" channel="宁夏卫视">
     <title lang="zh">红高粱(45)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -34463,14 +33963,6 @@
     <title lang="zh">老酒馆(22)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620002900 +0800" stop="20250620011100 +0800" channel="内蒙古卫视">
-    <title lang="zh">五号特工组(1)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620011100 +0800" stop="20250620015200 +0800" channel="内蒙古卫视">
-    <title lang="zh">五号特工组(2)</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620015200 +0800" stop="20250620024000 +0800" channel="内蒙古卫视">
     <title lang="zh">李卫当官(27)</title>
     <desc lang="zh"> </desc>
@@ -34691,15 +34183,15 @@
     <title lang="zh">正午时光</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621122000 +0800" stop="20250621125200 +0800" channel="内蒙古卫视">
+  <programme start="20250621122000 +0800" stop="20250621125300 +0800" channel="内蒙古卫视">
     <title lang="zh">传奇剧场战士9</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621125200 +0800" stop="20250621133500 +0800" channel="内蒙古卫视">
+  <programme start="20250621125300 +0800" stop="20250621133600 +0800" channel="内蒙古卫视">
     <title lang="zh">传奇剧场战士10</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621133500 +0800" stop="20250621140700 +0800" channel="内蒙古卫视">
+  <programme start="20250621133600 +0800" stop="20250621140700 +0800" channel="内蒙古卫视">
     <title lang="zh">传奇剧场战士11</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -34917,14 +34409,6 @@
   </programme>
   <programme start="20250622230500 +0800" stop="20250623000000 +0800" channel="内蒙古卫视">
     <title lang="zh">五号特工组</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620003200 +0800" stop="20250620010400 +0800" channel="云南卫视">
-    <title lang="zh">局中人(28)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620010400 +0800" stop="20250620013700 +0800" channel="云南卫视">
-    <title lang="zh">局中人(29)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620013700 +0800" stop="20250620021000 +0800" channel="云南卫视">
@@ -35327,14 +34811,6 @@
     <title lang="zh">局中人(45)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620000300 +0800" stop="20250620005100 +0800" channel="山西卫视">
-    <title lang="zh">猎手(20)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620005100 +0800" stop="20250620012900 +0800" channel="山西卫视">
-    <title lang="zh">秦王李世民传奇</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620012900 +0800" stop="20250620020600 +0800" channel="山西卫视">
     <title lang="zh">秦王李世民传奇</title>
     <desc lang="zh"> </desc>
@@ -35711,10 +35187,6 @@
     <title lang="zh">热血剧场</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620003000 +0800" stop="20250620011900 +0800" channel="青海卫视">
-    <title lang="zh">庆余年(37)</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620011900 +0800" stop="20250620020500 +0800" channel="青海卫视">
     <title lang="zh">庆余年(38)</title>
     <desc lang="zh"> </desc>
@@ -35903,11 +35375,11 @@
     <title lang="zh">昆仑剧场济公游记1</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621123000 +0800" stop="20250621125700 +0800" channel="青海卫视">
+  <programme start="20250621123000 +0800" stop="20250621125600 +0800" channel="青海卫视">
     <title lang="zh">午间360</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621125700 +0800" stop="20250621135000 +0800" channel="青海卫视">
+  <programme start="20250621125600 +0800" stop="20250621135000 +0800" channel="青海卫视">
     <title lang="zh">郁金香剧场济公游记2</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -36077,18 +35549,6 @@
   </programme>
   <programme start="20250622233000 +0800" stop="20250623000000 +0800" channel="青海卫视">
     <title lang="zh">龙斗之ONE冠军赛</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620001300 +0800" stop="20250620010300 +0800" channel="西藏卫视">
-    <title lang="zh">高山清渠(5)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620010300 +0800" stop="20250620011800 +0800" channel="西藏卫视">
-    <title lang="zh">跟我学藏语藏戏第一村的致富路</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620011800 +0800" stop="20250620014900 +0800" channel="西藏卫视">
-    <title lang="zh">西藏诱惑在水一方</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620014900 +0800" stop="20250620023900 +0800" channel="西藏卫视">
@@ -36517,26 +35977,6 @@
   </programme>
   <programme start="20250622233200 +0800" stop="20250623000000 +0800" channel="西藏卫视">
     <title lang="zh">高山清渠(10)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620000000 +0800" stop="20250620002000 +0800" channel="中国教育电视台-1">
-    <title lang="zh">等着我(14)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620002000 +0800" stop="20250620005000 +0800" channel="中国教育电视台-1">
-    <title lang="zh">发现中国(102)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620005000 +0800" stop="20250620012100 +0800" channel="中国教育电视台-1">
-    <title lang="zh">发现中国(103)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620012100 +0800" stop="20250620012500 +0800" channel="中国教育电视台-1">
-    <title lang="zh">导视</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620012500 +0800" stop="20250620015300 +0800" channel="中国教育电视台-1">
-    <title lang="zh">影视公开课(7)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250620015300 +0800" stop="20250620022100 +0800" channel="中国教育电视台-1">
@@ -37263,14 +36703,6 @@
     <title lang="zh">等着我(17)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250620001500 +0800" stop="20250620003800 +0800" channel="新疆卫视">
-    <title lang="zh">新疆味道</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250620003800 +0800" stop="20250620010800 +0800" channel="新疆卫视">
-    <title lang="zh">真实纪录百年巨匠吴玉章(上)</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250620010800 +0800" stop="20250620021000 +0800" channel="新疆卫视">
     <title lang="zh">情满九道弯(23)</title>
     <desc lang="zh"> </desc>
@@ -37455,11 +36887,11 @@
     <title lang="zh">糊涂县令郑板桥(30)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621112400 +0800" stop="20250621122900 +0800" channel="新疆卫视">
+  <programme start="20250621112400 +0800" stop="20250621122800 +0800" channel="新疆卫视">
     <title lang="zh">糊涂县令郑板桥(31)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621122900 +0800" stop="20250621133400 +0800" channel="新疆卫视">
+  <programme start="20250621122800 +0800" stop="20250621133400 +0800" channel="新疆卫视">
     <title lang="zh">糊涂县令郑板桥(32)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -45146,16 +44578,12 @@
     <title lang="zh">我們與惡的距離Ⅱ(6)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250622010000 +0800" stop="20250622020000 +0800" channel="公視MOD">
+  <programme start="20250622020000 +0800" stop="20250622030000 +0800" channel="公視MOD">
     <title lang="zh">我們與惡的距離Ⅱ(5)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250622020000 +0800" stop="20250622030000 +0800" channel="公視MOD">
-    <title lang="zh">我們與惡的距離Ⅱ(6)</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250622030000 +0800" stop="20250622040000 +0800" channel="公視MOD">
-    <title lang="zh">搬戲•人生(2)</title>
+    <title lang="zh">我們與惡的距離Ⅱ(6)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250622040000 +0800" stop="20250622050000 +0800" channel="公視MOD">
@@ -84320,42 +83748,6 @@
   </programme>
   <programme start="20250622230000 +0800" stop="20250622233000 +0800" channel="HITS">
     <title lang="zh">歡樂一家親 第6季S6(8)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250621003000 +0800" stop="20250621020000 +0800" channel="龍華經典">
-    <title lang="zh">阿紫</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250621020000 +0800" stop="20250621060000 +0800" channel="龍華經典">
-    <title lang="zh">收播</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250621060000 +0800" stop="20250621091000 +0800" channel="龍華經典">
-    <title lang="zh">教父</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250621091000 +0800" stop="20250621112500 +0800" channel="龍華經典">
-    <title lang="zh">第五砲兵連</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250621112500 +0800" stop="20250621133500 +0800" channel="龍華經典">
-    <title lang="zh">警網鐵金剛</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250621133500 +0800" stop="20250621152500 +0800" channel="龍華經典">
-    <title lang="zh">殭屍先生</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250621152500 +0800" stop="20250621172000 +0800" channel="龍華經典">
-    <title lang="zh">蝙蝠俠1966</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250621172000 +0800" stop="20250621191000 +0800" channel="龍華經典">
-    <title lang="zh">摩斯拉</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250621191000 +0800" stop="20250621210000 +0800" channel="龍華經典">
-    <title lang="zh">逃學威龍</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250622002000 +0800" stop="20250622020000 +0800" channel="龍華經典">
@@ -208166,18 +207558,6 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">凜子小姐想試愛08</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250621005800 +0000" stop="20250621015800 +0000" channel="台視">
-    <title lang="zh">就是愛住設計家</title>
-    <desc lang="zh">全新室內設計節目，有最強的設計師陣容，並用超實用居家裝潢知識，觀眾更能迅速了解基本裝潢概念！</desc>
-  </programme>
-  <programme start="20250621015800 +0000" stop="20250621025800 +0000" channel="台視">
-    <title lang="zh">消費情報讚</title>
-    <desc lang="zh">邀請各領域的專家達人，為大家過濾篩選最健康與安心無慮的生活用品，讓《消費情報讚》站在最前線，幫您一起為食衣住行把關，建造全家人優質與天然的生活品質！ 呼你生活有GO讚！</desc>
-  </programme>
-  <programme start="20250621025800 +0000" stop="20250621035800 +0000" channel="台視">
-    <title lang="zh">益起看世界</title>
-    <desc lang="zh">每天發生的國際要聞需要深度解析，從最新科技知識到各地人文風情，從影響深遠的國際衝突到全球政經局勢發展，結合在地觀點、全球視野與台視新聞團隊的國際新聞專業，要帶給您不一樣的第一手報導。邀請您益起看世界，開拓您的國際視野。</desc>
-  </programme>
   <programme start="20250621035800 +0000" stop="20250621050000 +0000" channel="台視">
     <title lang="zh">午安您好台視新聞</title>
     <desc lang="zh">由台視主播為觀眾帶來的午間新聞，帶給各位最專業、完整、深入的新聞報導。</desc>
@@ -208337,22 +207717,6 @@ The site: www.tv5monde.com/terriennes</desc>
   <programme start="20250622220000 +0000" stop="20250622230000 +0000" channel="台視">
     <title lang="zh">360行向前衝</title>
     <desc lang="zh">360行，行行都可以出狀元，節目中介紹各行各業的專業達人和達人們畢生努力的過程。</desc>
-  </programme>
-  <programme start="20250621000000 +0000" stop="20250621010000 +0000" channel="中視">
-    <title lang="zh">MIT台灣誌</title>
-    <desc lang="zh">「MIT台灣誌」以發現台灣、寫真台灣、紀錄台灣為主旨，走遍台灣的每寸土地，介紹台灣的人文環境、大自然地理等…</desc>
-  </programme>
-  <programme start="20250621010000 +0000" stop="20250621020000 +0000" channel="中視">
-    <title lang="zh">繞著幸福轉</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621020000 +0000" stop="20250621030000 +0000" channel="中視">
-    <title lang="zh">繞著幸福轉</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621030000 +0000" stop="20250621035800 +0000" channel="中視">
-    <title lang="zh">中視新聞</title>
-    <desc lang="zh"/>
   </programme>
   <programme start="20250621035800 +0000" stop="20250621050000 +0000" channel="中視">
     <title lang="zh">中視午間新聞</title>
@@ -208870,22 +208234,6 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">金融鬼谷子</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621000000 +0000" stop="20250621013000 +0000" channel="華視">
-    <title lang="zh">莒光園地</title>
-    <desc lang="zh">「莒光園地」電視教學，乃國軍政治教育之主要作為與重要管道，亦為社會教育及公民教育之重要部份與延續，依據憲法、國防法之規範，結合政府政策目標，考量社會情勢、兩岸關係發展與建軍備戰等需要，進行節目策劃，藉多元、活潑之宣教方式落實推展。</desc>
-  </programme>
-  <programme start="20250621013000 +0000" stop="20250621020000 +0000" channel="華視">
-    <title lang="zh">台灣好味道</title>
-    <desc lang="zh">由荒山亮擔任旁白的美食紀錄片系列，台灣是個美食王國，擁有許多民族雜揉共榮的痕跡，不論是原住民、閩南、客家、雲南滇緬、日本或新住民等，多元文化的飲食特色，成就了台灣傲人的美食王國之譽，而美食背後的文化底蘊更是值得細細品嚐。</desc>
-  </programme>
-  <programme start="20250621020000 +0000" stop="20250621030000 +0000" channel="華視">
-    <title lang="zh">華視1000新聞搶先報</title>
-    <desc lang="zh">華視新聞部每天整理當天重大國內外新聞事件，為觀眾做最快、最即時的播報。</desc>
-  </programme>
-  <programme start="20250621030000 +0000" stop="20250621035700 +0000" channel="華視">
-    <title lang="zh">華視1100新聞搶先報</title>
-    <desc lang="zh">華視新聞部每天整理當天重大國內外新聞事件，為觀眾做最快、最即時的播報。</desc>
-  </programme>
   <programme start="20250621035700 +0000" stop="20250621050000 +0000" channel="華視">
     <title lang="zh">華視午間新聞</title>
     <desc lang="zh">華視午間新聞由最專業的華視主播，帶給觀眾朋友更多元化的新聞。</desc>
@@ -209353,30 +208701,6 @@ The site: www.tv5monde.com/terriennes</desc>
   <programme start="20250626073000 +0000" stop="20250626080000 +0000" channel="華視">
     <title lang="zh">台灣好味道</title>
     <desc lang="zh">由荒山亮擔任旁白的美食紀錄片系列，台灣是個美食王國，擁有許多民族雜揉共榮的痕跡，不論是原住民、閩南、客家、雲南滇緬、日本或新住民等，多元文化的飲食特色，成就了台灣傲人的美食王國之譽，而美食背後的文化底蘊更是值得細細品嚐。</desc>
-  </programme>
-  <programme start="20250621003000 +0000" stop="20250621010000 +0000" channel="好消息2台">
-    <title lang="zh">空中主日學</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621010000 +0000" stop="20250621020000 +0000" channel="好消息2台">
-    <title lang="zh">葉光明講座</title>
-    <desc lang="zh">由全球肯定的聖經教師與作家葉光明（Derek Prince）牧師，向世界宣揚上帝啟示的話語。五十多年來，葉牧師已經以50多種語言，向全球一百多個國家宣示上帝的旨意，牧養無數教友。</desc>
-  </programme>
-  <programme start="20250621020000 +0000" stop="20250621023000 +0000" channel="好消息2台">
-    <title lang="zh">陸可鐸時間</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621023000 +0000" stop="20250621030000 +0000" channel="好消息2台">
-    <title lang="zh">生命的觸動</title>
-    <desc lang="zh">在像是查爾斯史丹利牧師等知名事工或牧師引領下，帶領教友導讀聖經，以深入淺出的話語，引用聖經中的智慧，宣揚上帝啟示。</desc>
-  </programme>
-  <programme start="20250621030000 +0000" stop="20250621040000 +0000" channel="好消息2台">
-    <title lang="zh">空中禮拜堂</title>
-    <desc lang="zh">邀請國內外各地知名講員，分享最新最挑旺的信息，讓你在家，也能跟上聖靈的水流，接受真理的裝備。</desc>
-  </programme>
-  <programme start="20250621040000 +0000" stop="20250621040500 +0000" channel="好消息2台">
-    <title lang="zh">遇見祝福</title>
-    <desc lang="zh"/>
   </programme>
   <programme start="20250621040500 +0000" stop="20250621050000 +0000" channel="好消息2台">
     <title lang="zh">真情部落格</title>
@@ -210309,26 +209633,6 @@ The site: www.tv5monde.com/terriennes</desc>
   <programme start="20250626073000 +0000" stop="20250626080000 +0000" channel="好消息2台">
     <title lang="zh">福氣人生</title>
     <desc lang="zh">如何才能擁有福氣人生?看牧師們以台語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
-  </programme>
-  <programme start="20250621003000 +0000" stop="20250621010000 +0000" channel="好消息">
-    <title lang="zh">CWN世界新聞</title>
-    <desc lang="zh">內容涵蓋教會增長、福音事工、社會焦點與人道救援等。目標在於建立教會與事工團體的國際化網絡，為了神在全球的工作，作出更好的報導。</desc>
-  </programme>
-  <programme start="20250621010000 +0000" stop="20250621020000 +0000" channel="好消息">
-    <title lang="zh">道在人間(台)</title>
-    <desc lang="zh">節目中邀請趙鏞基、葉光明、傑克海福德、喬依絲邁爾等，國內外知名牧長，以豐富的服事經歷與紮實的神學裝備，教導、傳講聖經真道，堅固信徒並警醒人心。</desc>
-  </programme>
-  <programme start="20250621020000 +0000" stop="20250621030000 +0000" channel="好消息">
-    <title lang="zh">特會</title>
-    <desc lang="zh">以造就、培靈與更新為宗旨，邀請來自世界各國的知名佈道牧師，為信徒傳遞神國信息，挑望靈火，奮興眾人！為信徒提供一個提升性靈的園地。(資料來源：GOOD TV)</desc>
-  </programme>
-  <programme start="20250621030000 +0000" stop="20250621040000 +0000" channel="好消息">
-    <title lang="zh">特會</title>
-    <desc lang="zh">以造就、培靈與更新為宗旨，邀請來自世界各國的知名佈道牧師，為信徒傳遞神國信息，挑望靈火，奮興眾人！為信徒提供一個提升性靈的園地。(資料來源：GOOD TV)</desc>
-  </programme>
-  <programme start="20250621040000 +0000" stop="20250621043000 +0000" channel="好消息">
-    <title lang="zh">好消息國度瞭望</title>
-    <desc lang="zh">台灣與全球教會的重點新聞和專題報導，並有世界各地宣教事工、慈惠事工的拓展，與事工內容介紹，以及全球地方教會新聞報。讓您看到上帝奇妙的手，在全球華人教會中施行奇妙的作為。</desc>
   </programme>
   <programme start="20250621043000 +0000" stop="20250621050000 +0000" channel="好消息">
     <title lang="zh">CWN世界新聞</title>
@@ -211362,26 +210666,6 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">來 跳讚美操</title>
     <desc lang="zh">從原本兩位近70歲的退休長輩，在榮星公園，以聖經經文搭配音樂旋律及肢體動作，讓聖經變成舞蹈，這項由國際讚美操董事長吳美雲老師自創的體操運動，20年後跳到全台，也跳到亞洲、跳到全世界二十幾個國家。</desc>
   </programme>
-  <programme start="20250621000000 +0000" stop="20250621010000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">貪吃鬼歷險記(21)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621010000 +0000" stop="20250621020000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">小浣熊ABC(6)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621020000 +0000" stop="20250621030000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">快樂DoReMi(81)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621030000 +0000" stop="20250621040000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">Badanamu說故事(4)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621040000 +0000" stop="20250621043000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">快樂DoReMi(152)</title>
-    <desc lang="zh"/>
-  </programme>
   <programme start="20250621043000 +0000" stop="20250621050000 +0000" channel="ELTV生活英语台">
     <title lang="zh">森林偵探(66)</title>
     <desc lang="zh"/>
@@ -211905,38 +211189,6 @@ The site: www.tv5monde.com/terriennes</desc>
   <programme start="20250626070000 +0000" stop="20250626080000 +0000" channel="ELTV生活英语台">
     <title lang="zh">快樂DoReMi(80)</title>
     <desc lang="zh"/>
-  </programme>
-  <programme start="20250621003000 +0000" stop="20250621010000 +0000" channel="龍華卡通台">
-    <title lang="zh">單車俠</title>
-    <desc lang="zh">在天丸區的新京市。趙氏財團董事長單車博士和百夫長集團的首領炎天，正在對普通市民進行演講，內容是關於x5事件對環境造成的破壞，和對未來的展望。單車博士對其所創設的趙氏科學學院所取得的實際成績進行了說明</desc>
-  </programme>
-  <programme start="20250621010000 +0000" stop="20250621013000 +0000" channel="龍華卡通台">
-    <title lang="zh">酷奇銀河遊騎隊</title>
-    <desc lang="zh">聰明倉鼠吉克、勇敢松鼠露比、大力狗狗阿力，還有疾速貓咪閃電，組成了宇宙最酷的超級英雄組合！他們幫助其他星球的居民解決問題，保護銀河系，並對抗邪惡又神秘的鐵鷹怪！</desc>
-  </programme>
-  <programme start="20250621013000 +0000" stop="20250621020000 +0000" channel="龍華卡通台">
-    <title lang="zh">酷奇銀河遊騎隊</title>
-    <desc lang="zh">聰明倉鼠吉克、勇敢松鼠露比、大力狗狗阿力，還有疾速貓咪閃電，組成了宇宙最酷的超級英雄組合！他們幫助其他星球的居民解決問題，保護銀河系，並對抗邪惡又神秘的鐵鷹怪！</desc>
-  </programme>
-  <programme start="20250621020000 +0000" stop="20250621023000 +0000" channel="龍華卡通台">
-    <title lang="zh">卡通人馬汀</title>
-    <desc lang="zh">妙趣橫生的奇幻世界！讓你會心一笑的加拿大卡通！住在卡通城的卡通人馬汀，熱心雞婆又愛管閒事，幫忙解決問題卻總帶來驚奇。就像天天生活在派對中，隨心所欲又充滿歡笑驚喜。</desc>
-  </programme>
-  <programme start="20250621023000 +0000" stop="20250621030000 +0000" channel="龍華卡通台">
-    <title lang="zh">卡通人馬汀</title>
-    <desc lang="zh">妙趣橫生的奇幻世界！讓你會心一笑的加拿大卡通！住在卡通城的卡通人馬汀，熱心雞婆又愛管閒事，幫忙解決問題卻總帶來驚奇。就像天天生活在派對中，隨心所欲又充滿歡笑驚喜。</desc>
-  </programme>
-  <programme start="20250621030000 +0000" stop="20250621033000 +0000" channel="龍華卡通台">
-    <title lang="zh">機甲獸神之爆裂飛車</title>
-    <desc lang="zh">飛倫、擎鋒是一對熱愛爆裂飛車運動的兄弟，兩人在疾風都市參加培訓夏令營，意外結識了寄宿於迷你車的光明戰士，而另一邊的黑暗戰士蠢蠢欲動企圖控制整個宇宙，人類與戰士結成夥伴，一場光明與黑暗的鬥爭即將拉開序幕，宇宙的未來又將會是如何呢？</desc>
-  </programme>
-  <programme start="20250621033000 +0000" stop="20250621040000 +0000" channel="龍華卡通台">
-    <title lang="zh">機甲獸神之爆裂飛車</title>
-    <desc lang="zh">飛倫、擎鋒是一對熱愛爆裂飛車運動的兄弟，兩人在疾風都市參加培訓夏令營，意外結識了寄宿於迷你車的光明戰士，而另一邊的黑暗戰士蠢蠢欲動企圖控制整個宇宙，人類與戰士結成夥伴，一場光明與黑暗的鬥爭即將拉開序幕，宇宙的未來又將會是如何呢？</desc>
-  </programme>
-  <programme start="20250621040000 +0000" stop="20250621043000 +0000" channel="龍華卡通台">
-    <title lang="zh">機甲獸神之爆裂飛車</title>
-    <desc lang="zh">飛倫、擎鋒是一對熱愛爆裂飛車運動的兄弟，兩人在疾風都市參加培訓夏令營，意外結識了寄宿於迷你車的光明戰士，而另一邊的黑暗戰士蠢蠢欲動企圖控制整個宇宙，人類與戰士結成夥伴，一場光明與黑暗的鬥爭即將拉開序幕，宇宙的未來又將會是如何呢？</desc>
   </programme>
   <programme start="20250621043000 +0000" stop="20250621050000 +0000" channel="龍華卡通台">
     <title lang="zh">機甲獸神之爆裂飛車</title>
@@ -212926,26 +212178,6 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">魔法小廚師</title>
     <desc lang="zh">魔法小廚師小令、茲普、史黛拉和陽陽，利用特魯莉奶奶的魔法食譜，享受烹飪、盡情冒險，每個食譜都充滿驚喜、風味和色彩，但大鬍子庫伯卻想偷走這本食譜！</desc>
   </programme>
-  <programme start="20250621000000 +0000" stop="20250621010000 +0000" channel="亞洲旅遊台">
-    <title lang="zh">33廚房</title>
-    <desc lang="zh">電影圈的大明星林美秀首度跨足綜藝接主持棒，即將大展廚藝與觀眾們一起美味上菜！</desc>
-  </programme>
-  <programme start="20250621010000 +0000" stop="20250621020000 +0000" channel="亞洲旅遊台">
-    <title lang="zh">融融歷險記</title>
-    <desc lang="zh">《融融歷險記 Ben’s Adventure》的創辦人Ben，立志前往那些沒有人要去的地方。走過五大洲75餘國，喜歡拍影片更愛與當地人交流，因為這才是旅行真正的意義。「旅行的意義是什麼？」旅行的意義，看不同的風景，認識不同的人，領略不同的美好，讓你覺得世界那麼大。</desc>
-  </programme>
-  <programme start="20250621020000 +0000" stop="20250621023000 +0000" channel="亞洲旅遊台">
-    <title lang="zh">一起輕旅行</title>
-    <desc lang="zh">東森電視監製，專門介紹星級飯店吃喝玩樂的台灣旅遊節目，讓我們一起輕旅行！</desc>
-  </programme>
-  <programme start="20250621023000 +0000" stop="20250621030000 +0000" channel="亞洲旅遊台">
-    <title lang="zh">一起輕旅行</title>
-    <desc lang="zh">東森電視監製，專門介紹星級飯店吃喝玩樂的台灣旅遊節目，讓我們一起輕旅行！</desc>
-  </programme>
-  <programme start="20250621030000 +0000" stop="20250621040000 +0000" channel="亞洲旅遊台">
-    <title lang="zh">摘星秘密客</title>
-    <desc lang="zh">由華裔美籍王凱傑Jason Wang擔任主持人，帶領觀眾走訪米其林餐廳。</desc>
-  </programme>
   <programme start="20250621040000 +0000" stop="20250621050000 +0000" channel="亞洲旅遊台">
     <title lang="zh">型男闖世界</title>
     <desc lang="zh">《型男闖世界》前往世界各地的特殊景點或深山秘境，挑戰極限運動，尋找奇人異事、踏尋隱身在叢林邊境的傳說、進行各種挑戰及探險。</desc>
@@ -213522,18 +212754,6 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">閨蜜的奇幻旅程</title>
     <desc lang="zh">與閨蜜去旅行，最開心的就是不需要再顧及任何女生形象，可以盡情解放自己，一起完成瘋狂的事，節目主持人為演藝圈有十多年的情誼好姊妹組合-小甜甜與王宇婕，兩人帶領觀眾一起體驗女性專屬浪漫行程，分享各自的時尚資訊，一起瘋一起笑，一同創造無價的回憶及故事！</desc>
   </programme>
-  <programme start="20250621000000 +0000" stop="20250621020000 +0000" channel="Smart知識台">
-    <title lang="zh">花甲少年趣旅行</title>
-    <desc lang="zh">跨世代明星旅遊實境節目，每趟旅程會由2位花甲明星、2位年輕藝人結伴出遊，在出發時才揭曉旅伴是誰。旅程中每位團員將輪流擔任一日導遊，利用有限預算親自規劃行程，帶旅伴走訪在地文化、行銷台灣，用歡笑介紹寶島的各處美麗風景！</desc>
-  </programme>
-  <programme start="20250621020000 +0000" stop="20250621030000 +0000" channel="Smart知識台">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</desc>
-  </programme>
-  <programme start="20250621030000 +0000" stop="20250621040000 +0000" channel="Smart知識台">
-    <title lang="zh">河馬家族夜間祕事</title>
-    <desc lang="zh"/>
-  </programme>
   <programme start="20250621040000 +0000" stop="20250621060000 +0000" channel="Smart知識台">
     <title lang="zh">花甲少年趣旅行</title>
     <desc lang="zh">跨世代明星旅遊實境節目，每趟旅程會由2位花甲明星、2位年輕藝人結伴出遊，在出發時才揭曉旅伴是誰。旅程中每位團員將輪流擔任一日導遊，利用有限預算親自規劃行程，帶旅伴走訪在地文化、行銷台灣，用歡笑介紹寶島的各處美麗風景！</desc>
@@ -213997,22 +213217,6 @@ The site: www.tv5monde.com/terriennes</desc>
   <programme start="20250626070000 +0000" stop="20250626080000 +0000" channel="Smart知識台">
     <title lang="zh">健康2.0</title>
     <desc lang="zh">主持人鄭凱云在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</desc>
-  </programme>
-  <programme start="20250621000000 +0000" stop="20250621010000 +0000" channel="龍華戲劇台">
-    <title lang="zh">英雄訣</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621010000 +0000" stop="20250621020000 +0000" channel="龍華戲劇台">
-    <title lang="zh">英雄訣</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621020000 +0000" stop="20250621030000 +0000" channel="龍華戲劇台">
-    <title lang="zh">英雄訣</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621030000 +0000" stop="20250621040000 +0000" channel="龍華戲劇台">
-    <title lang="zh">英雄訣</title>
-    <desc lang="zh"/>
   </programme>
   <programme start="20250621040000 +0000" stop="20250621050000 +0000" channel="龍華戲劇台">
     <title lang="zh">女醫明妃傳</title>
@@ -214525,26 +213729,6 @@ The site: www.tv5monde.com/terriennes</desc>
   <programme start="20250626070000 +0000" stop="20250626080000 +0000" channel="龍華戲劇台">
     <title lang="zh">天下長河</title>
     <desc lang="zh">中國大陸拍攝的歷史電視連續劇。其以清朝康熙（羅晉）在位期間水利專家陳潢（尹昉）與安徽巡撫靳輔（黃志忠）的黃河治理事跡為背景。該劇由張挺編劇、導演， 羅晉、尹昉、黃志忠主演。</desc>
-  </programme>
-  <programme start="20250621003000 +0000" stop="20250621010000 +0000" channel="台湾戲劇台">
-    <title lang="zh">親戚不計較</title>
-    <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
-  </programme>
-  <programme start="20250621010000 +0000" stop="20250621013000 +0000" channel="台湾戲劇台">
-    <title lang="zh">親戚不計較</title>
-    <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
-  </programme>
-  <programme start="20250621013000 +0000" stop="20250621020000 +0000" channel="台湾戲劇台">
-    <title lang="zh">親戚不計較</title>
-    <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
-  </programme>
-  <programme start="20250621020000 +0000" stop="20250621030000 +0000" channel="台湾戲劇台">
-    <title lang="zh">關鍵時刻</title>
-    <desc lang="zh">行政院勞工委員會勞工安全衛生研究所製作的3D立體動畫「關鍵時刻」，於第十八屆世界職業安全衛生大會榮獲國際安全衛生影片首獎，大會並以「非常創新的手法」盛讚得獎單位-行政院勞委會勞工安全衛生研究所，對於職場安全衛生教育宣導所做出的貢獻。</desc>
-  </programme>
-  <programme start="20250621030000 +0000" stop="20250621040000 +0000" channel="台湾戲劇台">
-    <title lang="zh">關鍵時刻</title>
-    <desc lang="zh">行政院勞工委員會勞工安全衛生研究所製作的3D立體動畫「關鍵時刻」，於第十八屆世界職業安全衛生大會榮獲國際安全衛生影片首獎，大會並以「非常創新的手法」盛讚得獎單位-行政院勞委會勞工安全衛生研究所，對於職場安全衛生教育宣導所做出的貢獻。</desc>
   </programme>
   <programme start="20250621040000 +0000" stop="20250621053000 +0000" channel="台湾戲劇台">
     <title lang="zh">藍色水玲瓏</title>
@@ -215065,26 +214249,6 @@ The site: www.tv5monde.com/terriennes</desc>
   <programme start="20250626070000 +0000" stop="20250626080000 +0000" channel="台湾戲劇台">
     <title lang="zh">關鍵時刻</title>
     <desc lang="zh">行政院勞工委員會勞工安全衛生研究所製作的3D立體動畫「關鍵時刻」，於第十八屆世界職業安全衛生大會榮獲國際安全衛生影片首獎，大會並以「非常創新的手法」盛讚得獎單位-行政院勞委會勞工安全衛生研究所，對於職場安全衛生教育宣導所做出的貢獻。</desc>
-  </programme>
-  <programme start="20250621004000 +0000" stop="20250621012000 +0000" channel="東森购物1台">
-    <title lang="zh">快到CH.43、CH.49選購</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621012000 +0000" stop="20250621020000 +0000" channel="東森购物1台">
-    <title lang="zh">6/1-6/30消費滿1萬元加碼回饋1000 E幣</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621020000 +0000" stop="20250621024000 +0000" channel="東森购物1台">
-    <title lang="zh">快到CH.43、CH.49選購</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621024000 +0000" stop="20250621032000 +0000" channel="東森购物1台">
-    <title lang="zh">6/1-6/30消費滿1萬元加碼回饋1000 E幣</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621032000 +0000" stop="20250621040000 +0000" channel="東森购物1台">
-    <title lang="zh">快到CH.43、CH.49選購</title>
-    <desc lang="zh"/>
   </programme>
   <programme start="20250621040000 +0000" stop="20250621044000 +0000" channel="東森购物1台">
     <title lang="zh">6/1-6/30消費滿1萬元加碼回饋1000 E幣</title>
@@ -215830,26 +214994,6 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">快到CH.43、CH.49選購</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621003000 +0000" stop="20250621011500 +0000" channel="龍華偶像台">
-    <title lang="zh">我把社長解鎖了</title>
-    <desc lang="zh">講述不明所以死去的39歲大企業天才CEO，死後被鎖在手機裏，隨後被29歲待業生撿到手機後挖掘真相的故事。</desc>
-  </programme>
-  <programme start="20250621011500 +0000" stop="20250621020000 +0000" channel="龍華偶像台">
-    <title lang="zh">我把社長解鎖了</title>
-    <desc lang="zh">講述不明所以死去的39歲大企業天才CEO，死後被鎖在手機裏，隨後被29歲待業生撿到手機後挖掘真相的故事。</desc>
-  </programme>
-  <programme start="20250621020000 +0000" stop="20250621030000 +0000" channel="龍華偶像台">
-    <title lang="zh">好好生活</title>
-    <desc lang="zh">《好好生活》由陳銘章、陳世嶧執導，林雨申、蔡文靜領銜主演，鄒廷威、姜妍主演的都市歡脫治癒輕喜劇。講述了吳憂領證當天因為車禍放了男友鴿子，男友分手出國，吳憂傷心寄情工作，卻與「大魔王」何西亞擦出火花，兩人鬥智斗勇成為歡喜冤家的故事。</desc>
-  </programme>
-  <programme start="20250621030000 +0000" stop="20250621040000 +0000" channel="龍華偶像台">
-    <title lang="zh">好好生活</title>
-    <desc lang="zh">《好好生活》由陳銘章、陳世嶧執導，林雨申、蔡文靜領銜主演，鄒廷威、姜妍主演的都市歡脫治癒輕喜劇。講述了吳憂領證當天因為車禍放了男友鴿子，男友分手出國，吳憂傷心寄情工作，卻與「大魔王」何西亞擦出火花，兩人鬥智斗勇成為歡喜冤家的故事。</desc>
-  </programme>
-  <programme start="20250621040000 +0000" stop="20250621043000 +0000" channel="龍華偶像台">
-    <title lang="zh">大學成人式-被不良少年迷住3-</title>
-    <desc lang="zh">高中模範學生金妍斗，想終止一個過去認識的男孩的打擾，而池賢浩進入她的生活時，她的世界起了翻天覆地的變化。賢浩是學校眾所周知的惡霸和不良少年，並不是理想的男友，讓妍斗認為她情急之下做的舉動，或許不是一個大的錯誤。準備好開啟大學的新篇章。結識新朋友，他們是否已準備好迎接未來的挑戰呢？</desc>
-  </programme>
   <programme start="20250621043000 +0000" stop="20250621050000 +0000" channel="龍華偶像台">
     <title lang="zh">大學成人式-被不良少年迷住3-</title>
     <desc lang="zh">高中模範學生金妍斗，想終止一個過去認識的男孩的打擾，而池賢浩進入她的生活時，她的世界起了翻天覆地的變化。賢浩是學校眾所周知的惡霸和不良少年，並不是理想的男友，讓妍斗認為她情急之下做的舉動，或許不是一個大的錯誤。準備好開啟大學的新篇章。結識新朋友，他們是否已準備好迎接未來的挑戰呢？</desc>
@@ -216378,22 +215522,6 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">先熱情地打掃吧</title>
     <desc lang="zh">同名網路漫畫改編。清潔公司CEO張善傑（尹鈞相）財貌雙全、堪稱完美，卻因有非常嚴重的潔癖而無法和任何人接觸。但他卻喜歡上個性明朗可愛卻超級不拘小節的待業女青年吉五雪（金裕貞），兩人之間上演一段雙向奔赴的浪漫愛情故事…</desc>
   </programme>
-  <programme start="20250621000000 +0000" stop="20250621010000 +0000" channel="龍華日韩台">
-    <title lang="zh">紳士與小姐</title>
-    <desc lang="zh">朴丹丹（李世熙）因受不了父親偏心繼母而離家出走，在山上散心時遇到穿西裝健行的李英國（智鉉寓），後來丹丹住進李家，成為三個熊孩子的家教。因為朴老師的關係，英國與孩子的關係越來越親近，他還發現自己的心漸漸因丹丹而動搖了…</desc>
-  </programme>
-  <programme start="20250621010000 +0000" stop="20250621020000 +0000" channel="龍華日韩台">
-    <title lang="zh">紳士與小姐</title>
-    <desc lang="zh">朴丹丹（李世熙）因受不了父親偏心繼母而離家出走，在山上散心時遇到穿西裝健行的李英國（智鉉寓），後來丹丹住進李家，成為三個熊孩子的家教。因為朴老師的關係，英國與孩子的關係越來越親近，他還發現自己的心漸漸因丹丹而動搖了…</desc>
-  </programme>
-  <programme start="20250621020000 +0000" stop="20250621030000 +0000" channel="龍華日韩台">
-    <title lang="zh">魔女寶刀未老</title>
-    <desc lang="zh">此劇講述講述已屆人生一半的不惑之年的三個女人，各自有想殺之人的故事，是一部懸疑黑色喜劇。</desc>
-  </programme>
-  <programme start="20250621030000 +0000" stop="20250621040000 +0000" channel="龍華日韩台">
-    <title lang="zh">魔女寶刀未老</title>
-    <desc lang="zh">此劇講述講述已屆人生一半的不惑之年的三個女人，各自有想殺之人的故事，是一部懸疑黑色喜劇。</desc>
-  </programme>
   <programme start="20250621040000 +0000" stop="20250621050000 +0000" channel="龍華日韩台">
     <title lang="zh">榴蓮小姐</title>
     <desc lang="zh">朝鮮時代的榴蓮（朴柱美）雖嫁給朴一帥，但她愛的卻是為救她身亡的石鐵（金敏俊）。多年後，榴蓮和石鐵之子朴言（柳政厚）和金素貯（李多妍）先婚後愛，朴言驟逝後，悲痛的婆媳倆竟在月蝕之夜穿越時空，來到心愛之人轉世的丹氏家族…</desc>
@@ -216889,26 +216017,6 @@ The site: www.tv5monde.com/terriennes</desc>
   <programme start="20250626070000 +0000" stop="20250626080000 +0000" channel="龍華日韩台">
     <title lang="zh">白夜童話</title>
     <desc lang="zh">從小被母親拋棄的白夜（朴荷娜）與哥哥白英俊相依為命，她雖然和導演張和嚴（姜恩卓）兩情相悅，卻為了向生母英荷復仇，而決定嫁給英荷的繼子趙羅丹（金民修）。於是，一場以電視台藝能局為背景，四個家庭相互牽扯的復仇劇就此展開…</desc>
-  </programme>
-  <programme start="20250621004000 +0000" stop="20250621012000 +0000" channel="東森购物2台">
-    <title lang="zh">快到CH.43、CH.49選購</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621012000 +0000" stop="20250621020000 +0000" channel="東森购物2台">
-    <title lang="zh">6/1-6/30消費滿1萬元加碼回饋1000 E幣</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621020000 +0000" stop="20250621024000 +0000" channel="東森购物2台">
-    <title lang="zh">快到CH.43、CH.49選購</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621024000 +0000" stop="20250621032000 +0000" channel="東森购物2台">
-    <title lang="zh">6/1-6/30消費滿1萬元加碼回饋1000 E幣</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621032000 +0000" stop="20250621040000 +0000" channel="東森购物2台">
-    <title lang="zh">快到CH.43、CH.49選購</title>
-    <desc lang="zh"/>
   </programme>
   <programme start="20250621040000 +0000" stop="20250621044000 +0000" channel="東森购物2台">
     <title lang="zh">6/1-6/30消費滿1萬元加碼回饋1000 E幣</title>
@@ -217654,22 +216762,6 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">快到CH.43、CH.49選購</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621000000 +0000" stop="20250621010000 +0000" channel="華视新闻">
-    <title lang="zh">GOOD Morning台灣</title>
-    <desc lang="zh">每天早上七點、八點，為觀眾報導最新國內外大事件。</desc>
-  </programme>
-  <programme start="20250621010000 +0000" stop="20250621020000 +0000" channel="華视新闻">
-    <title lang="zh">華視0900整點新聞</title>
-    <desc lang="zh">每日上午九點，華視新聞帶給你最即時、最完整、最專業的新聞報導。</desc>
-  </programme>
-  <programme start="20250621020000 +0000" stop="20250621030000 +0000" channel="華视新闻">
-    <title lang="zh">華視1000新聞搶先報</title>
-    <desc lang="zh">華視新聞部每天整理當天重大國內外新聞事件，為觀眾做最快、最即時的播報。</desc>
-  </programme>
-  <programme start="20250621030000 +0000" stop="20250621035700 +0000" channel="華视新闻">
-    <title lang="zh">華視1100新聞搶先報</title>
-    <desc lang="zh">華視新聞部每天整理當天重大國內外新聞事件，為觀眾做最快、最即時的播報。</desc>
-  </programme>
   <programme start="20250621035700 +0000" stop="20250621050000 +0000" channel="華视新闻">
     <title lang="zh">華視午間新聞</title>
     <desc lang="zh">華視午間新聞由最專業的華視主播，帶給觀眾朋友更多元化的新聞。</desc>
@@ -218142,10 +217234,6 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">華視1500整點新聞</title>
     <desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞。</desc>
   </programme>
-  <programme start="20250620220000 +0000" stop="20250621040000 +0000" channel="倪珍播新聞">
-    <title lang="zh">早安新聞</title>
-    <desc lang="zh"/>
-  </programme>
   <programme start="20250621040000 +0000" stop="20250621100000 +0000" channel="倪珍播新聞">
     <title lang="zh">午安新聞</title>
     <desc lang="zh"/>
@@ -218224,22 +217312,6 @@ The site: www.tv5monde.com/terriennes</desc>
   </programme>
   <programme start="20250625220000 +0000" stop="20250626040000 +0000" channel="倪珍播新聞">
     <title lang="zh">早安新聞</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621000000 +0000" stop="20250621010000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">全球新食力(91)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621010000 +0000" stop="20250621020000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">醫點不誇張(68)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621020000 +0000" stop="20250621030000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">台灣新思路(120)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621030000 +0000" stop="20250621035500 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">iNEWS1100整點新聞(首)(695)</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20250621035500 +0000" stop="20250621045500 +0000" channel="三立新闻iNEWS">
@@ -218688,22 +217760,6 @@ The site: www.tv5monde.com/terriennes</desc>
   </programme>
   <programme start="20250626073000 +0000" stop="20250626080000 +0000" channel="三立新闻iNEWS">
     <title lang="zh">前進關鍵碼(首)(94)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621000000 +0000" stop="20250621010000 +0000" channel="寰宇財經台">
-    <title lang="zh">賺錢放大術</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621010000 +0000" stop="20250621020000 +0000" channel="寰宇財經台">
-    <title lang="zh">全台呷透透</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621020000 +0000" stop="20250621030000 +0000" channel="寰宇財經台">
-    <title lang="zh">寰宇追追追</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621030000 +0000" stop="20250621040000 +0000" channel="寰宇財經台">
-    <title lang="zh">台味小食代</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20250621040000 +0000" stop="20250621050000 +0000" channel="寰宇財經台">
@@ -219177,26 +218233,6 @@ The site: www.tv5monde.com/terriennes</desc>
   <programme start="20250626070000 +0000" stop="20250626080000 +0000" channel="寰宇財經台">
     <title lang="zh">台味小食代'108</title>
     <desc lang="zh"/>
-  </programme>
-  <programme start="20250621000000 +0000" stop="20250621010000 +0000" channel="台視新聞">
-    <title lang="zh">台視0800整點新聞</title>
-    <desc lang="zh">台視整點新聞播報。</desc>
-  </programme>
-  <programme start="20250621010000 +0000" stop="20250621020000 +0000" channel="台視新聞">
-    <title lang="zh">早安最前線</title>
-    <desc lang="zh">台視新聞節目，現場即時播報當日重大財經、政治等新聞。</desc>
-  </programme>
-  <programme start="20250621020000 +0000" stop="20250621023000 +0000" channel="台視新聞">
-    <title lang="zh">發現科學</title>
-    <desc lang="zh">台視為方便網友了解科學新知，進而推廣科學學習風氣，因此推出的科普特輯。</desc>
-  </programme>
-  <programme start="20250621023000 +0000" stop="20250621030000 +0000" channel="台視新聞">
-    <title lang="zh">尋找台灣感動力</title>
-    <desc lang="zh">社會中每一個小人物，都有著觸動人心的故事！我們深入台灣每一個角落，以人物為主軸，發掘各行各業默默努力走向成功的故事。</desc>
-  </programme>
-  <programme start="20250621030000 +0000" stop="20250621035800 +0000" channel="台視新聞">
-    <title lang="zh">台視1100整點新聞</title>
-    <desc lang="zh">台視整點新聞播報。</desc>
   </programme>
   <programme start="20250621035800 +0000" stop="20250621050000 +0000" channel="台視新聞">
     <title lang="zh">午安您好台視新聞</title>
@@ -219722,22 +218758,6 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">台視1500整點新聞</title>
     <desc lang="zh">台視整點新聞播報。</desc>
   </programme>
-  <programme start="20250621000000 +0000" stop="20250621010000 +0000" channel="中視新聞">
-    <title lang="zh">中視整點新聞</title>
-    <desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導當日發生之重大國內外重要新聞。</desc>
-  </programme>
-  <programme start="20250621010000 +0000" stop="20250621020000 +0000" channel="中視新聞">
-    <title lang="zh">中視新聞即時現場</title>
-    <desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
-  </programme>
-  <programme start="20250621020000 +0000" stop="20250621030000 +0000" channel="中視新聞">
-    <title lang="zh">60分鐘</title>
-    <desc lang="zh">由主播黃國瑋主持的新聞雜誌節目，深入探討新聞時事與議題，將帶給你全方位的報導。</desc>
-  </programme>
-  <programme start="20250621030000 +0000" stop="20250621035800 +0000" channel="中視新聞">
-    <title lang="zh">中視新聞即時現場</title>
-    <desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
-  </programme>
   <programme start="20250621035800 +0000" stop="20250621050000 +0000" channel="中視新聞">
     <title lang="zh">中視午間新聞</title>
     <desc lang="zh">「中視午間新聞」每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞，並提供最新股市收盤價格。</desc>
@@ -220233,22 +219253,6 @@ The site: www.tv5monde.com/terriennes</desc>
   <programme start="20250626070000 +0000" stop="20250626080000 +0000" channel="中視新聞">
     <title lang="zh">中視新聞即時現場</title>
     <desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
-  </programme>
-  <programme start="20250621000000 +0000" stop="20250621010000 +0000" channel="中天新聞台">
-    <title lang="zh">中天新聞 中天晨報</title>
-    <desc lang="zh">每天早晨時段，由早報主播與您一起讀報，看遍天下事。</desc>
-  </programme>
-  <programme start="20250621010000 +0000" stop="20250621020000 +0000" channel="中天新聞台">
-    <title lang="zh">中天新聞 0900整點新聞</title>
-    <desc lang="zh">每日上午九點，中天新聞帶給你最即時、最完整、最專業的新聞報導，以及最新疫情新聞消息、疫情指揮中心直播、今日確診人數統計等重大新聞轉播報導。</desc>
-  </programme>
-  <programme start="20250621020000 +0000" stop="20250621030000 +0000" channel="中天新聞台">
-    <title lang="zh">中天新聞 1000整點新聞</title>
-    <desc lang="zh">每日上午十點，中天新聞帶給你最即時、最完整、最專業的新聞報導。</desc>
-  </programme>
-  <programme start="20250621030000 +0000" stop="20250621040000 +0000" channel="中天新聞台">
-    <title lang="zh">中天新聞 1100午前新聞</title>
-    <desc lang="zh">每日上午十一點，中天新聞將帶給你上午的最新消息報導，快速掌握午前新聞，以及最新疫情新聞消息、疫情指揮中心直播、今日確診人數統計等重大新聞轉播報導。</desc>
   </programme>
   <programme start="20250621040000 +0000" stop="20250621050000 +0000" channel="中天新聞台">
     <title lang="zh">中天新聞 1200正午新聞</title>
@@ -220746,18 +219750,6 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">15大新聞大爆卦</title>
     <desc lang="zh">每周一到周五《大新聞大爆卦》中天主播陪你一起來解卦！！！</desc>
   </programme>
-  <programme start="20250621005500 +0000" stop="20250621015500 +0000" channel="寰宇新聞台">
-    <title lang="zh">寰宇早安新聞</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621015500 +0000" stop="20250621025500 +0000" channel="寰宇新聞台">
-    <title lang="zh">銅板經濟學</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621025500 +0000" stop="20250621035500 +0000" channel="寰宇新聞台">
-    <title lang="zh">寰宇午間新聞</title>
-    <desc lang="zh">寰宇午間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
-  </programme>
   <programme start="20250621035500 +0000" stop="20250621045500 +0000" channel="寰宇新聞台">
     <title lang="zh">寰宇午間新聞</title>
     <desc lang="zh">寰宇午間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
@@ -221229,26 +220221,6 @@ The site: www.tv5monde.com/terriennes</desc>
   <programme start="20250626065500 +0000" stop="20250626075500 +0000" channel="寰宇新聞台">
     <title lang="zh">寰宇整點新聞</title>
     <desc lang="zh">來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
-  </programme>
-  <programme start="20250621003000 +0000" stop="20250621013000 +0000" channel="第1商業台">
-    <title lang="zh">財經資訊</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621013000 +0000" stop="20250621020000 +0000" channel="第1商業台">
-    <title lang="zh">財經資訊</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621020000 +0000" stop="20250621023000 +0000" channel="第1商業台">
-    <title lang="zh">財經資訊</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621023000 +0000" stop="20250621030000 +0000" channel="第1商業台">
-    <title lang="zh">財經資訊</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621030000 +0000" stop="20250621040000 +0000" channel="第1商業台">
-    <title lang="zh">財經資訊</title>
-    <desc lang="zh"/>
   </programme>
   <programme start="20250621040000 +0000" stop="20250621050000 +0000" channel="第1商業台">
     <title lang="zh">財經資訊</title>
@@ -222154,10 +221126,6 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250620210000 +0000" stop="20250621010000 +0000" channel="國會頻道1台">
-    <title lang="zh">本週立法院會議轉播</title>
-    <desc lang="zh"/>
-  </programme>
   <programme start="20250621010000 +0000" stop="20250621050000 +0000" channel="國會頻道1台">
     <title lang="zh">本週立法院會議轉播</title>
     <desc lang="zh"/>
@@ -222310,8 +221278,108 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">週四會議預報</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250620220000 +0000" stop="20250621040000 +0000" channel="倪珍報氣象">
-    <title lang="zh">24小時播氣象</title>
+  <programme start="20250621010000 +0000" stop="20250621050000 +0000" channel="國會頻道2台">
+    <title lang="zh">本週立法院會議轉播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250621050000 +0000" stop="20250621090000 +0000" channel="國會頻道2台">
+    <title lang="zh">本週立法院會議轉播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250621090000 +0000" stop="20250621130000 +0000" channel="國會頻道2台">
+    <title lang="zh">本週立法院會議轉播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250621130000 +0000" stop="20250621170000 +0000" channel="國會頻道2台">
+    <title lang="zh">本週立法院會議轉播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250621170000 +0000" stop="20250621210000 +0000" channel="國會頻道2台">
+    <title lang="zh">本週立法院會議轉播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250621210000 +0000" stop="20250622010000 +0000" channel="國會頻道2台">
+    <title lang="zh">本週立法院會議轉播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250622010000 +0000" stop="20250622050000 +0000" channel="國會頻道2台">
+    <title lang="zh">本週立法院會議轉播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250622050000 +0000" stop="20250622090000 +0000" channel="國會頻道2台">
+    <title lang="zh">本週立法院會議轉播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250622090000 +0000" stop="20250622130000 +0000" channel="國會頻道2台">
+    <title lang="zh">本週立法院會議轉播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250622130000 +0000" stop="20250622170000 +0000" channel="國會頻道2台">
+    <title lang="zh">本週立法院會議轉播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250622170000 +0000" stop="20250622210000 +0000" channel="國會頻道2台">
+    <title lang="zh">本週立法院會議轉播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250622210000 +0000" stop="20250623100000 +0000" channel="國會頻道2台">
+    <title lang="zh">前日立法院會議轉播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250623100000 +0000" stop="20250623160000 +0000" channel="國會頻道2台">
+    <title lang="zh">當日立法院會議轉播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250623160000 +0000" stop="20250623210000 +0000" channel="國會頻道2台">
+    <title lang="zh">前日立法院會議轉播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250623210000 +0000" stop="20250624004700 +0000" channel="國會頻道2台">
+    <title lang="zh">前日立法院會議轉播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250624004700 +0000" stop="20250624010000 +0000" channel="國會頻道2台">
+    <title lang="zh">週二會議預報</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250624010000 +0000" stop="20250624100000 +0000" channel="國會頻道2台">
+    <title lang="zh">立法院會議直播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624160000 +0000" channel="國會頻道2台">
+    <title lang="zh">當日立法院會議轉播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250624160000 +0000" stop="20250624210000 +0000" channel="國會頻道2台">
+    <title lang="zh">前日立法院會議轉播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250624210000 +0000" stop="20250625004700 +0000" channel="國會頻道2台">
+    <title lang="zh">前日立法院會議轉播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250625004700 +0000" stop="20250625010000 +0000" channel="國會頻道2台">
+    <title lang="zh">週三會議預報</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250625010000 +0000" stop="20250625100000 +0000" channel="國會頻道2台">
+    <title lang="zh">立法院會議直播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250625100000 +0000" stop="20250625160000 +0000" channel="國會頻道2台">
+    <title lang="zh">當日立法院會議轉播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250625160000 +0000" stop="20250625210000 +0000" channel="國會頻道2台">
+    <title lang="zh">前日立法院會議轉播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250625210000 +0000" stop="20250626004700 +0000" channel="國會頻道2台">
+    <title lang="zh">前日立法院會議轉播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250626004700 +0000" stop="20250626010000 +0000" channel="國會頻道2台">
+    <title lang="zh">週四會議預報</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20250621040000 +0000" stop="20250621100000 +0000" channel="倪珍報氣象">
@@ -222392,14 +221460,6 @@ The site: www.tv5monde.com/terriennes</desc>
   </programme>
   <programme start="20250625220000 +0000" stop="20250626040000 +0000" channel="倪珍報氣象">
     <title lang="zh">24小時播氣象</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250620220000 +0000" stop="20250621011000 +0000" channel="龍華經典台">
-    <title lang="zh">教父</title>
-    <desc lang="zh">柯里昂家族雖身為黑道，卻堅決不販毒，因此與販毒集團結下樑子。當被視為下屆教父接班人的長子索尼被亂槍殺死，原不欲插手家族事業的小兒子麥可（艾爾帕西諾）因此被迫接任，他一步步涉入黑道的血腥爭鬥，變成黑手黨的新一代教父。</desc>
-  </programme>
-  <programme start="20250621011000 +0000" stop="20250621032500 +0000" channel="龍華經典台">
-    <title lang="zh">第五砲兵連</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20250621032500 +0000" stop="20250621053500 +0000" channel="龍華經典台">
@@ -222609,10 +221669,6 @@ The site: www.tv5monde.com/terriennes</desc>
   <programme start="20250626044000 +0000" stop="20250626072000 +0000" channel="龍華經典台">
     <title lang="zh">歲月風雲之上海皇帝</title>
     <desc lang="zh">陸月生（呂良偉）為鄰里盲炳向法租界總探長黃全榮（鄭則仕）討安家費甘受毒打，為黃妻阿桂姐（斯琴高娃）所賞識，為黃做事。陸俠義心腸，在上海漸漸取得一席之地，他不但資助國民黨人古羽（苗僑偉）逃出上海，又助黃破案聲名大震…</desc>
-  </programme>
-  <programme start="20250620234500 +0000" stop="20250621020500 +0000" channel="龍華電影院">
-    <title lang="zh">血滴子</title>
-    <desc lang="zh">清朝雍正皇帝（文章）為剷除異己，創立以血滴子為兵器的特種部隊「血滴子」。時至乾隆年間，反清復明組織”牧人”日漸強大，首領「天狼」（黃曉明）更是武功高強、無所不能，嚴重威脅乾隆盛世，血滴子隊長「冷」（阮經天）奉命率領部隊剷除，血滴子天團即將面對史上最強宿敵…</desc>
   </programme>
   <programme start="20250621020500 +0000" stop="20250621045000 +0000" channel="龍華電影院">
     <title lang="zh">黃飛鴻之英雄有夢</title>
@@ -222870,14 +221926,6 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">警察故事續集</title>
     <desc lang="zh">重案組探員家駒（成龍）不滿自己抓來的犯人朱滔被釋放憤而辭職，與女友May（張曼玉）在商場散心，巧遇炸彈狂徒做案。炸彈狂徒接二連三犯案，最後目標竟是警局，令警方不知所措，只好重召家駒歸隊辦案。炸彈狂徒多次出動未能成功，為了取得贖款，竟然將May綁架…</desc>
   </programme>
-  <programme start="20250621000000 +0000" stop="20250621013500 +0000" channel="龍華洋片台OTT">
-    <title lang="zh">終極殺陣</title>
-    <desc lang="zh">計程車運將丹尼爾是個駕駛技術高超的車手，烏龍警察艾米里安卻考了8次駕照都沒通過。艾米里安在一次追捕行動中發現丹尼爾的開車功力後，逼他答應幫忙追查搶銀行集團。當警方還在頻頻出包，艾米里安卻靠著丹尼爾的幫忙，逐漸追查出案情眉目…</desc>
-  </programme>
-  <programme start="20250621013500 +0000" stop="20250621031500 +0000" channel="龍華洋片台OTT">
-    <title lang="zh">劫持風暴</title>
-    <desc lang="zh"/>
-  </programme>
   <programme start="20250621031500 +0000" stop="20250621045500 +0000" channel="龍華洋片台OTT">
     <title lang="zh">玩命特區</title>
     <desc lang="zh">盧貝松改編自己的《暴力特區》劇本。在架空世界的底特律某個無法無天的社區，當局為保護一般市民，建造一堵巨大圍牆將之隔絕。臥底警察（保羅沃克）在此與改過自新的前科犯合作，營救他被毒梟綁架的女友，卻意外揭發一樁危及全城的邪惡計劃…</desc>
@@ -223130,11 +222178,11 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">世俱杯小组赛弗拉门戈 vs 切尔西</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="2025062105450000 +0800" stop="2025062110000000 +0800" channel="咪咕体育">
+  <programme start="2025062105450000 +0800" stop="2025062108100100 +0800" channel="咪咕体育">
     <title lang="zh">世俱杯小组赛洛杉矶 vs 突尼斯希望</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="2025062108000000 +0800" stop="2025062113000000 +0800" channel="咪咕体育">
+  <programme start="2025062108000000 +0800" stop="2025062111150300 +0800" channel="咪咕体育">
     <title lang="zh">世俱杯小组赛拜仁慕尼黑 vs 博卡青年</title>
     <desc lang="zh">/</desc>
   </programme>
@@ -223183,11 +222231,11 @@ The site: www.tv5monde.com/terriennes</desc>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="2025062118000000 +0800" stop="2025062208000000 +0800" channel="咪咕体育">
-    <title lang="zh">WTA柏林站半决赛WTA柏林站半决赛</title>
+    <title lang="zh">王欣瑜半决赛对战萨姆索诺娃王欣瑜半决赛对战萨姆索诺娃</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="2025062118000000 +0800" stop="2025062208000000 +0800" channel="咪咕体育">
-    <title lang="zh">WTA诺丁汉站半决赛WTA诺丁汉站半决赛</title>
+    <title lang="zh">雅斯特雷姆斯卡、凯斯勒冲击决赛雅斯特雷姆斯卡、凯斯勒冲击决赛</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="2025062118500000 +0800" stop="2025062123000000 +0800" channel="咪咕体育">
@@ -223256,6 +222304,10 @@ The site: www.tv5monde.com/terriennes</desc>
   </programme>
   <programme start="2025062208450000 +0800" stop="2025062213000000 +0800" channel="咪咕体育">
     <title lang="zh">世俱杯小组赛河床 vs 蒙特雷</title>
+    <desc lang="zh">/</desc>
+  </programme>
+  <programme start="2025062209550000 +0800" stop="2025062214000000 +0800" channel="咪咕体育">
+    <title lang="zh">《NBA周刊》总决赛G7特别节目《NBA周刊》总决赛G7特别节目</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="2025062213400000 +0800" stop="2025062217400000 +0800" channel="咪咕体育">
@@ -224850,43 +223902,43 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">KBS 재난방송센터</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="2025062105000000 +0900" stop="2025062105300000 +0900" channel="KBS DRAMA">
+  <programme start="2025062105000000 +0900" stop="2025062105250000 +0900" channel="KBS DRAMA">
     <title lang="zh">대운을 잡아라</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621053000 +0900" stop="20250621061000 +0900" channel="KBS DRAMA">
+  <programme start="20250621052500 +0900" stop="20250621060500 +0900" channel="KBS DRAMA">
     <title lang="zh">대운을 잡아라</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621061000 +0900" stop="20250621064000 +0900" channel="KBS DRAMA">
+  <programme start="20250621060500 +0900" stop="20250621063500 +0900" channel="KBS DRAMA">
     <title lang="zh">대운을 잡아라</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621064000 +0900" stop="20250621072000 +0900" channel="KBS DRAMA">
+  <programme start="20250621063500 +0900" stop="20250621071500 +0900" channel="KBS DRAMA">
     <title lang="zh">대운을 잡아라</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621072000 +0900" stop="20250621080000 +0900" channel="KBS DRAMA">
+  <programme start="20250621071500 +0900" stop="20250621075000 +0900" channel="KBS DRAMA">
     <title lang="zh">여왕의 집</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621080000 +0900" stop="20250621084000 +0900" channel="KBS DRAMA">
+  <programme start="20250621075000 +0900" stop="20250621083500 +0900" channel="KBS DRAMA">
     <title lang="zh">여왕의 집</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621084000 +0900" stop="20250621092000 +0900" channel="KBS DRAMA">
+  <programme start="20250621083500 +0900" stop="20250621091000 +0900" channel="KBS DRAMA">
     <title lang="zh">여왕의 집</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621092000 +0900" stop="20250621100000 +0900" channel="KBS DRAMA">
+  <programme start="20250621091000 +0900" stop="20250621095500 +0900" channel="KBS DRAMA">
     <title lang="zh">여왕의 집</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621100000 +0900" stop="20250621110000 +0900" channel="KBS DRAMA">
+  <programme start="20250621095500 +0900" stop="20250621105500 +0900" channel="KBS DRAMA">
     <title lang="zh">바다건너사랑2024</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621110000 +0900" stop="20250621122000 +0900" channel="KBS DRAMA">
+  <programme start="20250621105500 +0900" stop="20250621122000 +0900" channel="KBS DRAMA">
     <title lang="zh">슈퍼맨이 돌아왔다</title>
     <desc lang="zh"/>
   </programme>
@@ -224894,39 +223946,39 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">오래된 만남 추구</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621135000 +0900" stop="20250621151000 +0900" channel="KBS DRAMA">
+  <programme start="20250621135000 +0900" stop="20250621151500 +0900" channel="KBS DRAMA">
     <title lang="zh">독수리 5형제를 부탁해!</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621151000 +0900" stop="20250621163000 +0900" channel="KBS DRAMA">
+  <programme start="20250621151500 +0900" stop="20250621163500 +0900" channel="KBS DRAMA">
     <title lang="zh">독수리 5형제를 부탁해!</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621163000 +0900" stop="20250621180000 +0900" channel="KBS DRAMA">
+  <programme start="20250621163500 +0900" stop="20250621180000 +0900" channel="KBS DRAMA">
     <title lang="zh">신상출시편스토랑</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621180000 +0900" stop="20250621191000 +0900" channel="KBS DRAMA">
+  <programme start="20250621180000 +0900" stop="20250621190500 +0900" channel="KBS DRAMA">
     <title lang="zh">차트를달리는남자(자막)</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621191000 +0900" stop="20250621203000 +0900" channel="KBS DRAMA">
+  <programme start="20250621190500 +0900" stop="20250621202500 +0900" channel="KBS DRAMA">
     <title lang="zh">무엇이든물어보살(자막)</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621203000 +0900" stop="20250621215000 +0900" channel="KBS DRAMA">
+  <programme start="20250621202500 +0900" stop="20250621215000 +0900" channel="KBS DRAMA">
     <title lang="zh">이십세기힛-트쏭</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621215000 +0900" stop="20250621230000 +0900" channel="KBS DRAMA">
+  <programme start="20250621215000 +0900" stop="20250621230500 +0900" channel="KBS DRAMA">
     <title lang="zh">영화가좋다</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621230000 +0900" stop="20250621242000 +0900" channel="KBS DRAMA">
+  <programme start="20250621230500 +0900" stop="20250621262500 +0900" channel="KBS DRAMA">
     <title lang="zh">옥탑방의문제아들</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621242000 +0900" stop="20250621254000 +0900" channel="KBS DRAMA">
+  <programme start="20250621242500 +0900" stop="20250621254000 +0900" channel="KBS DRAMA">
     <title lang="zh">가는정 오는정 이민정</title>
     <desc lang="zh"/>
   </programme>
@@ -224934,7 +223986,7 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">스모킹 건</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621264000 +0900" stop="20250621280000 +0900" channel="KBS DRAMA">
+  <programme start="20250621264000 +0900" stop="20250621275500 +0900" channel="KBS DRAMA">
     <title lang="zh">사장님귀는당나귀귀</title>
     <desc lang="zh"/>
   </programme>
@@ -225026,43 +224078,43 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">스모킹 건</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="2025062104400000 +0900" stop="2025062106000000 +0900" channel="KBS JOY">
+  <programme start="2025062104450000 +0900" stop="2025062105500000 +0900" channel="KBS JOY">
     <title lang="zh">영화가좋다</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621060000 +0900" stop="20250621072000 +0900" channel="KBS JOY">
+  <programme start="20250621055000 +0900" stop="20250621071500 +0900" channel="KBS JOY">
     <title lang="zh">사장님귀는당나귀귀</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621072000 +0900" stop="20250621084000 +0900" channel="KBS JOY">
+  <programme start="20250621071500 +0900" stop="20250621083000 +0900" channel="KBS JOY">
     <title lang="zh">1박2일 시즌4</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621084000 +0900" stop="20250621101000 +0900" channel="KBS JOY">
+  <programme start="20250621083000 +0900" stop="20250621100500 +0900" channel="KBS JOY">
     <title lang="zh">신상출시편스토랑</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621101000 +0900" stop="20250621113000 +0900" channel="KBS JOY">
-    <title lang="zh">가는정 오는정 이민정</title>
+  <programme start="20250621100500 +0900" stop="20250621113000 +0900" channel="KBS JOY">
+    <title lang="zh">옥탑방의문제아들</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621113000 +0900" stop="20250621125000 +0900" channel="KBS JOY">
+  <programme start="20250621113000 +0900" stop="20250621125500 +0900" channel="KBS JOY">
     <title lang="zh">이십세기힛-트쏭</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621125000 +0900" stop="20250621143000 +0900" channel="KBS JOY">
+  <programme start="20250621125500 +0900" stop="20250621143000 +0900" channel="KBS JOY">
     <title lang="zh">차트를달리는남자 스페셜</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621143000 +0900" stop="20250621154000 +0900" channel="KBS JOY">
+  <programme start="20250621143000 +0900" stop="20250621153500 +0900" channel="KBS JOY">
     <title lang="zh">차트를달리는남자(자막)</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621154000 +0900" stop="20250621170000 +0900" channel="KBS JOY">
+  <programme start="20250621153500 +0900" stop="20250621170500 +0900" channel="KBS JOY">
     <title lang="zh">오래된 만남 추구</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621170000 +0900" stop="20250621182000 +0900" channel="KBS JOY">
+  <programme start="20250621170500 +0900" stop="20250621182000 +0900" channel="KBS JOY">
     <title lang="zh">무엇이든물어보살(자막)</title>
     <desc lang="zh"/>
   </programme>
@@ -225070,23 +224122,23 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">영화가좋다</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621194000 +0900" stop="20250621212000 +0900" channel="KBS JOY">
+  <programme start="20250621194000 +0900" stop="20250621211500 +0900" channel="KBS JOY">
     <title lang="zh">차트를달리는남자 스페셜</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621212000 +0900" stop="20250621222000 +0900" channel="KBS JOY">
-    <title lang="zh">차트를달리는남자</title>
+  <programme start="20250621211500 +0900" stop="20250621222500 +0900" channel="KBS JOY">
+    <title lang="zh">차트를달리는남자(자막)</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621222000 +0900" stop="20250621241000 +0900" channel="KBS JOY">
+  <programme start="20250621222500 +0900" stop="20250621260500 +0900" channel="KBS JOY">
     <title lang="zh">차트를달리는남자 Darkedition</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621241000 +0900" stop="20250621260000 +0900" channel="KBS JOY">
+  <programme start="20250621240500 +0900" stop="20250621255000 +0900" channel="KBS JOY">
     <title lang="zh">더 시즌즈-박보검의 칸타빌레</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621260000 +0900" stop="20250621270000 +0900" channel="KBS JOY">
+  <programme start="20250621255000 +0900" stop="20250621270000 +0900" channel="KBS JOY">
     <title lang="zh">영화가좋다</title>
     <desc lang="zh"/>
   </programme>
@@ -225338,19 +224390,19 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">생생맛집</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="2025062105000000 +0900" stop="2025062106400000 +0900" channel="KBS LIFE">
-    <title lang="zh">인간극장 (1~3부)</title>
+  <programme start="2025062105000000 +0900" stop="2025062106450000 +0900" channel="KBS LIFE">
+    <title lang="zh">인간극장</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621064000 +0900" stop="20250621080000 +0900" channel="KBS LIFE">
-    <title lang="zh">인간극장 (4~5부)</title>
+  <programme start="20250621064500 +0900" stop="20250621075500 +0900" channel="KBS LIFE">
+    <title lang="zh">인간극장</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621080000 +0900" stop="20250621090000 +0900" channel="KBS LIFE">
+  <programme start="20250621075500 +0900" stop="20250621085500 +0900" channel="KBS LIFE">
     <title lang="zh">한국인의밥상</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621090000 +0900" stop="20250621100000 +0900" channel="KBS LIFE">
+  <programme start="20250621085500 +0900" stop="20250621100000 +0900" channel="KBS LIFE">
     <title lang="zh">전국노래자랑</title>
     <desc lang="zh"/>
   </programme>
@@ -225362,31 +224414,31 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">이슈 픽 쌤과 함께</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621120000 +0900" stop="20250621130000 +0900" channel="KBS LIFE">
+  <programme start="20250621120000 +0900" stop="20250621130500 +0900" channel="KBS LIFE">
     <title lang="zh">경제 스포트라이트</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621130000 +0900" stop="20250621140000 +0900" channel="KBS LIFE">
+  <programme start="20250621130500 +0900" stop="20250621140000 +0900" channel="KBS LIFE">
     <title lang="zh">스카우트5 얼리어잡터</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621140000 +0900" stop="20250621150000 +0900" channel="KBS LIFE">
+  <programme start="20250621140000 +0900" stop="20250621145500 +0900" channel="KBS LIFE">
     <title lang="zh">위기탈출 넘버원</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621150000 +0900" stop="20250621160000 +0900" channel="KBS LIFE">
+  <programme start="20250621145500 +0900" stop="20250621155500 +0900" channel="KBS LIFE">
     <title lang="zh">일꾼의탄생</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621160000 +0900" stop="20250621174000 +0900" channel="KBS LIFE">
-    <title lang="zh">인간극장 (1~3부)</title>
+  <programme start="20250621155500 +0900" stop="20250621174000 +0900" channel="KBS LIFE">
+    <title lang="zh">인간극장</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621174000 +0900" stop="20250621190000 +0900" channel="KBS LIFE">
-    <title lang="zh">인간극장 (4~5부)</title>
+  <programme start="20250621174000 +0900" stop="20250621185500 +0900" channel="KBS LIFE">
+    <title lang="zh">인간극장</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621190000 +0900" stop="20250621200000 +0900" channel="KBS LIFE">
+  <programme start="20250621185500 +0900" stop="20250621200000 +0900" channel="KBS LIFE">
     <title lang="zh">전국노래자랑</title>
     <desc lang="zh"/>
   </programme>
@@ -225398,27 +224450,27 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">개그콘서트</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621222000 +0900" stop="20250621234000 +0900" channel="KBS LIFE">
+  <programme start="20250621222000 +0900" stop="20250621233000 +0900" channel="KBS LIFE">
     <title lang="zh">박원숙의같이삽시다 시즌3</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621234000 +0900" stop="20250621235000 +0900" channel="KBS LIFE">
+  <programme start="20250621233000 +0900" stop="20250621234500 +0900" channel="KBS LIFE">
     <title lang="zh">KBS 재난방송센터</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621235000 +0900" stop="20250621245000 +0900" channel="KBS LIFE">
+  <programme start="20250621234500 +0900" stop="20250621260000 +0900" channel="KBS LIFE">
     <title lang="zh">무엇이든물어보세요</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621245000 +0900" stop="20250621260000 +0900" channel="KBS LIFE">
+  <programme start="20250621250000 +0900" stop="20250621261000 +0900" channel="KBS LIFE">
     <title lang="zh">셀럽병사의 비밀</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621260000 +0900" stop="20250621270000 +0900" channel="KBS LIFE">
+  <programme start="20250621261000 +0900" stop="20250621270500 +0900" channel="KBS LIFE">
     <title lang="zh">동물은 훌륭하다</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621270000 +0900" stop="20250621280000 +0900" channel="KBS LIFE">
+  <programme start="20250621270500 +0900" stop="20250621275500 +0900" channel="KBS LIFE">
     <title lang="zh">생활의발견</title>
     <desc lang="zh"/>
   </programme>
@@ -225506,71 +224558,71 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">생활의발견</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="2025062105000000 +0900" stop="2025062105150000 +0900" channel="KBS KIDS">
+  <programme start="2025062104550000 +0900" stop="2025062105100000 +0900" channel="KBS KIDS">
     <title lang="zh">하프와 친구들</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621051500 +0900" stop="20250621053000 +0900" channel="KBS KIDS">
+  <programme start="20250621051000 +0900" stop="20250621052000 +0900" channel="KBS KIDS">
     <title lang="zh">하프와 친구들</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621053000 +0900" stop="20250621054500 +0900" channel="KBS KIDS">
+  <programme start="20250621052000 +0900" stop="20250621053000 +0900" channel="KBS KIDS">
     <title lang="zh">하프와 친구들</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621054500 +0900" stop="20250621060000 +0900" channel="KBS KIDS">
+  <programme start="20250621053000 +0900" stop="20250621055000 +0900" channel="KBS KIDS">
     <title lang="zh">하프와 친구들</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621060000 +0900" stop="20250621063000 +0900" channel="KBS KIDS">
+  <programme start="20250621055000 +0900" stop="20250621061500 +0900" channel="KBS KIDS">
     <title lang="zh">LOL 서프라이즈 대모험</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621063000 +0900" stop="20250621070000 +0900" channel="KBS KIDS">
+  <programme start="20250621061500 +0900" stop="20250621065000 +0900" channel="KBS KIDS">
     <title lang="zh">LOL 서프라이즈 대모험</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621070000 +0900" stop="20250621073000 +0900" channel="KBS KIDS">
+  <programme start="20250621065000 +0900" stop="20250621071500 +0900" channel="KBS KIDS">
     <title lang="zh">퍼피구조대 시즌8</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621073000 +0900" stop="20250621080000 +0900" channel="KBS KIDS">
+  <programme start="20250621071500 +0900" stop="20250621075000 +0900" channel="KBS KIDS">
     <title lang="zh">퍼피구조대 시즌8</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621080000 +0900" stop="20250621081500 +0900" channel="KBS KIDS">
+  <programme start="20250621075000 +0900" stop="20250621081000 +0900" channel="KBS KIDS">
     <title lang="zh">터닝메카드 갓</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621081500 +0900" stop="20250621083000 +0900" channel="KBS KIDS">
+  <programme start="20250621081000 +0900" stop="20250621082000 +0900" channel="KBS KIDS">
     <title lang="zh">터닝메카드 갓</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621083000 +0900" stop="20250621084500 +0900" channel="KBS KIDS">
+  <programme start="20250621082000 +0900" stop="20250621083500 +0900" channel="KBS KIDS">
     <title lang="zh">터닝메카드 갓</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621084500 +0900" stop="20250621090000 +0900" channel="KBS KIDS">
+  <programme start="20250621083500 +0900" stop="20250621085500 +0900" channel="KBS KIDS">
     <title lang="zh">터닝메카드 갓</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621090000 +0900" stop="20250621091500 +0900" channel="KBS KIDS">
+  <programme start="20250621085500 +0900" stop="20250621091500 +0900" channel="KBS KIDS">
     <title lang="zh">마카앤로니 시즌2</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621091500 +0900" stop="20250621093000 +0900" channel="KBS KIDS">
+  <programme start="20250621091500 +0900" stop="20250621092500 +0900" channel="KBS KIDS">
     <title lang="zh">마카앤로니 시즌2</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621093000 +0900" stop="20250621094500 +0900" channel="KBS KIDS">
+  <programme start="20250621092500 +0900" stop="20250621094000 +0900" channel="KBS KIDS">
     <title lang="zh">마카앤로니 시즌2</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621094500 +0900" stop="20250621100000 +0900" channel="KBS KIDS">
+  <programme start="20250621094000 +0900" stop="20250621095500 +0900" channel="KBS KIDS">
     <title lang="zh">마카앤로니 시즌2</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621100000 +0900" stop="20250621101500 +0900" channel="KBS KIDS">
+  <programme start="20250621095500 +0900" stop="20250621101500 +0900" channel="KBS KIDS">
     <title lang="zh">마카앤로니 시즌3</title>
     <desc lang="zh"/>
   </programme>
@@ -225578,19 +224630,19 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">마카앤로니 시즌3</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621103000 +0900" stop="20250621104500 +0900" channel="KBS KIDS">
+  <programme start="20250621103000 +0900" stop="20250621104000 +0900" channel="KBS KIDS">
     <title lang="zh">마카앤로니 시즌3</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621104500 +0900" stop="20250621110000 +0900" channel="KBS KIDS">
+  <programme start="20250621104000 +0900" stop="20250621105500 +0900" channel="KBS KIDS">
     <title lang="zh">마카앤로니 시즌3</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621110000 +0900" stop="20250621111500 +0900" channel="KBS KIDS">
+  <programme start="20250621105500 +0900" stop="20250621112000 +0900" channel="KBS KIDS">
     <title lang="zh">헬로카봇 올스타전</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621111500 +0900" stop="20250621113000 +0900" channel="KBS KIDS">
+  <programme start="20250621112000 +0900" stop="20250621113000 +0900" channel="KBS KIDS">
     <title lang="zh">헬로카봇 올스타전</title>
     <desc lang="zh"/>
   </programme>
@@ -225602,71 +224654,71 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">헬로카봇 올스타전</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621120000 +0900" stop="20250621121500 +0900" channel="KBS KIDS">
+  <programme start="20250621120000 +0900" stop="20250621122000 +0900" channel="KBS KIDS">
     <title lang="zh">공룡메카드 타이니소어</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621121500 +0900" stop="20250621123000 +0900" channel="KBS KIDS">
+  <programme start="20250621122000 +0900" stop="20250621123500 +0900" channel="KBS KIDS">
     <title lang="zh">공룡메카드 타이니소어</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621123000 +0900" stop="20250621124500 +0900" channel="KBS KIDS">
+  <programme start="20250621123500 +0900" stop="20250621124500 +0900" channel="KBS KIDS">
     <title lang="zh">공룡메카드 타이니소어</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621124500 +0900" stop="20250621130000 +0900" channel="KBS KIDS">
+  <programme start="20250621124500 +0900" stop="20250621130500 +0900" channel="KBS KIDS">
     <title lang="zh">공룡메카드 타이니소어</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621130000 +0900" stop="20250621131500 +0900" channel="KBS KIDS">
+  <programme start="20250621130500 +0900" stop="20250621132500 +0900" channel="KBS KIDS">
     <title lang="zh">슈팅스타 캐치! 티니핑</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621131500 +0900" stop="20250621133000 +0900" channel="KBS KIDS">
+  <programme start="20250621132500 +0900" stop="20250621133500 +0900" channel="KBS KIDS">
     <title lang="zh">슈팅스타 캐치! 티니핑</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621133000 +0900" stop="20250621134500 +0900" channel="KBS KIDS">
+  <programme start="20250621133500 +0900" stop="20250621135000 +0900" channel="KBS KIDS">
     <title lang="zh">슈팅스타 캐치! 티니핑</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621134500 +0900" stop="20250621140000 +0900" channel="KBS KIDS">
+  <programme start="20250621135000 +0900" stop="20250621140000 +0900" channel="KBS KIDS">
     <title lang="zh">슈팅스타 캐치! 티니핑</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621140000 +0900" stop="20250621141500 +0900" channel="KBS KIDS">
+  <programme start="20250621140000 +0900" stop="20250621141000 +0900" channel="KBS KIDS">
     <title lang="zh">슈팅스타 캐치! 티니핑</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621141500 +0900" stop="20250621143000 +0900" channel="KBS KIDS">
+  <programme start="20250621141000 +0900" stop="20250621143000 +0900" channel="KBS KIDS">
     <title lang="zh">슈팅스타 캐치! 티니핑</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621143000 +0900" stop="20250621144500 +0900" channel="KBS KIDS">
+  <programme start="20250621143000 +0900" stop="20250621145000 +0900" channel="KBS KIDS">
     <title lang="zh">라바 인 마스</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621144500 +0900" stop="20250621150000 +0900" channel="KBS KIDS">
+  <programme start="20250621145000 +0900" stop="20250621150500 +0900" channel="KBS KIDS">
     <title lang="zh">라바 인 마스</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621150000 +0900" stop="20250621151500 +0900" channel="KBS KIDS">
+  <programme start="20250621150500 +0900" stop="20250621152000 +0900" channel="KBS KIDS">
     <title lang="zh">라바 인 마스</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621151500 +0900" stop="20250621153000 +0900" channel="KBS KIDS">
+  <programme start="20250621152000 +0900" stop="20250621153500 +0900" channel="KBS KIDS">
     <title lang="zh">라바 인 마스</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621153000 +0900" stop="20250621154500 +0900" channel="KBS KIDS">
+  <programme start="20250621153500 +0900" stop="20250621155500 +0900" channel="KBS KIDS">
     <title lang="zh">브레드이발소 시즌4</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621154500 +0900" stop="20250621160000 +0900" channel="KBS KIDS">
+  <programme start="20250621155500 +0900" stop="20250621160500 +0900" channel="KBS KIDS">
     <title lang="zh">브레드이발소 시즌4</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621160000 +0900" stop="20250621161500 +0900" channel="KBS KIDS">
+  <programme start="20250621160500 +0900" stop="20250621161500 +0900" channel="KBS KIDS">
     <title lang="zh">브레드이발소 시즌4</title>
     <desc lang="zh"/>
   </programme>
@@ -225674,27 +224726,27 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">브레드이발소 시즌4</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621163000 +0900" stop="20250621164500 +0900" channel="KBS KIDS">
+  <programme start="20250621163000 +0900" stop="20250621165000 +0900" channel="KBS KIDS">
     <title lang="zh">새콤달콤 캐치!티니핑</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621164500 +0900" stop="20250621170000 +0900" channel="KBS KIDS">
+  <programme start="20250621165000 +0900" stop="20250621170500 +0900" channel="KBS KIDS">
     <title lang="zh">새콤달콤 캐치!티니핑</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621170000 +0900" stop="20250621171500 +0900" channel="KBS KIDS">
+  <programme start="20250621170500 +0900" stop="20250621171500 +0900" channel="KBS KIDS">
     <title lang="zh">새콤달콤 캐치!티니핑</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621171500 +0900" stop="20250621173000 +0900" channel="KBS KIDS">
+  <programme start="20250621171500 +0900" stop="20250621172500 +0900" channel="KBS KIDS">
     <title lang="zh">새콤달콤 캐치!티니핑</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621173000 +0900" stop="20250621174500 +0900" channel="KBS KIDS">
+  <programme start="20250621172500 +0900" stop="20250621174000 +0900" channel="KBS KIDS">
     <title lang="zh">새콤달콤 캐치!티니핑</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621174500 +0900" stop="20250621180000 +0900" channel="KBS KIDS">
+  <programme start="20250621174000 +0900" stop="20250621180000 +0900" channel="KBS KIDS">
     <title lang="zh">새콤달콤 캐치!티니핑</title>
     <desc lang="zh"/>
   </programme>
@@ -225702,11 +224754,11 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">뚜식이 시즌6</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621183000 +0900" stop="20250621190000 +0900" channel="KBS KIDS">
+  <programme start="20250621183000 +0900" stop="20250621185500 +0900" channel="KBS KIDS">
     <title lang="zh">뚜식이 시즌6</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621190000 +0900" stop="20250621193000 +0900" channel="KBS KIDS">
+  <programme start="20250621185500 +0900" stop="20250621193000 +0900" channel="KBS KIDS">
     <title lang="zh">뚜식이 시즌6</title>
     <desc lang="zh"/>
   </programme>
@@ -225714,11 +224766,11 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">백앤아 남매튜브</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621200000 +0900" stop="20250621203000 +0900" channel="KBS KIDS">
+  <programme start="20250621200000 +0900" stop="20250621202500 +0900" channel="KBS KIDS">
     <title lang="zh">백앤아 남매튜브</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621203000 +0900" stop="20250621210000 +0900" channel="KBS KIDS">
+  <programme start="20250621202500 +0900" stop="20250621210000 +0900" channel="KBS KIDS">
     <title lang="zh">백앤아 남매튜브</title>
     <desc lang="zh"/>
   </programme>
@@ -225746,11 +224798,11 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">챔보의 호기심천꾹</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621233000 +0900" stop="20250621234500 +0900" channel="KBS KIDS">
+  <programme start="20250621233000 +0900" stop="20250621234000 +0900" channel="KBS KIDS">
     <title lang="zh">챔보의 호기심천꾹</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621234500 +0900" stop="20250621240000 +0900" channel="KBS KIDS">
+  <programme start="20250621234000 +0900" stop="20250621260000 +0900" channel="KBS KIDS">
     <title lang="zh">챔보의 호기심천꾹</title>
     <desc lang="zh"/>
   </programme>
@@ -225758,15 +224810,15 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">말랑쁘니</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621241500 +0900" stop="20250621243000 +0900" channel="KBS KIDS">
+  <programme start="20250621241500 +0900" stop="20250621242500 +0900" channel="KBS KIDS">
     <title lang="zh">말랑쁘니</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621243000 +0900" stop="20250621244500 +0900" channel="KBS KIDS">
+  <programme start="20250621242500 +0900" stop="20250621243500 +0900" channel="KBS KIDS">
     <title lang="zh">말랑쁘니</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621244500 +0900" stop="20250621250000 +0900" channel="KBS KIDS">
+  <programme start="20250621243500 +0900" stop="20250621250000 +0900" channel="KBS KIDS">
     <title lang="zh">말랑쁘니</title>
     <desc lang="zh"/>
   </programme>
@@ -225774,11 +224826,11 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">내 친구 반인반어</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621251500 +0900" stop="20250621253500 +0900" channel="KBS KIDS">
+  <programme start="20250621251500 +0900" stop="20250621252500 +0900" channel="KBS KIDS">
     <title lang="zh">내 친구 반인반어</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621253500 +0900" stop="20250621255000 +0900" channel="KBS KIDS">
+  <programme start="20250621252500 +0900" stop="20250621255000 +0900" channel="KBS KIDS">
     <title lang="zh">내 친구 반인반어</title>
     <desc lang="zh"/>
   </programme>
@@ -225786,7 +224838,7 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">동물은 훌륭하다</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621270000 +0900" stop="20250621280000 +0900" channel="KBS KIDS">
+  <programme start="20250621270000 +0900" stop="20250621280500 +0900" channel="KBS KIDS">
     <title lang="zh">우리말겨루기</title>
     <desc lang="zh"/>
   </programme>
@@ -226742,24 +225794,24 @@ The site: www.tv5monde.com/terriennes</desc>
     <title lang="zh">2025 SG골프 더 매치 챔피언십 </title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621083000 +0900" stop="20250621110000 +0900" channel="SBS Golf">
+  <programme start="20250621083000 +0900" stop="20250621093000 +0900" channel="SBS Golf">
+    <title lang="zh">2025 키움증권배 고교동창 골프 최강전 </title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20250621093000 +0900" stop="20250621130000 +0900" channel="SBS Golf">
     <title lang="zh">2025 KLPGA 더헤븐 마스터즈 1R</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621110000 +0900" stop="20250621170000 +0900" channel="SBS Golf">
+  <programme start="20250621130000 +0900" stop="20250621190000 +0900" channel="SBS Golf">
     <title lang="zh">2025 KLPGA 더헤븐 마스터즈 2R</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20250621170000 +0900" stop="20250621203000 +0900" channel="SBS Golf">
+  <programme start="20250621190000 +0900" stop="20250621230000 +0900" channel="SBS Golf">
     <title lang="zh">2025 KLPGA 더헤븐 마스터즈 2R</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20250621203000 +0900" stop="20250621230000 +0900" channel="SBS Golf">
-    <title lang="zh">2025 KPGA투어 제68회 KPGA 선수권대회 with A-ONE CC 3R</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20250621230000 +0900" stop="20250621253000 +0900" channel="SBS Golf">
-    <title lang="zh">2025 KLPGA 더헤븐 마스터즈 2R</title>
+    <title lang="zh">2025 KPGA투어 제68회 KPGA 선수권대회 with A-ONE CC 3R</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20250622040000 +0900" stop="20250622043000 +0900" channel="SBS Golf">
@@ -226931,7 +225983,7 @@ The site: www.tv5monde.com/terriennes</desc>
     <desc lang="zh"/>
   </programme>
   <programme start="20250621120500 +0900" stop="20250621121500 +0900" channel="MBC">
-    <title lang="zh">MBC 뉴스</title>
+    <title lang="zh">MBC 뉴스특보</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20250621121500 +0900" stop="20250621140000 +0900" channel="MBC">
