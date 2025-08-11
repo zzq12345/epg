@@ -113638,22 +113638,22 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250812090200 +0800" stop="20250812092000 +0800" channel="东方卫视">
-    <title lang="zh">扫毒风暴(30)</title>
+    <title lang="zh">扫毒风暴精编(30)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812092000 +0800" stop="20250812100300 +0800" channel="东方卫视">
+  <programme start="20250812092000 +0800" stop="20250812100400 +0800" channel="东方卫视">
     <title lang="zh">扫毒风暴(31)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812100300 +0800" stop="20250812104600 +0800" channel="东方卫视">
+  <programme start="20250812100400 +0800" stop="20250812104700 +0800" channel="东方卫视">
     <title lang="zh">扫毒风暴(32)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812104600 +0800" stop="20250812112800 +0800" channel="东方卫视">
+  <programme start="20250812104700 +0800" stop="20250812112900 +0800" channel="东方卫视">
     <title lang="zh">扫毒风暴(33)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812112800 +0800" stop="20250812120000 +0800" channel="东方卫视">
+  <programme start="20250812112900 +0800" stop="20250812120000 +0800" channel="东方卫视">
     <title lang="zh">潮童天下精编</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -113666,7 +113666,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250812123000 +0800" stop="20250812124200 +0800" channel="东方卫视">
-    <title lang="zh">ShanghaiEye(151)</title>
+    <title lang="zh">ShanghaiEye</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250812124200 +0800" stop="20250812125800 +0800" channel="东方卫视">
@@ -113681,27 +113681,27 @@
     <title lang="zh">菩提树下(45)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812142400 +0800" stop="20250812150700 +0800" channel="东方卫视">
+  <programme start="20250812142400 +0800" stop="20250812150800 +0800" channel="东方卫视">
     <title lang="zh">菩提树下(46)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812150700 +0800" stop="20250812154900 +0800" channel="东方卫视">
+  <programme start="20250812150800 +0800" stop="20250812155000 +0800" channel="东方卫视">
     <title lang="zh">菩提树下(47)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812154900 +0800" stop="20250812163000 +0800" channel="东方卫视">
+  <programme start="20250812155000 +0800" stop="20250812163100 +0800" channel="东方卫视">
     <title lang="zh">菩提树下(48)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812163000 +0800" stop="20250812170400 +0800" channel="东方卫视">
-    <title lang="zh">菩提树下(49)</title>
+  <programme start="20250812163100 +0800" stop="20250812170500 +0800" channel="东方卫视">
+    <title lang="zh">菩提树下精编(49)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812170400 +0800" stop="20250812173100 +0800" channel="东方卫视">
+  <programme start="20250812170500 +0800" stop="20250812173200 +0800" channel="东方卫视">
     <title lang="zh">东方新娱乐</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812173100 +0800" stop="20250812180000 +0800" channel="东方卫视">
+  <programme start="20250812173200 +0800" stop="20250812180000 +0800" channel="东方卫视">
     <title lang="zh">名医话养生(36)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -113745,68 +113745,56 @@
     <title lang="zh">天气预报</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812220000 +0800" stop="20250812223900 +0800" channel="东方卫视">
-    <title lang="zh">书写船奇</title>
+  <programme start="20250812220000 +0800" stop="20250812224200 +0800" channel="东方卫视">
+    <title lang="zh">穿越极致美洲(5)北境极地</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812223900 +0800" stop="20250812232300 +0800" channel="东方卫视">
-    <title lang="zh">穿越极致美洲(5)</title>
+  <programme start="20250812224200 +0800" stop="20250812235800 +0800" channel="东方卫视">
+    <title lang="zh">梦想改造家精编余生陪伴的家</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812232300 +0800" stop="20250813000000 +0800" channel="东方卫视">
+  <programme start="20250812235800 +0800" stop="20250813000000 +0800" channel="东方卫视">
+    <title lang="zh">中国经济圆桌会(21)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813003700 +0800" stop="20250813012200 +0800" channel="东方卫视">
     <title lang="zh">三体(5)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813000800 +0800" stop="20250813005400 +0800" channel="东方卫视">
+  <programme start="20250813012200 +0800" stop="20250813020800 +0800" channel="东方卫视">
     <title lang="zh">三体(6)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813005400 +0800" stop="20250813005700 +0800" channel="东方卫视">
+  <programme start="20250813020800 +0800" stop="20250813021100 +0800" channel="东方卫视">
     <title lang="zh">明日精彩看点</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813005700 +0800" stop="20250813014300 +0800" channel="东方卫视">
+  <programme start="20250813021100 +0800" stop="20250813025700 +0800" channel="东方卫视">
     <title lang="zh">三体(7)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813014300 +0800" stop="20250813022700 +0800" channel="东方卫视">
+  <programme start="20250813025700 +0800" stop="20250813034100 +0800" channel="东方卫视">
     <title lang="zh">三体(8)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813022700 +0800" stop="20250813023000 +0800" channel="东方卫视">
+  <programme start="20250813034100 +0800" stop="20250813034400 +0800" channel="东方卫视">
     <title lang="zh">明日精彩看点</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813023000 +0800" stop="20250813032800 +0800" channel="东方卫视">
+  <programme start="20250813034400 +0800" stop="20250813044200 +0800" channel="东方卫视">
     <title lang="zh">三体(9)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813032800 +0800" stop="20250813041300 +0800" channel="东方卫视">
+  <programme start="20250813044200 +0800" stop="20250813052800 +0800" channel="东方卫视">
     <title lang="zh">三体(10)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813041300 +0800" stop="20250813041600 +0800" channel="东方卫视">
-    <title lang="zh">明日精彩看点</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250813041600 +0800" stop="20250813050300 +0800" channel="东方卫视">
+  <programme start="20250813052800 +0800" stop="20250813061300 +0800" channel="东方卫视">
     <title lang="zh">三体(11)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813050300 +0800" stop="20250813054300 +0800" channel="东方卫视">
+  <programme start="20250813061300 +0800" stop="20250813070000 +0800" channel="东方卫视">
     <title lang="zh">三体(12)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250813054300 +0800" stop="20250813054600 +0800" channel="东方卫视">
-    <title lang="zh">明日精彩看点</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250813054600 +0800" stop="20250813063100 +0800" channel="东方卫视">
-    <title lang="zh">三体(13)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250813063100 +0800" stop="20250813070000 +0800" channel="东方卫视">
-    <title lang="zh">三体(14)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250813070000 +0800" stop="20250813070100 +0800" channel="东方卫视">
@@ -113817,24 +113805,28 @@
     <title lang="zh">看东方</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813085900 +0800" stop="20250813090000 +0800" channel="东方卫视">
+  <programme start="20250813085900 +0800" stop="20250813090200 +0800" channel="东方卫视">
     <title lang="zh">天气预报</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813090000 +0800" stop="20250813093100 +0800" channel="东方卫视">
-    <title lang="zh">潮童天下精编</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250813093100 +0800" stop="20250813102000 +0800" channel="东方卫视">
+  <programme start="20250813090200 +0800" stop="20250813094200 +0800" channel="东方卫视">
     <title lang="zh">乌云之上(1)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813102000 +0800" stop="20250813110900 +0800" channel="东方卫视">
+  <programme start="20250813094200 +0800" stop="20250813102400 +0800" channel="东方卫视">
     <title lang="zh">乌云之上(2)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813110900 +0800" stop="20250813120000 +0800" channel="东方卫视">
+  <programme start="20250813102400 +0800" stop="20250813110300 +0800" channel="东方卫视">
     <title lang="zh">乌云之上(3)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813110300 +0800" stop="20250813112800 +0800" channel="东方卫视">
+    <title lang="zh">乌云之上(4)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813112800 +0800" stop="20250813120000 +0800" channel="东方卫视">
+    <title lang="zh">潮童天下精编</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250813120000 +0800" stop="20250813122600 +0800" channel="东方卫视">
@@ -113845,39 +113837,43 @@
     <title lang="zh">天气预报</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813123000 +0800" stop="20250813131000 +0800" channel="东方卫视">
+  <programme start="20250813123000 +0800" stop="20250813124200 +0800" channel="东方卫视">
     <title lang="zh">ShanghaiEye(152)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813131000 +0800" stop="20250813135100 +0800" channel="东方卫视">
+  <programme start="20250813124200 +0800" stop="20250813132500 +0800" channel="东方卫视">
     <title lang="zh">菩提树下(50)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813135100 +0800" stop="20250813143400 +0800" channel="东方卫视">
+  <programme start="20250813132500 +0800" stop="20250813140700 +0800" channel="东方卫视">
     <title lang="zh">菩提树下(51)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813143400 +0800" stop="20250813151600 +0800" channel="东方卫视">
+  <programme start="20250813140700 +0800" stop="20250813145000 +0800" channel="东方卫视">
     <title lang="zh">菩提树下(52)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813151600 +0800" stop="20250813155900 +0800" channel="东方卫视">
+  <programme start="20250813145000 +0800" stop="20250813153400 +0800" channel="东方卫视">
     <title lang="zh">菩提树下(53)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813155900 +0800" stop="20250813164000 +0800" channel="东方卫视">
+  <programme start="20250813153400 +0800" stop="20250813161500 +0800" channel="东方卫视">
     <title lang="zh">六姊妹(1)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813164000 +0800" stop="20250813172300 +0800" channel="东方卫视">
+  <programme start="20250813161500 +0800" stop="20250813165700 +0800" channel="东方卫视">
     <title lang="zh">六姊妹(2)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813172300 +0800" stop="20250813175000 +0800" channel="东方卫视">
+  <programme start="20250813165700 +0800" stop="20250813170600 +0800" channel="东方卫视">
+    <title lang="zh">六姊妹(3)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813170600 +0800" stop="20250813173200 +0800" channel="东方卫视">
     <title lang="zh">东方新娱乐</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813175000 +0800" stop="20250813180000 +0800" channel="东方卫视">
+  <programme start="20250813173200 +0800" stop="20250813180000 +0800" channel="东方卫视">
     <title lang="zh">名医话养生(85)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -113889,27 +113885,27 @@
     <title lang="zh">天气预报</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813190000 +0800" stop="20250813193100 +0800" channel="东方卫视">
+  <programme start="20250813190000 +0800" stop="20250813193200 +0800" channel="东方卫视">
     <title lang="zh">转播中央台新闻联播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813193100 +0800" stop="20250813201700 +0800" channel="东方卫视">
-    <title lang="zh">东方剧场</title>
+  <programme start="20250813193200 +0800" stop="20250813201600 +0800" channel="东方卫视">
+    <title lang="zh">雁回时(5)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813201700 +0800" stop="20250813205800 +0800" channel="东方卫视">
-    <title lang="zh">东方剧场</title>
+  <programme start="20250813201600 +0800" stop="20250813205600 +0800" channel="东方卫视">
+    <title lang="zh">雁回时(6)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813205800 +0800" stop="20250813210300 +0800" channel="东方卫视">
+  <programme start="20250813205600 +0800" stop="20250813210200 +0800" channel="东方卫视">
     <title lang="zh">明日精彩看点</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813210300 +0800" stop="20250813210800 +0800" channel="东方卫视">
+  <programme start="20250813210200 +0800" stop="20250813210700 +0800" channel="东方卫视">
     <title lang="zh">东方看大剧</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813210800 +0800" stop="20250813212000 +0800" channel="东方卫视">
+  <programme start="20250813210700 +0800" stop="20250813212000 +0800" channel="东方卫视">
     <title lang="zh">宫墙厌(12)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -113917,20 +113913,20 @@
     <title lang="zh">今晚</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813215900 +0800" stop="20250813220100 +0800" channel="东方卫视">
+  <programme start="20250813215900 +0800" stop="20250813220000 +0800" channel="东方卫视">
     <title lang="zh">天气预报</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813220100 +0800" stop="20250813222800 +0800" channel="东方卫视">
+  <programme start="20250813220000 +0800" stop="20250813222600 +0800" channel="东方卫视">
     <title lang="zh">锚点</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813222800 +0800" stop="20250813225400 +0800" channel="东方卫视">
+  <programme start="20250813222600 +0800" stop="20250813225100 +0800" channel="东方卫视">
     <title lang="zh">两说</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250813225400 +0800" stop="20250814000000 +0800" channel="东方卫视">
-    <title lang="zh">梦想改造家精编三向奔赴的家</title>
+  <programme start="20250813225100 +0800" stop="20250814000000 +0800" channel="东方卫视">
+    <title lang="zh">梦想改造家精编携手并肩的家</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250811000600 +0800" stop="20250811005500 +0800" channel="江苏卫视">
@@ -115402,11 +115398,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250812193700 +0800" stop="20250812202400 +0800" channel="湖北卫视">
-    <title lang="zh">小巷人家</title>
+    <title lang="zh">小巷人家(1)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250812202400 +0800" stop="20250812211000 +0800" channel="湖北卫视">
-    <title lang="zh">小巷人家</title>
+    <title lang="zh">小巷人家(2)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250812211000 +0800" stop="20250812212100 +0800" channel="湖北卫视">
@@ -119165,6 +119161,10 @@
     <title lang="zh">东南早间天气预报</title>
     <desc lang="zh"> </desc>
   </programme>
+  <programme start="20250812070000 +0800" stop="20250812070200 +0800" channel="东南卫视">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc lang="zh"> </desc>
+  </programme>
   <programme start="20250812070200 +0800" stop="20250812084200 +0800" channel="东南卫视">
     <title lang="zh">穆桂英挂帅</title>
     <desc lang="zh"> </desc>
@@ -119509,27 +119509,55 @@
     <title lang="zh">医生开讲</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812000000 +0800" stop="20250812003000 +0800" channel="贵州卫视">
+  <programme start="20250812000000 +0800" stop="20250812002500 +0800" channel="贵州卫视">
     <title lang="zh">贵州新闻联播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812003000 +0800" stop="20250812012000 +0800" channel="贵州卫视">
+  <programme start="20250812002500 +0800" stop="20250812004800 +0800" channel="贵州卫视">
+    <title lang="zh">贵州旅游天气导航</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250812004800 +0800" stop="20250812013000 +0800" channel="贵州卫视">
     <title lang="zh">凭栏一片风云起(34)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812012000 +0800" stop="20250812021000 +0800" channel="贵州卫视">
+  <programme start="20250812013000 +0800" stop="20250812015600 +0800" channel="贵州卫视">
+    <title lang="zh">栏目</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250812015600 +0800" stop="20250812024500 +0800" channel="贵州卫视">
+    <title lang="zh">影响力</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250812024500 +0800" stop="20250812035000 +0800" channel="贵州卫视">
     <title lang="zh">凭栏一片风云起(35)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812021000 +0800" stop="20250812060000 +0800" channel="贵州卫视">
+  <programme start="20250812035000 +0800" stop="20250812044900 +0800" channel="贵州卫视">
+    <title lang="zh">这一站，贵州节日篇(1)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250812044900 +0800" stop="20250812045000 +0800" channel="贵州卫视">
+    <title lang="zh">栏目</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250812045000 +0800" stop="20250812052300 +0800" channel="贵州卫视">
+    <title lang="zh">詹姆士的厨房麻香冷面</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250812052300 +0800" stop="20250812060300 +0800" channel="贵州卫视">
     <title lang="zh">凭栏一片风云起(36)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812060000 +0800" stop="20250812063500 +0800" channel="贵州卫视">
-    <title lang="zh">纪录片</title>
+  <programme start="20250812060300 +0800" stop="20250812060400 +0800" channel="贵州卫视">
+    <title lang="zh">栏目</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812063500 +0800" stop="20250812070000 +0800" channel="贵州卫视">
+  <programme start="20250812060400 +0800" stop="20250812063400 +0800" channel="贵州卫视">
+    <title lang="zh">我的美食向导(3)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250812063400 +0800" stop="20250812070000 +0800" channel="贵州卫视">
     <title lang="zh">贵州新闻联播</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -119537,51 +119565,79 @@
     <title lang="zh">中华人民共和国国歌</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812070100 +0800" stop="20250812080000 +0800" channel="贵州卫视">
-    <title lang="zh">专题</title>
+  <programme start="20250812070100 +0800" stop="20250812072400 +0800" channel="贵州卫视">
+    <title lang="zh">等着我(3)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812080000 +0800" stop="20250812083000 +0800" channel="贵州卫视">
-    <title lang="zh">动画片</title>
+  <programme start="20250812072400 +0800" stop="20250812080500 +0800" channel="贵州卫视">
+    <title lang="zh">栏目</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812083000 +0800" stop="20250812092200 +0800" channel="贵州卫视">
+  <programme start="20250812080500 +0800" stop="20250812081300 +0800" channel="贵州卫视">
+    <title lang="zh">毛毛镇之海洋大发现(17)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250812081300 +0800" stop="20250812082600 +0800" channel="贵州卫视">
+    <title lang="zh">开心超人联盟之异星迷航17(17)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250812082600 +0800" stop="20250812084200 +0800" channel="贵州卫视">
+    <title lang="zh">开心超人联盟之异星迷航17(18)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250812084200 +0800" stop="20250812091300 +0800" channel="贵州卫视">
     <title lang="zh">狙击部队(14)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812092200 +0800" stop="20250812101400 +0800" channel="贵州卫视">
+  <programme start="20250812091300 +0800" stop="20250812095800 +0800" channel="贵州卫视">
+    <title lang="zh">栏目</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250812095800 +0800" stop="20250812102900 +0800" channel="贵州卫视">
     <title lang="zh">狙击部队(15)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812101400 +0800" stop="20250812110600 +0800" channel="贵州卫视">
+  <programme start="20250812102900 +0800" stop="20250812105700 +0800" channel="贵州卫视">
+    <title lang="zh">栏目</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250812105700 +0800" stop="20250812112900 +0800" channel="贵州卫视">
     <title lang="zh">狙击部队(16)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812110600 +0800" stop="20250812115800 +0800" channel="贵州卫视">
+  <programme start="20250812112900 +0800" stop="20250812115200 +0800" channel="贵州卫视">
+    <title lang="zh">栏目</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250812115200 +0800" stop="20250812122300 +0800" channel="贵州卫视">
     <title lang="zh">狙击部队(17)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812115800 +0800" stop="20250812125000 +0800" channel="贵州卫视">
+  <programme start="20250812122300 +0800" stop="20250812124600 +0800" channel="贵州卫视">
+    <title lang="zh">栏目</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250812124600 +0800" stop="20250812131800 +0800" channel="贵州卫视">
     <title lang="zh">狙击部队(18)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812125000 +0800" stop="20250812125500 +0800" channel="贵州卫视">
-    <title lang="zh">气象快讯</title>
+  <programme start="20250812131800 +0800" stop="20250812134800 +0800" channel="贵州卫视">
+    <title lang="zh">栏目</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812125500 +0800" stop="20250812140600 +0800" channel="贵州卫视">
+  <programme start="20250812134800 +0800" stop="20250812144600 +0800" channel="贵州卫视">
     <title lang="zh">狙击部队(19)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812140600 +0800" stop="20250812151700 +0800" channel="贵州卫视">
+  <programme start="20250812144600 +0800" stop="20250812154400 +0800" channel="贵州卫视">
     <title lang="zh">狙击部队(20)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812151700 +0800" stop="20250812162800 +0800" channel="贵州卫视">
+  <programme start="20250812154400 +0800" stop="20250812164200 +0800" channel="贵州卫视">
     <title lang="zh">狙击部队(21)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812162800 +0800" stop="20250812174000 +0800" channel="贵州卫视">
+  <programme start="20250812164200 +0800" stop="20250812174000 +0800" channel="贵州卫视">
     <title lang="zh">狙击部队(22)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -128145,12 +128201,8 @@
     <title lang="zh">MLB 教士 VS 巨人 例行賽 812(原音) LIVE</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250812124500 +0800" stop="20250812175500 +0800" channel="elta體育max 6">
+  <programme start="20250812124500 +0800" stop="20250812203000 +0800" channel="elta體育max 6">
     <title lang="zh">非賽事直播時段 蘇超：全台獨家 每輪精選直播 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250812175500 +0800" stop="20250812203000 +0800" channel="elta體育max 6">
-    <title lang="zh">世界運動會 壁球 男女單打金牌戰 812(原音) LIVE</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250811213000 +0800" stop="20250812000000 +0800" channel="elta體育max 7">
@@ -128622,130 +128674,6 @@
   <channel id="HOY資訊">
     <display-name lang="zh">HOY資訊</display-name>
   </channel>
-  <programme start="20250811000000 +0800" stop="20250811010000 +0800" channel="HOY國際財經">
-    <title lang="zh">FashionTV</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811010000 +0800" stop="20250811020000 +0800" channel="HOY國際財經">
-    <title lang="zh">亞洲勒芒系列賽</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811020000 +0800" stop="20250811030000 +0800" channel="HOY國際財經">
-    <title lang="zh">體育360</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811030000 +0800" stop="20250811033000 +0800" channel="HOY國際財經">
-    <title lang="zh">In Good Shape</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811033000 +0800" stop="20250811040000 +0800" channel="HOY國際財經">
-    <title lang="zh">Made In Germany</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811040000 +0800" stop="20250811050000 +0800" channel="HOY國際財經">
-    <title lang="zh">FashionTV</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811050000 +0800" stop="20250811060000 +0800" channel="HOY國際財經">
-    <title lang="zh">亞洲勒芒系列賽</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811060000 +0800" stop="20250811065500 +0800" channel="HOY國際財經">
-    <title lang="zh">Bloomberg 時段</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811065500 +0800" stop="20250811090000 +0800" channel="HOY國際財經">
-    <title lang="zh">阿根廷甲組足球聯賽-小阿根廷人 對  聖達菲聯</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811090000 +0800" stop="20250811093000 +0800" channel="HOY國際財經">
-    <title lang="zh">汪汪隊立大功第8季</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811093000 +0800" stop="20250811100000 +0800" channel="HOY國際財經">
-    <title lang="zh">芭比娃娃雙人成行</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811100000 +0800" stop="20250811103000 +0800" channel="HOY國際財經">
-    <title lang="zh">Polly Pocket - 新系列 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811103000 +0800" stop="20250811110000 +0800" channel="HOY國際財經">
-    <title lang="zh">克拉斯蒂騎士</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811110000 +0800" stop="20250811120000 +0800" channel="HOY國際財經">
-    <title lang="zh">暖暖黃昏下</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811120000 +0800" stop="20250811130000 +0800" channel="HOY國際財經">
-    <title lang="zh">凌雲志</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811130000 +0800" stop="20250811140000 +0800" channel="HOY國際財經">
-    <title lang="zh">Bloomberg 時段</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811140000 +0800" stop="20250811150000 +0800" channel="HOY國際財經">
-    <title lang="zh">Bloomberg 時段</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811150000 +0800" stop="20250811160000 +0800" channel="HOY國際財經">
-    <title lang="zh">Bloomberg 時段</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811160000 +0800" stop="20250811163000 +0800" channel="HOY國際財經">
-    <title lang="zh">汪汪隊立大功第8季</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811163000 +0800" stop="20250811170000 +0800" channel="HOY國際財經">
-    <title lang="zh">芭比娃娃雙人成行</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811170000 +0800" stop="20250811173000 +0800" channel="HOY國際財經">
-    <title lang="zh">Polly Pocket - 新系列 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811173000 +0800" stop="20250811180000 +0800" channel="HOY國際財經">
-    <title lang="zh">克拉斯蒂騎士</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811180000 +0800" stop="20250811185500 +0800" channel="HOY國際財經">
-    <title lang="zh">Bloomberg 時段</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811185500 +0800" stop="20250811210000 +0800" channel="HOY國際財經">
-    <title lang="zh">亞洲盃男子籃球賽附加賽-中華台北 對 約旦</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811210000 +0800" stop="20250811211500 +0800" channel="HOY國際財經">
-    <title lang="zh">有線新聞</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811211500 +0800" stop="20250811213000 +0800" channel="HOY國際財經">
-    <title lang="zh">Bloomberg 時段</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811213000 +0800" stop="20250811220000 +0800" channel="HOY國際財經">
-    <title lang="zh">Bloomberg 時段</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811220000 +0800" stop="20250811230000 +0800" channel="HOY國際財經">
-    <title lang="zh">Bloomberg 時段</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811230000 +0800" stop="20250811231500 +0800" channel="HOY國際財經">
-    <title lang="zh">有線新聞</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811231500 +0800" stop="20250811233000 +0800" channel="HOY國際財經">
-    <title lang="zh">Green Touch</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811233000 +0800" stop="20250812003000 +0800" channel="HOY國際財經">
-    <title lang="zh">暖暖黃昏下</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20250812003000 +0800" stop="20250812013000 +0800" channel="HOY國際財經">
     <title lang="zh">凌雲志</title>
     <desc lang="zh"> </desc>
@@ -128874,140 +128802,120 @@
     <title lang="zh">亞洲盃男子籃球賽附加賽-日本 對 黎巴嫩</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811000000 +0800" stop="20250811003000 +0800" channel="HOY TV">
-    <title lang="zh">嘻哈馬場</title>
+  <programme start="20250813020000 +0800" stop="20250813030000 +0800" channel="HOY國際財經">
+    <title lang="zh">Bloomberg 時段</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811003000 +0800" stop="20250811010000 +0800" channel="HOY TV">
-    <title lang="zh">五平方Squarefoot特約 : 樓盤傳真</title>
+  <programme start="20250813030000 +0800" stop="20250813040000 +0800" channel="HOY國際財經">
+    <title lang="zh">Bloomberg 時段</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811010000 +0800" stop="20250811030000 +0800" channel="HOY TV">
-    <title lang="zh">HOY 動音樂</title>
+  <programme start="20250813040000 +0800" stop="20250813050000 +0800" channel="HOY國際財經">
+    <title lang="zh">Bloomberg 時段</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811030000 +0800" stop="20250811060000 +0800" channel="HOY TV">
-    <title lang="zh">魚樂無限</title>
+  <programme start="20250813050000 +0800" stop="20250813060000 +0800" channel="HOY國際財經">
+    <title lang="zh">Bloomberg 時段</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811060000 +0800" stop="20250811070000 +0800" channel="HOY TV">
-    <title lang="zh">人生加油站</title>
+  <programme start="20250813060000 +0800" stop="20250813070000 +0800" channel="HOY國際財經">
+    <title lang="zh">Bloomberg 時段</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811070000 +0800" stop="20250811080000 +0800" channel="HOY TV">
-    <title lang="zh">與鳳行</title>
+  <programme start="20250813070000 +0800" stop="20250813080000 +0800" channel="HOY國際財經">
+    <title lang="zh">CGTN 時段</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811080000 +0800" stop="20250811090000 +0800" channel="HOY TV">
-    <title lang="zh">獅子山下的故事</title>
+  <programme start="20250813080000 +0800" stop="20250813090000 +0800" channel="HOY國際財經">
+    <title lang="zh">CGTN 時段</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811090000 +0800" stop="20250811093000 +0800" channel="HOY TV">
-    <title lang="zh">一味傍身 世界通行</title>
+  <programme start="20250813090000 +0800" stop="20250813093000 +0800" channel="HOY國際財經">
+    <title lang="zh">汪汪隊立大功第8季</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811093000 +0800" stop="20250811100000 +0800" channel="HOY TV">
-    <title lang="zh">砂煲罌罉</title>
+  <programme start="20250813093000 +0800" stop="20250813100000 +0800" channel="HOY國際財經">
+    <title lang="zh">芭比娃娃雙人成行</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811100000 +0800" stop="20250811103000 +0800" channel="HOY TV">
-    <title lang="zh">雪脈—賽場內外的接力</title>
+  <programme start="20250813100000 +0800" stop="20250813103000 +0800" channel="HOY國際財經">
+    <title lang="zh">Polly Pocket - 新系列 4</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811103000 +0800" stop="20250811113000 +0800" channel="HOY TV">
-    <title lang="zh">我的完美秘書</title>
+  <programme start="20250813103000 +0800" stop="20250813110000 +0800" channel="HOY國際財經">
+    <title lang="zh">佩特森和芬杜斯 第3季</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811113000 +0800" stop="20250811123000 +0800" channel="HOY TV">
-    <title lang="zh">人生加油站</title>
+  <programme start="20250813110000 +0800" stop="20250813120000 +0800" channel="HOY國際財經">
+    <title lang="zh">暖暖黃昏下</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811123000 +0800" stop="20250811130000 +0800" channel="HOY TV">
-    <title lang="zh">午間新聞</title>
+  <programme start="20250813120000 +0800" stop="20250813130000 +0800" channel="HOY國際財經">
+    <title lang="zh">凌雲志</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811130000 +0800" stop="20250811133000 +0800" channel="HOY TV">
-    <title lang="zh">韓國邊忽好</title>
+  <programme start="20250813130000 +0800" stop="20250813140000 +0800" channel="HOY國際財經">
+    <title lang="zh">Bloomberg 時段</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811133000 +0800" stop="20250811140000 +0800" channel="HOY TV">
-    <title lang="zh">煮題COOK</title>
+  <programme start="20250813140000 +0800" stop="20250813150000 +0800" channel="HOY國際財經">
+    <title lang="zh">Bloomberg 時段</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811140000 +0800" stop="20250811143000 +0800" channel="HOY TV">
-    <title lang="zh">健康關注組</title>
+  <programme start="20250813150000 +0800" stop="20250813160000 +0800" channel="HOY國際財經">
+    <title lang="zh">Bloomberg 時段</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811143000 +0800" stop="20250811153000 +0800" channel="HOY TV">
-    <title lang="zh">畀你飛住賺回贈嘅WeWa卡呈獻 : 臥底旅行團 5.0</title>
+  <programme start="20250813160000 +0800" stop="20250813163000 +0800" channel="HOY國際財經">
+    <title lang="zh">汪汪隊立大功第8季</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811153000 +0800" stop="20250811160000 +0800" channel="HOY TV">
-    <title lang="zh">大宋宮詞</title>
+  <programme start="20250813163000 +0800" stop="20250813170000 +0800" channel="HOY國際財經">
+    <title lang="zh">芭比娃娃雙人成行</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811160000 +0800" stop="20250811163000 +0800" channel="HOY TV">
-    <title lang="zh">獅來運轉第一季</title>
+  <programme start="20250813170000 +0800" stop="20250813173000 +0800" channel="HOY國際財經">
+    <title lang="zh">Polly Pocket - 新系列 4</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811163000 +0800" stop="20250811170000 +0800" channel="HOY TV">
-    <title lang="zh">龍族拼圖X</title>
+  <programme start="20250813173000 +0800" stop="20250813180000 +0800" channel="HOY國際財經">
+    <title lang="zh">佩特森和芬杜斯 第3季</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811170000 +0800" stop="20250811173000 +0800" channel="HOY TV">
-    <title lang="zh">寶可夢 旅途</title>
+  <programme start="20250813180000 +0800" stop="20250813190000 +0800" channel="HOY國際財經">
+    <title lang="zh">Bloomberg 時段</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811173000 +0800" stop="20250811180000 +0800" channel="HOY TV">
-    <title lang="zh">友夫日記</title>
+  <programme start="20250813190000 +0800" stop="20250813200000 +0800" channel="HOY國際財經">
+    <title lang="zh">Bloomberg 時段</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811180000 +0800" stop="20250811183000 +0800" channel="HOY TV">
-    <title lang="zh">夠鐘食晏 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811183000 +0800" stop="20250811190000 +0800" channel="HOY TV">
-    <title lang="zh">香港奇則 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811190000 +0800" stop="20250811195000 +0800" channel="HOY TV">
-    <title lang="zh">7點直播室</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811195000 +0800" stop="20250811200000 +0800" channel="HOY TV">
-    <title lang="zh">28Hse特約 : 每日樓市</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811200000 +0800" stop="20250811203000 +0800" channel="HOY TV">
-    <title lang="zh">一線搜查</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811203000 +0800" stop="20250811210000 +0800" channel="HOY TV">
-    <title lang="zh">煮題COOK</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811210000 +0800" stop="20250811213000 +0800" channel="HOY TV">
-    <title lang="zh">健康關注組</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811213000 +0800" stop="20250811220000 +0800" channel="HOY TV">
-    <title lang="zh">遊樂溢誌</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811220000 +0800" stop="20250811230000 +0800" channel="HOY TV">
-    <title lang="zh">我的完美秘書</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811230000 +0800" stop="20250811233000 +0800" channel="HOY TV">
+  <programme start="20250813200000 +0800" stop="20250813201500 +0800" channel="HOY國際財經">
     <title lang="zh">有線新聞</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811233000 +0800" stop="20250811234500 +0800" channel="HOY TV">
-    <title lang="zh">娛樂頭條 E-news Headline</title>
+  <programme start="20250813201500 +0800" stop="20250813210000 +0800" channel="HOY國際財經">
+    <title lang="zh">Bloomberg 時段</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811234500 +0800" stop="20250812001500 +0800" channel="HOY TV">
-    <title lang="zh">一味傍身 世界通行</title>
+  <programme start="20250813210000 +0800" stop="20250813220000 +0800" channel="HOY國際財經">
+    <title lang="zh">Bloomberg 時段</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813220000 +0800" stop="20250813230000 +0800" channel="HOY國際財經">
+    <title lang="zh">Bloomberg 時段</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813230000 +0800" stop="20250813231500 +0800" channel="HOY國際財經">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813231500 +0800" stop="20250813233000 +0800" channel="HOY國際財經">
+    <title lang="zh">Green Touch</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813233000 +0800" stop="20250814003000 +0800" channel="HOY國際財經">
+    <title lang="zh">暖暖黃昏下</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250812001500 +0800" stop="20250812004500 +0800" channel="HOY TV">
@@ -129150,196 +129058,144 @@
     <title lang="zh">一味傍身 世界通行</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811000000 +0800" stop="20250811003000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
+  <programme start="20250813001500 +0800" stop="20250813004500 +0800" channel="HOY TV">
+    <title lang="zh">夠鐘食晏 2</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811003000 +0800" stop="20250811010000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
+  <programme start="20250813004500 +0800" stop="20250813010000 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811010000 +0800" stop="20250811013000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
+  <programme start="20250813010000 +0800" stop="20250813030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 動音樂</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811013000 +0800" stop="20250811020000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
+  <programme start="20250813030000 +0800" stop="20250813060000 +0800" channel="HOY TV">
+    <title lang="zh">魚樂無限</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811020000 +0800" stop="20250811023000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
+  <programme start="20250813060000 +0800" stop="20250813070000 +0800" channel="HOY TV">
+    <title lang="zh">人生加油站</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811023000 +0800" stop="20250811030000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
+  <programme start="20250813070000 +0800" stop="20250813080000 +0800" channel="HOY TV">
+    <title lang="zh">與鳳行</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811030000 +0800" stop="20250811033000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
+  <programme start="20250813080000 +0800" stop="20250813090000 +0800" channel="HOY TV">
+    <title lang="zh">獅子山下的故事</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811033000 +0800" stop="20250811040000 +0800" channel="HOY資訊">
-    <title lang="zh">五平方Squarefoot特約 : 樓盤傳真</title>
+  <programme start="20250813090000 +0800" stop="20250813093000 +0800" channel="HOY TV">
+    <title lang="zh">一味傍身 世界通行</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811040000 +0800" stop="20250811043000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
+  <programme start="20250813093000 +0800" stop="20250813100000 +0800" channel="HOY TV">
+    <title lang="zh">砂煲罌罉</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811043000 +0800" stop="20250811050000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
+  <programme start="20250813100000 +0800" stop="20250813103000 +0800" channel="HOY TV">
+    <title lang="zh">香港奇則 3</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811050000 +0800" stop="20250811053000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
+  <programme start="20250813103000 +0800" stop="20250813113000 +0800" channel="HOY TV">
+    <title lang="zh">我的完美秘書</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811053000 +0800" stop="20250811060000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
+  <programme start="20250813113000 +0800" stop="20250813123000 +0800" channel="HOY TV">
+    <title lang="zh">人生加油站</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811060000 +0800" stop="20250811063000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811063000 +0800" stop="20250811070000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811070000 +0800" stop="20250811073000 +0800" channel="HOY資訊">
-    <title lang="zh">Cable 早晨</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811073000 +0800" stop="20250811080000 +0800" channel="HOY資訊">
-    <title lang="zh">Cable 早晨</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811080000 +0800" stop="20250811083000 +0800" channel="HOY資訊">
-    <title lang="zh">Cable 早晨</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811083000 +0800" stop="20250811090000 +0800" channel="HOY資訊">
-    <title lang="zh">Cable 早晨</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811090000 +0800" stop="20250811100000 +0800" channel="HOY資訊">
-    <title lang="zh">股市直播室</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811100000 +0800" stop="20250811103000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811103000 +0800" stop="20250811110000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811110000 +0800" stop="20250811113000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811113000 +0800" stop="20250811120000 +0800" channel="HOY資訊">
-    <title lang="zh">家國天下</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811120000 +0800" stop="20250811123000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811123000 +0800" stop="20250811130000 +0800" channel="HOY資訊">
+  <programme start="20250813123000 +0800" stop="20250813130000 +0800" channel="HOY TV">
     <title lang="zh">午間新聞</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811130000 +0800" stop="20250811133000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
+  <programme start="20250813130000 +0800" stop="20250813133000 +0800" channel="HOY TV">
+    <title lang="zh">一線搜查</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811133000 +0800" stop="20250811140000 +0800" channel="HOY資訊">
-    <title lang="zh">智‧創未來</title>
+  <programme start="20250813133000 +0800" stop="20250813140000 +0800" channel="HOY TV">
+    <title lang="zh">煮題COOK</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811140000 +0800" stop="20250811143000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
+  <programme start="20250813140000 +0800" stop="20250813143000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811143000 +0800" stop="20250811150000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
+  <programme start="20250813143000 +0800" stop="20250813150000 +0800" channel="HOY TV">
+    <title lang="zh">遊樂溢誌</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811150000 +0800" stop="20250811153000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
+  <programme start="20250813150000 +0800" stop="20250813153000 +0800" channel="HOY TV">
+    <title lang="zh">留港開餐100強</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811153000 +0800" stop="20250811160000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
+  <programme start="20250813153000 +0800" stop="20250813160000 +0800" channel="HOY TV">
+    <title lang="zh">大宋宮詞</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811160000 +0800" stop="20250811163000 +0800" channel="HOY資訊">
-    <title lang="zh">股市直播室</title>
+  <programme start="20250813160000 +0800" stop="20250813163000 +0800" channel="HOY TV">
+    <title lang="zh">獅來運轉第一季</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811163000 +0800" stop="20250811170000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
+  <programme start="20250813163000 +0800" stop="20250813170000 +0800" channel="HOY TV">
+    <title lang="zh">龍族拼圖X</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811170000 +0800" stop="20250811173000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
+  <programme start="20250813170000 +0800" stop="20250813173000 +0800" channel="HOY TV">
+    <title lang="zh">寶可夢 旅途</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811173000 +0800" stop="20250811180000 +0800" channel="HOY資訊">
-    <title lang="zh">股市直播室</title>
+  <programme start="20250813173000 +0800" stop="20250813180000 +0800" channel="HOY TV">
+    <title lang="zh">友夫日記</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811180000 +0800" stop="20250811183000 +0800" channel="HOY資訊">
-    <title lang="zh">手語新聞報道</title>
+  <programme start="20250813180000 +0800" stop="20250813183000 +0800" channel="HOY TV">
+    <title lang="zh">白種元四季滋味</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811183000 +0800" stop="20250811184500 +0800" channel="HOY資訊">
-    <title lang="zh">六點半新聞報道</title>
+  <programme start="20250813183000 +0800" stop="20250813190000 +0800" channel="HOY TV">
+    <title lang="zh">香港奇則 3</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811184500 +0800" stop="20250811190000 +0800" channel="HOY資訊">
-    <title lang="zh">焦點財經</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811190000 +0800" stop="20250811195000 +0800" channel="HOY資訊">
+  <programme start="20250813190000 +0800" stop="20250813195000 +0800" channel="HOY TV">
     <title lang="zh">7點直播室</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811195000 +0800" stop="20250811200000 +0800" channel="HOY資訊">
+  <programme start="20250813195000 +0800" stop="20250813200000 +0800" channel="HOY TV">
     <title lang="zh">28Hse特約 : 每日樓市</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811200000 +0800" stop="20250811203000 +0800" channel="HOY資訊">
-    <title lang="zh">國際最前線</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20250811203000 +0800" stop="20250811210000 +0800" channel="HOY資訊">
+  <programme start="20250813200000 +0800" stop="20250813203000 +0800" channel="HOY TV">
     <title lang="zh">一線搜查</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811210000 +0800" stop="20250811214500 +0800" channel="HOY資訊">
-    <title lang="zh">晚間直播室</title>
+  <programme start="20250813203000 +0800" stop="20250813210000 +0800" channel="HOY TV">
+    <title lang="zh">煮題COOK</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811214500 +0800" stop="20250811220000 +0800" channel="HOY資訊">
-    <title lang="zh">焦點財經及28Hse特約:每日樓市</title>
+  <programme start="20250813210000 +0800" stop="20250813213000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811220000 +0800" stop="20250811223000 +0800" channel="HOY資訊">
-    <title lang="zh">28Hse特約：家家有求</title>
+  <programme start="20250813213000 +0800" stop="20250813220000 +0800" channel="HOY TV">
+    <title lang="zh">遊樂溢誌</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811223000 +0800" stop="20250811230000 +0800" channel="HOY資訊">
-    <title lang="zh">一線搜查</title>
+  <programme start="20250813220000 +0800" stop="20250813230000 +0800" channel="HOY TV">
+    <title lang="zh">我的完美秘書</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811230000 +0800" stop="20250811233000 +0800" channel="HOY資訊">
+  <programme start="20250813230000 +0800" stop="20250813233000 +0800" channel="HOY TV">
     <title lang="zh">有線新聞</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20250811233000 +0800" stop="20250812000000 +0800" channel="HOY資訊">
-    <title lang="zh">有線新聞</title>
+  <programme start="20250813233000 +0800" stop="20250813234500 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813234500 +0800" stop="20250814001500 +0800" channel="HOY TV">
+    <title lang="zh">一味傍身 世界通行</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250812000000 +0800" stop="20250812003000 +0800" channel="HOY資訊">
@@ -129531,6 +129387,198 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20250812233000 +0800" stop="20250813000000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813000000 +0800" stop="20250813003000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813003000 +0800" stop="20250813010000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813010000 +0800" stop="20250813013000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813013000 +0800" stop="20250813020000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813020000 +0800" stop="20250813023000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813023000 +0800" stop="20250813030000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813030000 +0800" stop="20250813033000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813033000 +0800" stop="20250813040000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813040000 +0800" stop="20250813043000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813043000 +0800" stop="20250813050000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813050000 +0800" stop="20250813053000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813053000 +0800" stop="20250813060000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813060000 +0800" stop="20250813063000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813063000 +0800" stop="20250813070000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813070000 +0800" stop="20250813073000 +0800" channel="HOY資訊">
+    <title lang="zh">Cable 早晨</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813073000 +0800" stop="20250813080000 +0800" channel="HOY資訊">
+    <title lang="zh">Cable 早晨</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813080000 +0800" stop="20250813083000 +0800" channel="HOY資訊">
+    <title lang="zh">Cable 早晨</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813083000 +0800" stop="20250813090000 +0800" channel="HOY資訊">
+    <title lang="zh">Cable 早晨</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813090000 +0800" stop="20250813100000 +0800" channel="HOY資訊">
+    <title lang="zh">股市直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813100000 +0800" stop="20250813103000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813103000 +0800" stop="20250813110000 +0800" channel="HOY資訊">
+    <title lang="zh">議員同你傾</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813110000 +0800" stop="20250813113000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813113000 +0800" stop="20250813120000 +0800" channel="HOY資訊">
+    <title lang="zh">智‧創未來</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813120000 +0800" stop="20250813123000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813123000 +0800" stop="20250813130000 +0800" channel="HOY資訊">
+    <title lang="zh">午間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813130000 +0800" stop="20250813133000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813133000 +0800" stop="20250813140000 +0800" channel="HOY資訊">
+    <title lang="zh">28Hse特約：家家有求</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813140000 +0800" stop="20250813143000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813143000 +0800" stop="20250813150000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813150000 +0800" stop="20250813153000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813153000 +0800" stop="20250813160000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813160000 +0800" stop="20250813163000 +0800" channel="HOY資訊">
+    <title lang="zh">股市直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813163000 +0800" stop="20250813170000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813170000 +0800" stop="20250813173000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813173000 +0800" stop="20250813180000 +0800" channel="HOY資訊">
+    <title lang="zh">股市直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813180000 +0800" stop="20250813183000 +0800" channel="HOY資訊">
+    <title lang="zh">手語新聞報道</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813183000 +0800" stop="20250813184500 +0800" channel="HOY資訊">
+    <title lang="zh">六點半新聞報道</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813184500 +0800" stop="20250813190000 +0800" channel="HOY資訊">
+    <title lang="zh">焦點財經</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813190000 +0800" stop="20250813195000 +0800" channel="HOY資訊">
+    <title lang="zh">7點直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813195000 +0800" stop="20250813200000 +0800" channel="HOY資訊">
+    <title lang="zh">28Hse特約 : 每日樓市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813200000 +0800" stop="20250813203000 +0800" channel="HOY資訊">
+    <title lang="zh">國際最前線</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813203000 +0800" stop="20250813210000 +0800" channel="HOY資訊">
+    <title lang="zh">一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813210000 +0800" stop="20250813214500 +0800" channel="HOY資訊">
+    <title lang="zh">晚間直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813214500 +0800" stop="20250813220000 +0800" channel="HOY資訊">
+    <title lang="zh">焦點財經及28Hse特約:每日樓市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813220000 +0800" stop="20250813223000 +0800" channel="HOY資訊">
+    <title lang="zh">家國天下</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813223000 +0800" stop="20250813230000 +0800" channel="HOY資訊">
+    <title lang="zh">一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813230000 +0800" stop="20250813233000 +0800" channel="HOY資訊">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20250813233000 +0800" stop="20250814000000 +0800" channel="HOY資訊">
     <title lang="zh">有線新聞</title>
     <desc lang="zh"> </desc>
   </programme>
