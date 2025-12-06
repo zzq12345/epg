@@ -1,4 +1,4 @@
 {
-"epg.xml" : "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgnew.xml",
- "epg.xml.gz" : "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgnew.xml.gz"
+"swepg.xml.gz" : "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/swepg.xml.gz",
+ "twepg.xml.gz" : "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/twepg.xml.gz"
 }
