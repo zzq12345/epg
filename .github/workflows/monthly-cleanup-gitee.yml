@@ -20,7 +20,7 @@ jobs:
 
       # Step 2️⃣：克隆 Gitee 仓库
       - name: Clone Gitee repository
-        run: git clone git@gitee.com:taksssss/tv.git gitee-repo
+        run: git clone git@gitee.com:zzq12345/epg.git gitee-repo
 
       # Step 3️⃣：彻底清理历史并压缩
       - name: Reset repository history and cleanup
