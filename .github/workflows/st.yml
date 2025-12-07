@@ -1,23 +1,21 @@
 name: Sync to Gitee
 on:
   push:
-    branches: [ master ]
-  workflow_dispatch:
+    branches: [ main ] # 触发分支，根据实际情况修改
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0
-      
-      - name: Mirror to Gitee
-        uses: Yikun/hub-mirror-action@master
+          fetch-depth: 0 # 获取完整历史
+
+      - name: Sync to Gitee
+        uses: wearerequired/git-mirror-action@v1
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.GITEE_RSA_PRIVATE_KEY }}
         with:
-          src: github/zzq12345
-          dst: gitee/zzq12345
-          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
-          dst_token: ${{ secrets.GITEE_TOKEN }}
-          static_list: "epg"
-          force_update: true
+          source-repo: "git@github.com:zzq12345/epg.git"
+          destination-repo: "git@gitee.com:zzq12345/epg.git"
