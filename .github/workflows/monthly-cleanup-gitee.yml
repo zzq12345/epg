@@ -1,0 +1,64 @@
+name: monthly-cleanup-gitee
+
+on:
+  schedule:
+    - cron: '0 3 1 * *'  # 每月1日凌晨3点（UTC），即北京时间早上11点
+  workflow_dispatch:
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1️⃣：配置 SSH 连接 Gitee
+      - name: Setup SSH for Gitee
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.GITEE_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan gitee.com >> ~/.ssh/known_hosts
+
+      # Step 2️⃣：克隆 Gitee 仓库
+      - name: Clone Gitee repository
+        run: git clone git@gitee.com:taksssss/tv.git gitee-repo
+
+      # Step 3️⃣：彻底清理历史并压缩
+      - name: Reset repository history and cleanup
+        run: |
+          cd gitee-repo
+          git config user.name "${{ secrets.GITEE_USER_NAME }}"
+          git config user.email "${{ secrets.GITEE_USER_EMAIL }}"
+
+          echo "🧹 正在创建孤立分支..."
+          git checkout --orphan clean
+          git add -A || echo "无文件可添加"
+          git commit -m "月度清理：$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')"
+
+          echo "🗑 删除旧 main 分支（如存在）..."
+          git branch -D main 2>/dev/null || true
+          git branch -m main
+
+          echo "⚙️ 本地执行 Git 压缩与垃圾回收..."
+          git reflog expire --expire=now --all
+          git gc --prune=now --aggressive || echo "本地 gc 已执行"
+
+          echo "🚀 强制推送到 Gitee..."
+          git push -f origin main
+
+          echo "✅ 清理完成并推送成功。仓库历史已重置。"
+
+      # Step 4️⃣：发送企业微信通知（可选）
+      - name: Send WeCom notification
+        if: success()
+        run: |
+          TOKEN=$(curl -s "https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=${{ secrets.WECOM_CID }}&corpsecret=${{ secrets.WECOM_SECRET }}" | grep -oP '"access_token":"\K[^"]+')
+          MSG="Gitee 仓库已完成月度清理 ✅\n执行时间：$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')\n如仓库体积仍大，请等待 Gitee 后台24小时垃圾回收。"
+          curl -s -X POST "https://qyapi.weixin.qq.com/cgi-bin/message/send?access_token=$TOKEN" \
+          -H "Content-Type: application/json" \
+          -d '{
+            "touser": "'${{ secrets.WECOM_TOUID }}'",
+            "msgtype": "text",
+            "agentid": "'${{ secrets.WECOM_AGENT_ID }}'",
+            "text": { "content": "'"$MSG"'" },
+            "safe": 0
+          }'
