@@ -47,18 +47,4 @@ jobs:
 
           echo "✅ 清理完成并推送成功。仓库历史已重置。"
 
-      # Step 4️⃣：发送企业微信通知（可选）
-      - name: Send WeCom notification
-        if: success()
-        run: |
-          TOKEN=$(curl -s "https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=${{ secrets.WECOM_CID }}&corpsecret=${{ secrets.WECOM_SECRET }}" | grep -oP '"access_token":"\K[^"]+')
-          MSG="Gitee 仓库已完成月度清理 ✅\n执行时间：$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')\n如仓库体积仍大，请等待 Gitee 后台24小时垃圾回收。"
-          curl -s -X POST "https://qyapi.weixin.qq.com/cgi-bin/message/send?access_token=$TOKEN" \
-          -H "Content-Type: application/json" \
-          -d '{
-            "touser": "'${{ secrets.WECOM_TOUID }}'",
-            "msgtype": "text",
-            "agentid": "'${{ secrets.WECOM_AGENT_ID }}'",
-            "text": { "content": "'"$MSG"'" },
-            "safe": 0
-          }'
+    
